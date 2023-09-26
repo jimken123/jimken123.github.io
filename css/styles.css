@@ -73,3 +73,12 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+/* Center Images */
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
