@@ -4,7 +4,7 @@ This is my repo that generates my https://jimken123.github.io landing page.
 
 ## Build your own version of this page on GitHub Pages
 
-GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
+GitHub makes it easy to create personal websites. Go to [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
 
 If you already have a GitHub profile (obviously):
 
