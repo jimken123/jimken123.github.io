@@ -2,12 +2,7 @@
 
 This is my repo that generates my https://jimken123.github.io landing page. 
 
-## Themes
-
-
-If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
-
-## GitHub Pages
+## Build your own version of this page on GitHub Pages
 
 GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
 
@@ -19,8 +14,6 @@ If you already have a GitHub profile (obviously):
 * `git push`
 
 Voila! Your site should be live at `https://{username}.github.io`
-
-Here's my **Dev Landing Page** - [Dinesh Pandiyan - v1](https://v1.dineshpandiyan.com/)
 
 ### Custom Domain
 
