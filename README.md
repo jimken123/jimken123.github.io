@@ -1,6 +1,6 @@
-# Welcome to the jimken123.github.io landing page repo
+# Splash page for jimken123.github.io
 
-This is my repo that generates my https://jimken123.github.io landing page. 
+This is my repo that generates my https://jimken123.github.io splash page. 
 
 ## Build your own version of this page on GitHub Pages
 
