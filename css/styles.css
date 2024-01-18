@@ -45,12 +45,18 @@ main {
 
 main > .intro {
 	font-family: 'Reem Kufi', sans-serif;
-	font-size: 3.75em;
+	font-size: 2.75em;
 	font-weight: 600;
 }
 
 main > .tagline {
 	font-size: 1.5rem;
+	margin: 1.5rem 0;
+	font-weight: 100;
+}
+
+main > .link {
+	font-size: 1.0rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
 }
@@ -80,5 +86,12 @@ main > .tagline {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 40%;
+	width: 50%;
+  }
+
+/* Links */
+
+a {
+	color: #ff6900;
+	text-decoration: none;
   }
