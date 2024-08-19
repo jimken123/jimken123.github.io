@@ -2,7 +2,7 @@
 
 After 20+ years, mananamanana.com moves to Github, Jekyll, and all that, and away from the hand-crafted html and spacer.gifs of yore. We still don't jetpacks but, hey, we have markdown files and Github actions at least. Automagical website!
 
-The long-dormant front page has been migrated to a Jekyll blog, based on [{ Personal } Jekyll Theme](https://le4ker.github.io/personal-jekyll-theme/). Also transformed is /ohpiglet, continuing to chart the lives of the three monkeys and a woodland creature of the forest floor that we found up a tree. Originally a Tumblr, then a wWrdPress, and now a Jekyll blog.
+The long-dormant front page has been migrated to a Jekyll blog, based on [{ Personal } Jekyll Theme](https://le4ker.github.io/personal-jekyll-theme/). Also transformed is [/ohpiglet](https://ohpiglet.mananamanana.com), continuing to chart the lives of the three monkeys and a woodland creature of the forest floor that we found up a tree. Originally a Tumblr, then a WordPress, and now a Jekyll blog.
 
 ## My changes
 
@@ -79,7 +79,6 @@ This is a general list of what needs to be added.
 
 #### Most Important/Now
 
-- [] repoint dns from mm to gh
 - [] repopulate mm on gh
 - [] add various subdomains
 
@@ -118,7 +117,6 @@ This is a general list of what needs to be added.
 
 - Eno
 - Write about the liberation of creating twitter archive
-- Dublin Opinion stuff (short)
 - Herbert Park Rangers Football Club
 - The year/week in review
 - List of top 100 books - like https://www.openculture.com/2013/10/david-bowies-list-of-top-100-books.html
@@ -210,6 +208,8 @@ The river runs low
 
 #### Done
 
+- [X] Dublin Opinion stuff (short blogpost)
+- [X] repoint dns from mm to gh
 - [X] copy ohpiglet from mm/ohpiglet to github
 - [X] download Wordpress ohpiglet content
 - [X] remove the splash page and go direct to nu-blog index
