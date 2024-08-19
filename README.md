@@ -2,7 +2,7 @@
 
 After 20+ years, mananamanana.com moves to Github, Jekyll, and all that, and away from the hand-crafted html and spacer.gifs of yore. We still don't jetpacks but, hey, we have markdown files and Github actions at least. Automagical website!
 
-The long-dormant front page has been migrated to a Jekyll blog, based on [{ Personal } Jekyll Theme](https://le4ker.github.io/personal-jekyll-theme/). Also transformed is /ohpiglet, continuing to chart the lives of the three monkeys and a woodland creature of the forest floor that we found up a tree. Originally a Tumblr, then a wWrdPress, and now a Jekyll blog.
+The long-dormant front page has been migrated to a Jekyll blog, based on [{ Personal } Jekyll Theme](https://le4ker.github.io/personal-jekyll-theme/). Also transformed is [/ohpiglet](https://ohpiglet.mananamanana.com), continuing to chart the lives of the three monkeys and a woodland creature of the forest floor that we found up a tree. Originally a Tumblr, then a WordPress, and now a Jekyll blog.
 
 ## My changes
 
