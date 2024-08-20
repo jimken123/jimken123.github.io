@@ -115,9 +115,9 @@ This is a general list of what needs to be added.
 
 #### Blogposts
 
+- Herbert Park Rangers Football Club
 - Eno
 - Write about the liberation of creating twitter archive
-- Herbert Park Rangers Football Club
 - The year/week in review
 - List of top 100 books - like https://www.openculture.com/2013/10/david-bowies-list-of-top-100-books.html
 - Manifesto
