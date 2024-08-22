@@ -80,7 +80,10 @@ This is a general list of what needs to be added.
 #### Most Important/Now
 
 - [] repopulate mm on gh
-- [] add various subdomains
+- [] add various subdomains:
+
+/twitter - https://twitter.mananamanana.com is broken
+/scotland - https://scotland.mananamanana.com is broken
 
 #### Secondary Importance
 
