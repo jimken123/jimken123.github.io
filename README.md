@@ -73,19 +73,7 @@ This is what I need to do.
 
 - remove all content from blacknight
 
-### Need to add
-
-This is a general list of what needs to be added.
-
-#### Most Important/Now
-
-- [] repopulate mm on gh
-- [] add various subdomains:
-
-/twitter - https://twitter.mananamanana.com is broken
-/scotland - https://scotland.mananamanana.com is broken
-
-#### Secondary Importance
+### Next up
 
 - Outsider article by Jim (messy html)- Old article on kayaking in Latin America. 
 - Outsider article by Coran (pdf) on Grand Canyon
@@ -93,7 +81,7 @@ This is a general list of what needs to be added.
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
 - old landing pages
 
-#### Not Important/Later
+### Not Important/Later
 
 - Can I build FB archive? - It's under settings & privacy, apparently.
 - add webmentions
@@ -104,7 +92,7 @@ This is a general list of what needs to be added.
 - RSS FEED - The RSS feed is automatically generated and placed in /feed.xml.
 - SITEMAP - The Sitemap is automatically generated and placed in /sitemap.xml
 
-#### Add Gallery
+### Add Gallery
 
 - rebuild the gallery in Jekyll - already started
 - add snowboarding from desktop
@@ -118,7 +106,6 @@ This is a general list of what needs to be added.
 
 #### Blogposts
 
-- Herbert Park Rangers Football Club
 - Eno
 - Write about the liberation of creating twitter archive
 - The year/week in review
@@ -142,12 +129,7 @@ This is a general list of what needs to be added.
 
 ### Blacknight
 
-- remove Scotland content once it's up on repos
-- point name servers to cloudflare
-- check Scotland content is still up
-- remove all content once it's up on repos
-- remove autorenew ssl cert
-- remove autorenew storage pack
+- Delete remaining content
   
 ### Inspiring ideas
 
@@ -211,6 +193,13 @@ The river runs low
 
 #### Done
 
+- [X] Herbert Park Rangers Football Club
+- [X] remove autorenew ssl cert
+- [X] remove autorenew storage pack
+- [X] remove Scotland content once it's up on repos
+- [X] point name servers to cloudflare
+- [X] check Scotland content is still up
+- [X] remove all content once it's up on repos
 - [X] Dublin Opinion stuff (short blogpost)
 - [X] repoint dns from mm to gh
 - [X] copy ohpiglet from mm/ohpiglet to github
