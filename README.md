@@ -29,6 +29,12 @@ View locally:
 
 [http://127.0.0.1:4000](http://127.0.0.1:4000)
 
+## Troubleshoot the Gemfile nonsense
+
+JFC, what the fuck even are gemfiles?
+
+Anyway, they break stuff and bundler blah blah and your can fix it repeatedly with monkey-see monkey-do from [here](https://jekyllrb.com/docs/ruby-101/).
+
 ## RSS feed
 
 The RSS feed is automatically generated and placed in /feed.xml.
