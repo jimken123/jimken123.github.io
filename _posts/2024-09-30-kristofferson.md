@@ -5,7 +5,7 @@ title: Sistering, Kris Kristofferson, and War
 tags: [ '' ]
 ---
 
-Theres a term in carpentry that I like, for some reason it's been on my mind for a while: sistering. When a roof beam is having trouble doing its job and needs an extra bit of help, the idea is to aid the struggling beam with an accompanying one that sits alongside it, helping carry the weight. The analogy is obvious, really, in the term 'sistering the beam.'
+There's a term in carpentry that I like, for some reason it's been on my mind for a while: sistering. When a roof beam is having trouble doing its job and needs an extra bit of help, the idea is to aid the struggling beam with an accompanying one that sits alongside it, helping carry the weight. The analogy is obvious, really, in the term 'sistering the beam.'
 
 This has been on my mind lately as I've been turning my shed into something else and adding a floor on top of the beams. One beam has been directly under a hole in the slate roof for, perhaps, decades, definitely since long before I bought the house. The beam is perhaps one third rotted through but it's still hanging there. I decided that instead of trying to replacing it, I would 'sister' it.
 
