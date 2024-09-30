@@ -27,6 +27,6 @@ Perhaps, like the beam in my shed, she didn't need the help but the help was the
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3HwWDOQoCBM?si=QF7KqgO_cJ0hHqfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
-One aspect of the carpentry use of the 'sistering' technique is how it's doesn't attempt to replace the struggling beam or push it out of the way in any fashion, but stands beside it and literally carried the load alongside. It seems a very female way of working - augmenting the efforts done so far, without pushing anything aside or taking control. 
+One aspect of the carpentry use of the 'sistering' technique that I particularly like is how it doesn't attempt to replace the struggling beam or take away its ownership of the task in any fashion, but stands beside it and literally carries the load alongside. It seems a very female way of working - augmenting the efforts done so far, without pushing anything aside or taking control.
 
 Anyway, that's where I am today; listening to Kristofferson and wearing my cleanest dirty shirt.
