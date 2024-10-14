@@ -15,13 +15,13 @@ While figuring this out and propping up the beam last week ahead of putting floo
 
 Way back in 1994, just days after Sinéad had ripped up her mother's photo of the pope, live on US TV, she was due to sing at a Bob Dylan tribute concert. She was introduced onstage by Kris Kristofferson and then the crowd attempted to boo her off it. Zero chance of that happening. Famously, Kristofferson came back onstage to support her. He told her not to let the bastards get her down, and she replied 'I'm not down.' He didn't do the 'manly' thing of grabbing the mike, he did the 'sisterly' thing. And then Sinéad sang Bob Marley's 'War.'
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TKeJifOXAnA?si=q5M9pkqVFpSoZ6in" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/TKeJifOXAnA' frameborder='0' allowfullscreen></iframe></div>
 
 Perhaps, like the beam in my shed, she didn't need the help but the help was there in any case. 
 
 'Sister Sinéad' is the song Kristofferson wrote about that.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3HwWDOQoCBM?si=QF7KqgO_cJ0hHqfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/3HwWDOQoCBM' frameborder='0' allowfullscreen></iframe></div>
 
 One aspect of the carpentry use of the 'sistering' technique that I particularly like is how it doesn't attempt to replace the struggling beam or take away its ownership of the task in any fashion, but stands beside it and literally carries the load alongside. It seems a very female way of working - augmenting the efforts done so far, without pushing anything aside or taking control.
 
