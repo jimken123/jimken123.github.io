@@ -106,7 +106,7 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 #### Pages
 
-- [ ] TsundokU - My year in books. Keep adding to the list of what I've read.
+- [x] TsundokU - My year in books. Keep adding to the list of what I've read.
 
 #### Blogposts
 
