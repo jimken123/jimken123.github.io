@@ -69,78 +69,73 @@ In the .md file call the image with this syntax:
 ./scripts/generate-tags
 ```
 
+## Add video responsively
+
+GitHub doesn't accept uploading of video so I use Vimeo or YouTube. The default embed codes from those hosts, however, doesn't play nice on mobile. To generate responsive embed code that does play nice on desktop and mobile go to [http://embedresponsively.com]http://embedresponsively.com).
+
 ## TODO
 
-Due date is beginning of September 2024...
-
-### Tech fixes
-
-This is what I need to do.
-
-- remove all content from blacknight
+A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 ### Next up
 
-- Outsider article by Jim (messy html)- Old article on kayaking in Latin America. 
-- Outsider article by Coran (pdf) on Grand Canyon
-- gallery (see below)
-- About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
-- old landing pages
+- [ ] Outsider article by Jim (messy html)- Old article on kayaking in Latin America. 
+- [ ] Outsider article by Coran (pdf) on Grand Canyon
+- [ ] gallery (see below)
+- [ ] About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
+- [ ] old landing pages
 
 ### Not Important/Later
 
-- Can I build FB archive? - It's under settings & privacy, apparently.
-- add webmentions
-- add dark mode - like in https://mademistakes.com/mastering-jekyll/how-to-link/
-- add activitypub
-- add search bar
-- anything in the EXTRA folder
-- RSS FEED - The RSS feed is automatically generated and placed in /feed.xml.
-- SITEMAP - The Sitemap is automatically generated and placed in /sitemap.xml
+- [ ] Can I build FB archive? - It's under settings & privacy, apparently.
+- [ ] add webmentions
+- [ ] add dark mode - like in https://mademistakes.com/mastering-jekyll/how-to-link/
+- [ ] add activitypub
+- [ ] add search bar
+- [ ] anything in the EXTRA folder
+- [ ] RSS FEED - The RSS feed is automatically generated and placed in /feed.xml.
+- [ ] SITEMAP - The Sitemap is automatically generated and placed in /sitemap.xml
 
 ### Add Gallery
 
-- rebuild the gallery in Jekyll - already started
-- add snowboarding from desktop
-- add Corsica maybe from desktop
+- [ ] rebuild the gallery in Jekyll - already started
+- [ ] add snowboarding from desktop
+- [ ] add Corsica maybe from desktop
 
 ### Drafts folder and list of ideas
 
 #### Pages
 
-- Tsundoko - My year in books. Keep adding to the list of what I've read.
+- [ ] Tsundoko - My year in books. Keep adding to the list of what I've read.
 
 #### Blogposts
 
-- Eno
-- Write about the liberation of creating twitter archive
-- The year/week in review
-- List of top 100 books - like https://www.openculture.com/2013/10/david-bowies-list-of-top-100-books.html
-- Manifesto
+- [ ] Eno
+- [ ] Write about the liberation of creating twitter archive
+- [ ] The year/week in review
+- [ ] List of top 100 books - like https://www.openculture.com/2013/10/david-bowies-list-of-top-100-books.html
+- [ ] Manifesto
 -- Vitsoe.com 10 rules
 -- Dieter rams 10 principles of good design
-- Reason for... blogpost
-- Rumours of firewood
-- Write about Llavorsí
-- Write about shed
-- Public commitment to build a thing a week
-- Dubliners map, mastodon.ie, bot
-- Mastodon Book Toot
+- [ ] Reason for... blogpost
+- [ ] Rumours of firewood
+- [ ] Write about Llavorsí
+- [ ] Write about shed
+- [ ] Public commitment to build a thing a week
+- [ ] Dubliners map, mastodon.ie, bot
+- [ ] Mastodon Book Toot
+- [ ] Splash pages from splashpages.net
 
 ### Export Wordpress
 
-- Devopslife.io - export wordpress - https://devopslife.io/migrating-wordpress-to-github-pages/
-- https://www.logitblog.com/moved-away-from-wordpress-to-github-pages/ 
-- https://kwon.nyc/colophon/ - plausible and typefaces
-
-### Blacknight
-
-- Delete remaining content
+- [ ] Devopslife.io - export wordpress - https://devopslife.io/migrating-wordpress-to-github-pages/
+- [ ] https://www.logitblog.com/moved-away-from-wordpress-to-github-pages/ 
+- [ ] https://kwon.nyc/colophon/ - plausible and typefaces
   
 ### Inspiring ideas
 
-- Weeknotes - a blogpost ever week, just compiling things you do in the week - https://tomstu.art/weeknotes-204-expensive-coffee
-- https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/
+- [ ] Weeknotes - a blogpost ever week, just compiling things you do in the week - https://tomstu.art/weeknotes-204-expensive-coffee
+- [ ] https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/
 
 ### From Rebecca
 
@@ -199,6 +194,7 @@ The river runs low
 
 #### Done
 
+- [x] remove all content from blacknight
 - [X] Herbert Park Rangers Football Club
 - [X] remove autorenew ssl cert
 - [X] remove autorenew storage pack
