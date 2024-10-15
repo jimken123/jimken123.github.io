@@ -33,7 +33,7 @@ View locally:
 
 JFC, what the fuck even are gemfiles?
 
-Anyway, they break stuff and bundler blah blah and your can fix it repeatedly with monkey-see monkey-do from [here](https://jekyllrb.com/docs/ruby-101/).
+Anyway, they break stuff and bundler blah blah and you can fix it repeatedly with monkey-see monkey-do from [here](https://jekyllrb.com/docs/ruby-101/).
 
 ## RSS feed
 
@@ -71,7 +71,7 @@ In the .md file call the image with this syntax:
 
 ## Add video responsively
 
-GitHub doesn't accept uploading of video so I use Vimeo or YouTube. The default embed codes from those hosts, however, doesn't play nice on mobile. To generate responsive embed code that does play nice on desktop and mobile go to [http://embedresponsively.com]http://embedresponsively.com).
+GitHub doesn't accept uploading of video so I use Vimeo or YouTube. The default embed codes from those hosts, however, doesn't play nice on mobile. To generate responsive embed code that does play nice on desktop and mobile go to [http://embedresponsively.com](http://embedresponsively.com).
 
 ## TODO
 
@@ -106,7 +106,7 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 #### Pages
 
-- [ ] Tsundoko - My year in books. Keep adding to the list of what I've read.
+- [ ] TsundokU - My year in books. Keep adding to the list of what I've read.
 
 #### Blogposts
 
