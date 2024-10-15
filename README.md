@@ -106,7 +106,7 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 #### Pages
 
-- [x] TsundokU - My year in books. Keep adding to the list of what I've read.
+- [ ] splashpages.net
 
 #### Blogposts
 
@@ -194,6 +194,7 @@ The river runs low
 
 #### Done
 
+- [x] Tsundoku - My year in books. Keep adding to the list of what I've read.
 - [x] remove all content from blacknight
 - [X] Herbert Park Rangers Football Club
 - [X] remove autorenew ssl cert
