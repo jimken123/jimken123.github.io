@@ -30,26 +30,35 @@
             </li>            
             <li class="nav-item">
               <a target="_self" class="nav-link" href="{{site.baseurl}}/projects">projects</i></a>
-              <img src="/img/arrow-down.png" alt="icon for down arrow" />
-              <ul class="nav-item">
-                <li><a href="{{site.baseurl}}/about">A1</a></li>
-                <li><a href="{{site.baseurl}}/about">A2</a></li>
-              </ul>
             </li>
             <li class="nav-item">
               <a target="_self" class="nav-link" href="{{site.baseurl}}/about">about</i></a>
             </li>
-
             <li class="nav-item">
-              <a target="_self" class="nav-link" >foo</i></a>
-              <img src="/img/arrow-down.png" alt="icon for down arrow" />
-              <ul class="submenu">
-                <li>Front End</li>
-                <li>Full Stack </li>
-                <li><a target="_self" class="nav-link" href="{{site.baseurl}}/about">about</i></a></li>
-                <li>Data Lake</li>
-              </ul>
+            
+            <li>
+              <a class="nav-link" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2">foo <img src="./img/arrow-down.png" ></a>
+              
             </li>
+            
+            
+            <div class="row">
+              <div class="col">
+                <div class="collapse multi-collapse" id="multiCollapseExample1">
+                  <div class="card card-body">
+                    <a target="_self" class="nav-link" href="{{site.baseurl}}/about">about</i></a>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="collapse multi-collapse" id="multiCollapseExample2">
+                  <div class="card card-body">
+                    <a target="_self" class="nav-link" href="{{site.baseurl}}/about">about</i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
 
       </ul>
       
