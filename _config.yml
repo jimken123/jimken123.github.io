@@ -218,9 +218,5 @@ gems:
 
 plugins: [jekyll-paginate]
 
-# Render pages in _pages folder
-
-include:
-  - page
 
 permalink: /:title:output_ext
