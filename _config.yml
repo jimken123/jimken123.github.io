@@ -222,3 +222,8 @@ plugins: [jekyll-paginate]
 
 include:
   - _pages
+
+
+defaults:
+  -
+    permalink: "/:title:output_pages"
