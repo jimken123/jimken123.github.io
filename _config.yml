@@ -223,7 +223,6 @@ plugins: [jekyll-paginate]
 include:
   - _pages
 
-
 defaults:
   -
-    permalink: "/:title:_pages/"
+    permalink: /:title
