@@ -221,6 +221,6 @@ plugins: [jekyll-paginate]
 # Render pages in _pages folder
 
 include:
-  - _pages
+  - page
 
 permalink: /:title:output_ext
