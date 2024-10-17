@@ -86,6 +86,7 @@ lines: # You can add HTML Tags in the Text
 ##############################
 # Color the browser elements #
 ##############################
+
 color-browser: "#000000"
 apple-status-bar-style: "black"
 
@@ -216,3 +217,8 @@ gems:
   - jemoji
 
 plugins: [jekyll-paginate]
+
+# Render pages in _pages folder
+
+include:
+  - _pages
