@@ -226,4 +226,4 @@ include:
 
 defaults:
   -
-    permalink: "/:title:output_pages"
+    permalink: "/:title:_pages"
