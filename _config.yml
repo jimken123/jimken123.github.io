@@ -223,6 +223,4 @@ plugins: [jekyll-paginate]
 include:
   - _pages
 
-defaults:
-  -
-    permalink: /:title
+permalink: /:title:output_ext
