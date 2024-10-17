@@ -226,4 +226,4 @@ include:
 
 defaults:
   -
-    permalink: "/:title:_pages"
+    permalink: "/:title:_pages/"
