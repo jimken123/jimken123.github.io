@@ -218,5 +218,5 @@ gems:
 
 plugins: [jekyll-paginate]
 
-
-permalink: /:title:output_ext
+defaults:
+  - permalink: /:title:output_ext
