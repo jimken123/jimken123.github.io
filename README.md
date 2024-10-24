@@ -11,38 +11,6 @@ The long-dormant front page has been migrated to a Jekyll blog, based on [{ Pers
 * Removed a bunch of stuff I don't need.
 * Dark mode yo!
 
-## How to run locally
-
-Install jekyll and dependencies:
-
-```shell
-./scripts/install
-```
-
-Build locally:
-
-```shell
-./scripts/serve-production
-```
-
-View locally:
-
-[http://127.0.0.1:4000](http://127.0.0.1:4000)
-
-## Troubleshoot the Gemfile nonsense
-
-JFC, what the fuck even are gemfiles?
-
-Anyway, they break stuff and bundler blah blah and you can fix it repeatedly with monkey-see monkey-do from [here](https://jekyllrb.com/docs/ruby-101/).
-
-## RSS feed
-
-The RSS feed is automatically generated and placed in /feed.xml.
-
-## Sitemap
-
-The Sitemap is automatically generated and placed in /sitemap.xml.
-
 ## Create a new blogpost
 
 Go to the **/_posts** folder and create a file with the name of the form **YYYY-MM-DD-foo.md**.
@@ -66,15 +34,47 @@ Update the title, edit/delete tags, etc. Oh, and add some content.
 
 Upload any images to the **/img/YYYY** folder.
 
+## Add video responsively
+
+GitHub doesn't accept uploading of video so I use Vimeo or YouTube. The default embed codes from those hosts, however, doesn't play nice on mobile. To generate responsive embed code that does play nice on desktop and mobile go to [http://embedresponsively.com](http://embedresponsively.com).
+
+## How to run locally
+
+Install jekyll and dependencies:
+
+```shell
+./scripts/install
+```
+
+Build locally:
+
+```shell
+./scripts/serve-production
+```
+
+View a totally unrepresentative local version:
+
+[http://127.0.0.1:4000](http://127.0.0.1:4000)
+
+## Troubleshoot the Gemfile nonsense
+
+JFC, what the fuck even are gemfiles?
+
+Anyway, they break stuff and bundler blah blah and you can fix it repeatedly with monkey-see monkey-do from [here](https://jekyllrb.com/docs/ruby-101/).
+
+## RSS feed
+
+The RSS feed is automatically generated and placed in /feed.xml.
+
+## Sitemap
+
+The Sitemap is automatically generated and placed in /sitemap.xml.
+
 ## Generate tag pages
 
 ```shell
 ./scripts/generate-tags
 ```
-
-## Add video responsively
-
-GitHub doesn't accept uploading of video so I use Vimeo or YouTube. The default embed codes from those hosts, however, doesn't play nice on mobile. To generate responsive embed code that does play nice on desktop and mobile go to [http://embedresponsively.com](http://embedresponsively.com).
 
 ## TODO
 
