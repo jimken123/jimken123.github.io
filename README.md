@@ -45,23 +45,26 @@ The Sitemap is automatically generated and placed in /sitemap.xml.
 
 ## Create a new blogpost
 
-Run the script with the file name of the post as an argument:
+Go to the ./_posts folder and create a file with the name of the form YYYY-MM-DD-foo.md.
+
+Add the boilerplate content like this:
 
 ```shell
-./scripts/newpost hello-world
-```
+---
+layout: post
+section-type: post
+title: Foo
+tags: [ '' ]
+---
 
-A new post template with name YYYY-MM-DD-hello-world.md will be created under ./_posts, with the current date. Update the title, edit/delete tags, etc. Oh, and add some content.
+Lorem ipsum dolor.
 
-## Add an image to a blogpost
-
-Images for a new blogpost should be added to the /img/YYYY folder.
-
-In the .md file call the image with this syntax:
-
-```shell
 <img src="{{site.baseurl}}/img/YYYY/image-name.jpg" alt="alt text.">
 ```
+
+Update the title, edit/delete tags, etc. Oh, and add some content.
+
+Upload any images to the **/img/YYYY** folder.
 
 ## Generate tag pages
 
