@@ -45,7 +45,7 @@ The Sitemap is automatically generated and placed in /sitemap.xml.
 
 ## Create a new blogpost
 
-Go to the ./_posts folder and create a file with the name of the form YYYY-MM-DD-foo.md.
+Go to the **/_posts** folder and create a file with the name of the form **YYYY-MM-DD-foo.md**.
 
 Add the boilerplate content like this:
 
