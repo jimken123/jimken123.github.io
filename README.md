@@ -11,6 +11,33 @@ The long-dormant front page has been migrated to a Jekyll blog, based on [{ Pers
 * Removed a bunch of stuff I don't need.
 * Dark mode yo!
 
+## Create a new blogpost
+
+Go to the **/_posts** folder and create a file with the name of the form **YYYY-MM-DD-foo.md**.
+
+Add the boilerplate content like this:
+
+```shell
+---
+layout: post
+section-type: post
+title: Foo
+tags: [ '' ]
+---
+
+Lorem ipsum dolor.
+
+<img src="{{site.baseurl}}/img/YYYY/image-name.jpg" alt="alt text.">
+```
+
+Update the title, edit/delete tags, etc. Oh, and add some content.
+
+Upload any images to the **/img/YYYY** folder.
+
+## Add video responsively
+
+GitHub doesn't accept uploading of video so I use Vimeo or YouTube. The default embed codes from those hosts, however, doesn't play nice on mobile. To generate responsive embed code that does play nice on desktop and mobile go to [http://embedresponsively.com](http://embedresponsively.com).
+
 ## How to run locally
 
 Install jekyll and dependencies:
@@ -25,7 +52,7 @@ Build locally:
 ./scripts/serve-production
 ```
 
-View locally:
+View a totally unrepresentative local version:
 
 [http://127.0.0.1:4000](http://127.0.0.1:4000)
 
@@ -43,35 +70,11 @@ The RSS feed is automatically generated and placed in /feed.xml.
 
 The Sitemap is automatically generated and placed in /sitemap.xml.
 
-## Create a new blogpost
-
-Run the script with the file name of the post as an argument:
-
-```shell
-./scripts/newpost hello-world
-```
-
-A new post template with name YYYY-MM-DD-hello-world.md will be created under ./_posts, with the current date. Update the title, edit/delete tags, etc. Oh, and add some content.
-
-## Add an image to a blogpost
-
-Images for a new blogpost should be added to the /img/YYYY folder.
-
-In the .md file call the image with this syntax:
-
-```shell
-<img src="{{site.baseurl}}/img/YYYY/image-name.jpg" alt="alt text.">
-```
-
 ## Generate tag pages
 
 ```shell
 ./scripts/generate-tags
 ```
-
-## Add video responsively
-
-GitHub doesn't accept uploading of video so I use Vimeo or YouTube. The default embed codes from those hosts, however, doesn't play nice on mobile. To generate responsive embed code that does play nice on desktop and mobile go to [http://embedresponsively.com](http://embedresponsively.com).
 
 ## TODO
 
