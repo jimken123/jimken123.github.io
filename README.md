@@ -80,6 +80,10 @@ The Sitemap is automatically generated and placed in /sitemap.xml.
 
 A rolling to do list, with a satisfying 'Done' section at the bottom.
 
+### Domain renewal
+
+Domain renewal is due in March 2025. It should be automatic but best to check.
+
 ### Next up
 
 - [ ] Outsider article by Jim (messy html)- Old article on kayaking in Latin America. 
