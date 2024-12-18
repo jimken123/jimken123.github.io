@@ -201,7 +201,7 @@ The river runs low
 
 #### Done
 
-- [x] Tsundoku - My year in books. Keep adding to the list of what I've read.
+- [x] Tsundoko - My year in books. Keep adding to the list of what I've read.
 - [x] remove all content from blacknight
 - [X] Herbert Park Rangers Football Club
 - [X] remove autorenew ssl cert
