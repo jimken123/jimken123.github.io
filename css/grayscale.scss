@@ -522,6 +522,8 @@ hr.gradient {
   /* Table for /jetcim */
    .table {
         border-collapse: collapse;
+        max-width: 100%;
+        margin: 0 auto;
     }
    .table td {
         padding: 5px;
