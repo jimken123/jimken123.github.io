@@ -520,17 +520,17 @@ hr.gradient {
   .dropdown:hover .dropdown-content {display: block;}
   
   /* Table for /jetcim */
-   table {
+   .table {
         border-collapse: collapse;
     }
-    table td {
+   .table td {
         padding: 5px;
     }
 
-    table tbody td {
+    .table tbody td {
         color: #000000;
         border: 1px solid #000000;
     }
-    table tbody tr {
+    .table tbody tr {
         background-color: #ff6900;
     }
