@@ -519,3 +519,8 @@ hr.gradient {
   /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content {display: block;}
   
+  .table {
+    border-collapse: collapse;
+    width: 90%;
+    text-align: center;
+  }
