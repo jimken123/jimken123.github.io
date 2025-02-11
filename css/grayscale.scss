@@ -521,8 +521,8 @@ hr.gradient {
   
   /* Table for /jetcim */
 
-  .gridtable {
-    border-collapse: collapse;
-    width: 90%;
-    text-align: center;
-  }
+  #cssTable td 
+{
+    text-align: center; 
+    vertical-align: middle;
+}
