@@ -518,22 +518,3 @@ hr.gradient {
   
   /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content {display: block;}
-  
-  /* Table for /jetcim */
-   .table {
-        border-collapse: collapse;
-        max-width: 100%;
-        margin: 0 auto;
-        font-family: "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
-    }
-   .table td {
-        padding: 5px;
-    }
-
-    .table tbody td {
-        color: #4F7942;
-        border: 1px solid #000000;
-    }
-    .table tbody tr {
-        background-color: #ff6900;
-    }
