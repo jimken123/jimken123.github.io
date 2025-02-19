@@ -6,4 +6,3 @@ $img = array_rand($img_array);
 //Display the image on the page
 echo '<img alt="'.$img_array[$img].'" src="'.$img_array[$img].'" />';
 ?> 
-img/2024
