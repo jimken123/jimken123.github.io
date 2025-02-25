@@ -170,7 +170,7 @@ social:
   - title: "rss"
     url: "/feed.xml"
   - title: "mastodon"
-    url: "https://mastodon.social/jimkennedy"
+    url: "https://mas.to/@jimkennedy"
 
 ############
 # 404 page #
