@@ -58,6 +58,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Indecision is the key to flexibility"
   - text: "Walk in the light, while there is light"
+  - text: "...shine out in the wild kindness"
   - text: "La indecisió és la clau de la flexibilitat"
   - text: "All this is a dream. Still examine it by a few experiments"
   - text: "La indecisión es la clave de la flexibilidad"
