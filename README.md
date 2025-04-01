@@ -80,12 +80,9 @@ The Sitemap is automatically generated and placed in /sitemap.xml.
 
 A rolling to do list, with a satisfying 'Done' section at the bottom.
 
-### Domain renewal
-
-Domain renewal is due in March 2025. It should be automatic but best to check.
-
 ### Next up
 
+- [ ] Add commenting to /ohp
 - [ ] Outsider article by Jim (messy html)- Old article on kayaking in Latin America. 
 - [ ] Outsider article by Coran (pdf) on Grand Canyon
 - [ ] gallery (see below)
@@ -201,6 +198,7 @@ The river runs low
 
 #### Done
 
+- [x] Domain renewal is due in March 2025. It should be automatic but best to check.
 - [x] Tsundoko - My year in books. Keep adding to the list of what I've read.
 - [x] remove all content from blacknight
 - [X] Herbert Park Rangers Football Club
