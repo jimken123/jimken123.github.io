@@ -83,6 +83,7 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 ### Next up
 
 - [ ] Add commenting to /ohp
+- [ ] Fix Search page to show more that just one page of results.
 - [ ] Outsider article by Jim (messy html)- Old article on kayaking in Latin America. 
 - [ ] Outsider article by Coran (pdf) on Grand Canyon
 - [ ] gallery (see below)
