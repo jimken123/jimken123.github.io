@@ -82,7 +82,6 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 ### Next up
 
-- [ ] Fix /ohp Search page to show more that just one page of results.
 - [ ] Add commenting to /ohp
 - [ ] Outsider article by Jim (messy html)- Old article on kayaking in Latin America. 
 - [ ] Outsider article by Coran (pdf) on Grand Canyon
@@ -109,10 +108,6 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 ### Drafts folder and list of ideas
 
-#### Pages
-
-- [ ] splashpages.net
-
 #### Blogposts
 
 - [ ] Eno
@@ -129,16 +124,10 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 - [ ] Public commitment to build a thing a week
 - [ ] Dubliners map, mastodon.ie, bot
 - [ ] Mastodon Book Toot
-- [ ] Splash pages from splashpages.net
 
-### Export Wordpress
-
-- [ ] Devopslife.io - export wordpress - https://devopslife.io/migrating-wordpress-to-github-pages/
-- [ ] https://www.logitblog.com/moved-away-from-wordpress-to-github-pages/ 
-- [ ] https://kwon.nyc/colophon/ - plausible and typefaces
-  
 ### Inspiring ideas
-
+ 
+- [ ] https://kwon.nyc/colophon/ - plausible and typefaces
 - [ ] Weeknotes - a blogpost ever week, just compiling things you do in the week - https://tomstu.art/weeknotes-204-expensive-coffee
 - [ ] https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/
 
@@ -199,6 +188,10 @@ The river runs low
 
 #### Done
 
+<<<<<<< HEAD
+=======
+- [x] splashpages.net
+- [x] Fix /ohp Search page to show more that just one page of results.
 - [x] Reduce margins on pages and posts, particularly for mobile.
 - [x] Domain renewal is due in March 2025. It should be automatic but best to check.
 - [x] Tsundoko - My year in books. Keep adding to the list of what I've read.
