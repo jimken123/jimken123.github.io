@@ -10,7 +10,11 @@ permalink: /now/
 
 These are the things I'm working on, or updating as I go.
 
-[/hello](/hello.html) - how to get in touch, or just where to find my stuff.
+[/hello](/hello) - how to get in touch, or just where to find my stuff.
+
+[/hello](/_pages/hello) - how to get in touch, or just where to find my stuff.
+
+[/hello](hello) - how to get in touch, or just where to find my stuff.
 
 [/jetcim](jetcim.html) - one by one I'm sitting on all the chairlifts.
 
