@@ -3,6 +3,7 @@ layout: page
 section-type: page
 title: Recipes
 tags: [ '' ]
+permalink: /recipe/
 ---
 
 ## Recipes

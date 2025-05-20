@@ -3,6 +3,7 @@ layout: page
 section-type: gallery
 title: Grand Canyon
 tags: [ '' ]
+permalink: /grand-canyon/
 ---
 
 ## Grand Canyon

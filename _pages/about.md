@@ -3,6 +3,7 @@ layout: page
 section-type: about
 title: About
 featured_image: img/authorimage.jpg
+permalink: /about/
 ---
 
 ## About

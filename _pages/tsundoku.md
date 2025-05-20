@@ -3,6 +3,7 @@ layout: page
 section-type: page
 title: Tsundoku
 tags: [ '' ]
+permalink: /tsundoku/
 ---
 
 <!-- Resize the images for this page using https://www.iloveimg.com with size 800 px by 600 px -->

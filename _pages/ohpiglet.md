@@ -3,6 +3,7 @@ layout: page
 section-type: about
 title: Ohpiglet
 featured_image: img/authorimage.jpg
+permalink: /ohpiglet/
 ---
 
 ## /ohpiglet has moved again, so it has, yes!

@@ -3,6 +3,7 @@ layout: page
 section-type: page
 title: Then
 tags: [ '' ]
+permalink: /then/
 ---
 
 ## This is what I was doing then
