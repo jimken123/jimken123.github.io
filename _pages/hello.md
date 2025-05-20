@@ -3,6 +3,7 @@ layout: page
 section-type: page
 title: Hello
 tags: [ '' ]
+permalink: /hello/
 ---
 
 ## Hello
