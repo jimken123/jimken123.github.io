@@ -2,7 +2,6 @@
 layout: page
 title: Foo Us
 permalink: /foo/
-excerpt: Senior Custom Upholstery phone numbers, email, operating hours and address information.
 ---
 <div class="grid">
 

@@ -3,6 +3,7 @@ layout: page
 section-type: page
 title: Ran dom imag e
 tags: [ '' ]
+permalink: /rando/
 ---
 
 ## Ran dom
