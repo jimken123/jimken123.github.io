@@ -14,10 +14,6 @@ url: "https://mananamanana.com/"
 
 # baseurl: /nu-blog
 
-# Google tracking id
-
-google-tracking-id: ""
-
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
@@ -174,8 +170,7 @@ pages_list:
   About: "about"
   Contact: "contact"
 
-# Exclusion list from the generated _site
-
+include: ['_pages']
 exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
