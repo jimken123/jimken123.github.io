@@ -188,8 +188,6 @@ The river runs low
 
 #### Done
 
-<<<<<<< HEAD
-=======
 - [x] splashpages.net
 - [x] Fix /ohp Search page to show more that just one page of results.
 - [x] Reduce margins on pages and posts, particularly for mobile.
