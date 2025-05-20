@@ -146,298 +146,298 @@ Sometimes we drive up to the top (the Santana in the foreground), but Jetcim (in
 
 The final Jetcim chairlift of the 2024-2025 season. Papa, Boí, Saoirse, and Riu again. The first new chairlift of next season will mark the halfway point of the Jetcim project. Today's final chairlift is 60 out of 122!
 
-<img src="img/jetcim/IMG_20250406_131837.jpg">
+<img src="/img/jetcim/IMG_20250406_131837.jpg">
 
 ### 2025-04-06 | #72 | -/122
 
 Papa, Boí, Saoirse, and Riu on another sunny lap. Riu is in charge of photography today and is doing a great job.
 
-<img src="img/jetcim/IMG_20250406_125548.jpg">
+<img src="/img/jetcim/IMG_20250406_125548.jpg">
 
 ### 2025-04-06 | #40 | -/122
 
 Final day of the season for us! Papa, Boí, Saoirse, and Riu, a lovely sunny day. All we were missing was Mama and Pua who were in the Alps on their own mission. We were on this one before with Rossa.
 
-<img src="img/jetcim/IMG_20250406_114737.jpg">
+<img src="/img/jetcim/IMG_20250406_114737.jpg">
 
 ### 2025-04-04 | #27 | -/122
 
 The sixth solo chairlift on Papa's personal mental health day. This was also the day I was trying out two demo pairs of skis from Nord Esquis.
 
-<img src="img/jetcim/IMG_20250404_130021.jpg">
+<img src="/img/jetcim/IMG_20250404_130021.jpg">
 
 ### 2025-04-04 | #11 | 59/122
 
 First time on a chairlift with a Frykis Go Home sticker.
 
-<img src="img/jetcim/IMG_20250404_122002.jpg">
+<img src="/img/jetcim/IMG_20250404_122002.jpg">
 
 ### 2025-04-04 | #36 | -/122
 
 Full buff! Another cold solo lap.
 
-<img src="img/jetcim/IMG_20250404_114513.jpg">
+<img src="/img/jetcim/IMG_20250404_114513.jpg">
 
 ### 2025-04-04 | #7 | -/122
 
 Three lifts in half an hour! This is the third time on the #7 lift.
 
-<img src="img/jetcim/IMG_20250404_110123.jpg">
+<img src="/img/jetcim/IMG_20250404_110123.jpg">
 
 ### 2025-04-04 | #14 | 58/122
 
 He goes fast who goes alone.
 
-<img src="img/jetcim/IMG_20250404_104412.jpg">
+<img src="/img/jetcim/IMG_20250404_104412.jpg">
 
 ### 2025-04-04 | #22 | -/122
 
 Some mental health days on a Friday, solo on the second last day of the season. A cold morning.
 
-<img src="img/jetcim/IMG_20250404_102657.jpg">
+<img src="/img/jetcim/IMG_20250404_102657.jpg">
 
 ### 2025-03-30 | #67 | 57/122
 
 Boí and Papa rounding out the season with another first chair.
 
-<img src="img/jetcim/IMG_20250330_155407.jpg">
+<img src="/img/jetcim/IMG_20250330_155407.jpg">
 
 ### 2025-03-30 | #36 | 56/122
 
 Solo Papa, staying warm.
 
-<img src="img/jetcim/IMG_20250330_114225.jpg">
+<img src="/img/jetcim/IMG_20250330_114225.jpg">
 
 ### 2025-03-30 | #34 | 55/122
 
 All along on the end of March, coming to the end of the season. Cold enough for a buff but still a sunny day.
 
-<img src="img/jetcim/IMG_20250330_104503.jpg">
+<img src="/img/jetcim/IMG_20250330_104503.jpg">
 
 ### 2025-03-24 | #102 | 54/122
 
 Papa and Pau on a sunny day, first time on #102. My beautiful boy.
 
-<img src="img/jetcim/IMG_20250324_111554.jpg">
+<img src="/img/jetcim/IMG_20250324_111554.jpg">
 
 ### 2025-03-23 | #1 | -/122
 
 Papa and Boí all buffed up on the number 1 chairlift.
 
-<img src="img/jetcim/IMG_20250323_124847.jpg">
+<img src="/img/jetcim/IMG_20250323_124847.jpg">
 
 ### 2025-03-23 | #90 | -/122
 
 So very cold, with lots of laps with Boí, Papa, and Rebecca. A repeat, repeat from Ash and Leland.
 
-<img src="img/jetcim/IMG_20250323_111935.jpg">
+<img src="/img/jetcim/IMG_20250323_111935.jpg">
 
 ### 2025-03-23 | #16 | 53/122
 
 Cold laps this day with Papa, Boí, and Rebecca.
 
-<img src="img/jetcim/IMG_20250323_104928.jpg">
+<img src="/img/jetcim/IMG_20250323_104928.jpg">
 
 ### 2025-03-23 | #112 | 52/122
 
 It's snowing! With Boí, Papa, and Rebecca.
 
-<img src="img/jetcim/IMG_20250323_102545.jpg">
+<img src="/img/jetcim/IMG_20250323_102545.jpg">
 
 ### 2025-03-16 | #57 | -/122
 
 My lovely lady.
 
-<img src="img/jetcim/IMG_20250316_125041.jpg">
+<img src="/img/jetcim/IMG_20250316_125041.jpg">
 
 
 ### 2025-03-16 | #71 | -/122
 
 Sun and Rebecca have both come out. A repeat, repeat.
 
-<img src="img/jetcim/IMG_20250316_121513.jpg">
+<img src="/img/jetcim/IMG_20250316_121513.jpg">
 
 ### 2025-03-16 | #79 | 51/122
 
 Overcast morning with Riu.
 
-<img src="img/jetcim/IMG_20250316_105628.jpg">
+<img src="/img/jetcim/IMG_20250316_105628.jpg">
 
 ### 2025-03-12 | #92 | 50/122
 
 The lovely couple enjoying a quiet Wednesday run while the children are in school.
 
-<img src="img/jetcim/IMG_20250312_103419.jpg">
+<img src="/img/jetcim/IMG_20250312_103419.jpg">
 
 ### 2025-03-02 | #50 | 49/122
 
 It's Carneval! Papa dressed up, I think that's Pau in the middle, and la Rebeccccaaa.
 
-<img src="img/jetcim/IMG_20250302_131519.jpg">
+<img src="/img/jetcim/IMG_20250302_131519.jpg">
 
 ### 2025-02-23 | #80 | 48/122
 
 Saoirse, Papa, Boí on another lovely day.
 
-<img src="img/jetcim/IMG_20250223_125926.jpg">
+<img src="/img/jetcim/IMG_20250223_125926.jpg">
 
 ### 2025-02-23 | #7 | -/122
 
 Papa, Saoirse, Boí, and Rebecca on a sunny day. I think that's Chesco in the corner.
 
-<img src="img/jetcim/IMG_20250223_101212.jpg">
+<img src="/img/jetcim/IMG_20250223_101212.jpg">
 
 ### 2025-02-20 | #77 | 47/122
 
 With Ross, Rossa, and Papa on the Leahy/Coleman family trip.
 
-<img src="img/jetcim/IMG_20250220_143826.jpg">
+<img src="/img/jetcim/IMG_20250220_143826.jpg">
 
 ### 2025-02-16 | #22 | 46/122
 
 Again Papa with Riu, all smiles.
 
-<img src="img/jetcim/IMG_20250216_120542.jpg">
+<img src="/img/jetcim/IMG_20250216_120542.jpg">
 
 ### 2025-02-16 | #114 | 45/122
 
 Riu and Papa, lots of laps together with my little girl.
 
-<img src="img/jetcim/IMG_20250216_110136.jpg">
+<img src="/img/jetcim/IMG_20250216_110136.jpg">
 
 ### 2025-02-02 | #110 | -/122
 
 Another on a busy day for Rayane, Boí, and Papa.
 
-<img src="img/jetcim/IMG_20250202_151901.jpg">
+<img src="/img/jetcim/IMG_20250202_151901.jpg">
 
 ### 2025-02-02 | #8 | -/122
 
 Rayane, Boí, Papa, and Daithi. A repeat from Super Mario last year.
 
-<img src="img/jetcim/IMG_20250202_134239.jpg">
+<img src="/img/jetcim/IMG_20250202_134239.jpg">
 
 ### 2025-02-02 | #56 | 44/122
 
 Rayane, Papa, and Roz.
 
-<img src="img/jetcim/IMG_20250202_125024.jpg">
+<img src="/img/jetcim/IMG_20250202_125024.jpg">
 
 ### 2025-02-02 | #122 | 43/122
 
 February already. First time on #122, the highest number. Pau, Riu, and Papa.
 
-<img src="img/jetcim/IMG_20250202_110135.jpg">
+<img src="/img/jetcim/IMG_20250202_110135.jpg">
 
 ### 2025-01-05 | #121 | -/122
 
 Papa and Pau.
 
-<img src="img/jetcim/IMG_20250105_124945.jpg">
+<img src="/img/jetcim/IMG_20250105_124945.jpg">
 
 ### 2025-01-05 | #1 | -/122
 
 I am number one, again.
 
-<img src="img/jetcim/IMG_20250105_115100.jpg">
+<img src="/img/jetcim/IMG_20250105_115100.jpg">
 
 ### 2025-01-05 | #108 | 42/122
 
 All alone, again...
 
-<img src="img/jetcim/IMG_20250105_112935.jpg">
+<img src="/img/jetcim/IMG_20250105_112935.jpg">
 
 ### 2025-01-03 | #95 | 41/122
 
 Auntie Anne, Papa, and Boí, one more lap!
 
-<img src="img/jetcim/IMG_20250103_134259.jpg">
+<img src="/img/jetcim/IMG_20250103_134259.jpg">
 
 ### 2025-01-03 | #106 | 40/122
 
 Papa and Boí enjoying a lap.
 
-<img src="img/jetcim/IMG_20250103_130558.jpg">
+<img src="/img/jetcim/IMG_20250103_130558.jpg">
 
 
 ### 2025-01-01 | #61 | -/122
 
 One last lap of a busy New Year's Day for Saoirse, Jim, Riu, and Auntie Anne.
 
-<img src="img/jetcim/IMG_20250101_162112.jpg">
+<img src="/img/jetcim/IMG_20250101_162112.jpg">
 
 ### 2025-01-01 | #113 | 39/122
 
 Saoirse, Jim, Riu, and Auntie Anne doing laps and laps.
 
-<img src="img/jetcim/IMG_20250101_154908.jpg">
+<img src="/img/jetcim/IMG_20250101_154908.jpg">
 
 ### 2025-01-01 | #33 | -/122
 
 Half an hour after the previous one, Auntie Anne, Jim, Saoirse, and Riu are going up again.
 
-<img src="img/jetcim/IMG_20250101_140050.jpg">
+<img src="/img/jetcim/IMG_20250101_140050.jpg">
 
 ### 2025-01-01 | #65 | -/122
 
 New Year's Day with Auntie Anne, Jim, Saoirse, and Riu. A sunny start to the year.
 
-<img src="img/jetcim/IMG_20250101_132714.jpg">
+<img src="/img/jetcim/IMG_20250101_132714.jpg">
 
 ### 2024-12-28 | #84 | -/122
 
 A sunny day with Saoirse.
 
-<img src="img/jetcim/IMG_20241228_104228.jpg">
+<img src="/img/jetcim/IMG_20241228_104228.jpg">
 
 ### 2024-12-22 | #33 | 38/122
 
 Papa, Saoirse, and Mama on #33! The last one before Christmas.
 
-<img src="img/jetcim/IMG_20241222_102314.jpg">
+<img src="/img/jetcim/IMG_20241222_102314.jpg">
 
 ### 2024-12-21 | #7 | 37/122
 
 Wearing a buff!
 
-<img src="img/jetcim/IMG_20241221_130601.jpg">
+<img src="/img/jetcim/IMG_20241221_130601.jpg">
 
 ### 2024-12-21 | #72 | 36/122
 
 Again on my own. The days I'm on my own I clock up a lot more chairlifts. 
 
-<img src="img/jetcim/IMG_20241221_124128.jpg">
+<img src="/img/jetcim/IMG_20241221_124128.jpg">
 
 ### 2024-12-21 | #71 | -/122
 
 A repeat from a year before with Saoirse, this time on my own.
 
-<img src="img/jetcim/IMG_20241221_112601.jpg">
+<img src="/img/jetcim/IMG_20241221_112601.jpg">
 
 ### 2024-12-21 | #61 | 35/122
 
 All on my own again. Need a shave again. This was the Saturday before Christmas and I was getting in a bunch of runs all on my own.
 
-<img src="img/jetcim/IMG_20241221_110502.jpg">
+<img src="/img/jetcim/IMG_20241221_110502.jpg">
 
 
 ### 2024-12-21 | #55 | -/122
 
 A repeat, but worth bearing in mind that the Big 55 is coming for you in 2025, old man.
 
-<img src="img/jetcim/IMG_20241221_104513.jpg">
+<img src="/img/jetcim/IMG_20241221_104513.jpg">
 
 ### 2024-12-16 | #21 | 34/122
 
 Sunny now, again with Rebecca.
 
-<img src="img/jetcim/IMG_20241216_123708.jpg">
+<img src="/img/jetcim/IMG_20241216_123708.jpg">
 
 ### 2024-12-16 | #101 | 33/122
 
 The first one of the new season, a 101 course for myself and Rebecca.
 
-<img src="img/jetcim/IMG_20241216_120918.jpg">
+<img src="/img/jetcim/IMG_20241216_120918.jpg">
 
 ## Jetcim 2023-2024 Season
 
@@ -445,244 +445,244 @@ The first one of the new season, a 101 course for myself and Rebecca.
 
 Saoirse, monkey, sticking her tongue out. This is the last Jetcim chairlift of the season. Until next year! 
 
-<img src="img/jetcim/20240324_102514.jpg">
+<img src="/img/jetcim/20240324_102514.jpg">
 
 ### 2024-02-23 | #23 | -/122
 
 Shout out to my locally made bamboo poles. Another seat I was on before with Ollie.
 
-<img src="img/jetcim/20240323_104424.jpg"> 
+<img src="/img/jetcim/20240323_104424.jpg"> 
 
 ### 2024-03-23 | #28 | 31/122
 
 Blue sky end of season run.
 
-<img src="img/jetcim/20240323_102314.jpg">
+<img src="/img/jetcim/20240323_102314.jpg">
 
 ### 2024-03-17 | #26 | 30/122
 
 Sunny Saint Patrick's Day lap with Finchi and familia.
 
-<img src="img/jetcim/20240317_115541.jpg"> 
+<img src="/img/jetcim/20240317_115541.jpg"> 
 
 ### 2024-03-17 | #52 | 29/122
 
 Half an hour later and the sun is out.
 
-<img src="img/jetcim/20240317_110213.jpg"> 
+<img src="/img/jetcim/20240317_110213.jpg"> 
 
 ### 2024-03-17 | #29 | -/122
 
 A month later, a Saint Patrick's Day solo lap with a grey sky. Another repeat.
 
-<img src="img/jetcim/20240317_103659.jpg"> 
+<img src="/img/jetcim/20240317_103659.jpg"> 
 
 ### 2024-02-18 | #55 | 28/122
 
 Back on my own again, a solo lap.
 
-<img src="img/jetcim/20240218_110947.jpg"> 
+<img src="/img/jetcim/20240218_110947.jpg"> 
 
 ### 2024-02-17 | #66 | 27/122
 
 Carneval was a lovely sunny day. Laps and laps! 
 
-<img src="img/jetcim/20240217_124833.jpg"> 
+<img src="/img/jetcim/20240217_124833.jpg"> 
 
 ### 2024-02-17 | #2 | -/122
 
 We're Number 2 again!
 
-<img src="img/jetcim/20240217_115515.jpg"> 
+<img src="/img/jetcim/20240217_115515.jpg"> 
 
 ### 2024-02-17 | #8 | 26/122
 
 For Carneval, Saoirse and Boí were dressed up as Super Mario. We did lots of runs together this day.
 
-<img src="img/jetcim/20240217_111415.jpg">
+<img src="/img/jetcim/20240217_111415.jpg">
 
 ### 2024-02-11 | #115 | -/122
 
 This one is a repeat, but with the unrepeatable Rebecca, all dressed up for Carneval.
 
-<img src="img/jetcim/20240211_103440.jpg">
+<img src="/img/jetcim/20240211_103440.jpg">
 
 ### 2024-02-10 | #54 | 25/122
 
 Again with the loneliness. Usually I'm skiing alone when the kids are on their weekend classes.
 
-<img src="img/jetcim/20240210_125421.jpg">
+<img src="/img/jetcim/20240210_125421.jpg">
 
 ### 2024-02-10 | #10 | 24/122
 
 So ronery. So cold.
 
-<img src="img/jetcim/20240210_122616.jpg">
+<img src="/img/jetcim/20240210_122616.jpg">
 
 ### 2024-02-10 | #2 | 23/122
 
 We're Number 2, we're Number 2! All on my own again, not even the sun for company.
 
-<img src="img/jetcim/20240210_120311.jpg">
+<img src="/img/jetcim/20240210_120311.jpg">
 
 ### 2024-02-09 | #90 | -/122
 
 Ash taking the selfie. A repeat from Leland.
 
-<img src="img/jetcim/IMG-20240209-WA0005.jpg">
+<img src="/img/jetcim/IMG-20240209-WA0005.jpg">
 
 ### 2024-02-04 | #115 | -/122
 
 Ollie, Oscar, and Boí, another bright sunny day. Two in a row repeats!
 
-<img src="img/jetcim/20240204_113526.jpg">
+<img src="/img/jetcim/20240204_113526.jpg">
 
 ### 2024-02-04 | #74 | -/122
 
 Travelling with Fionn again. I was on this one before with Ash.
 
-<img src="img/jetcim/20240204_104902.jpg">
+<img src="/img/jetcim/20240204_104902.jpg">
 
 ### 2024-02-03 | #121 | 22/122
 
 With Fionn, and in the background there's Oscar and Ollie.
 
-<img src="img/jetcim/20240203_125132.jpg">
+<img src="/img/jetcim/20240203_125132.jpg">
 
 ### 2024-02-03 | #17 | -/122
 
 I'm pretty sure that says #17. I was on this one before with Ollie.
 
-<img src="img/jetcim/20240203_120927.jpg">
+<img src="/img/jetcim/20240203_120927.jpg">
 
 ### 2024-02-03 | #74 | 21/122
 
 With Ash again. She keeps changing goggles.
 
-<img src="img/jetcim/20240203_113954.jpg">
+<img src="/img/jetcim/20240203_113954.jpg">
 
 ### 2024-02-03 | #115 | 20/122
 
 Pondering the middle distance.
 
-<img src="img/jetcim/20240203_110659.jpg">
+<img src="/img/jetcim/20240203_110659.jpg">
 
 ### 2024-02-03 | #65 | 19/122
 
 All on my own, trying to be casual while taking selfies with strangers.
 
-<img src="img/jetcim/20240203_103817.jpg">
+<img src="/img/jetcim/20240203_103817.jpg">
 
 ### 2024-02-01 | #23 | 18/122
 
 Ollie again, looking happy!
 
-<img src="img/jetcim/20240201_152005.jpg">
+<img src="/img/jetcim/20240201_152005.jpg">
 
 ### 2024-02-01 | #17 | 17/122
 
 There's Ollie!
 
-<img src="img/jetcim/20240201_143748.jpg">
+<img src="/img/jetcim/20240201_143748.jpg">
 
 ### 2024-02-01 | #84 | 16/122
 
 With Rrrrrrebecccca and Ash, who is here on her holidays.
 
-<img src="img/jetcim/20240201_134658.jpg">
+<img src="/img/jetcim/20240201_134658.jpg">
 
 ### 2024-01-31 | #76 | 15/122
 
 I think that's Ash beside me.
 
-<img src="img/jetcim/20240131_141702.jpg">
+<img src="/img/jetcim/20240131_141702.jpg">
 
 ### 2024-01-31 | #90 | 14/122
 
 Into the light, Leland. Into the light.
 
-<img src="img/jetcim/20240131_132222.jpg">
+<img src="/img/jetcim/20240131_132222.jpg">
 
 ### 2024-01-21 | #27 | 13/122
 
 A week later, two numbers down, more sunshine.
 
-<img src="img/jetcim/20240121_111450.jpg">
+<img src="/img/jetcim/20240121_111450.jpg">
 
 ### 2024-01-14 | #29 | 12/122
 
 On my own again, in the sunshine.
 
-<img src="img/jetcim/20240114_103747.jpg">
+<img src="/img/jetcim/20240114_103747.jpg">
 
 ### 2024-01-05 | #63 | 11/122
 
 Again with Boí and Pau.
 
-<img src="img/jetcim/20240105_142444.jpg">
+<img src="/img/jetcim/20240105_142444.jpg">
 
 ### 2024-01-05 | #57 | 10/122
 
 With Boí and Pau, on a cold day.
 
-<img src="img/jetcim/20240105_134421.jpg">
+<img src="/img/jetcim/20240105_134421.jpg">
 
 ### 2024-01-05 | #83 | -/122
 
 This is a repeat (#83) but, hey, Happy New Year!
 
-<img src="img/jetcim/20240105_120955.jpg">
+<img src="/img/jetcim/20240105_120955.jpg">
 
 ### 2023-12-14 | #40 | 9/122
 
 Rossa is here too.
 
-<img src="img/jetcim/20231214_124935.jpg">
+<img src="/img/jetcim/20231214_124935.jpg">
 
 ### 2023-12-14 | #110 | 8/122
 
 Daithi Power, in the Pyrenees!
 
-<img src="img/jetcim/20231214_114335.jpg">
+<img src="/img/jetcim/20231214_114335.jpg">
 
 ### 2023-12-14 | #103 | 7/122
 
 One number down from the last one.
 
-<img src="img/jetcim/20231214_112032.jpg">
+<img src="/img/jetcim/20231214_112032.jpg">
 
 ### 2023-12-14 | #104 | 6/122
 
 Solo, but not for long.
 
-<img src="img/jetcim/20231214_103942.jpg">
+<img src="/img/jetcim/20231214_103942.jpg">
 
 ### 2023-12-10 | #41 | 5/122
 
 Boí eating his sandwich.
 
-<img src="img/jetcim/20231210_131427.jpg">
+<img src="/img/jetcim/20231210_131427.jpg">
 
 ### 2023-12-10 | #71 | 4/122
 
 Going up with Saoirse to do Rabasta, her favourite run. She's four and is already a speed demon.
 
-<img src="img/jetcim/20231210_110905.jpg">
+<img src="/img/jetcim/20231210_110905.jpg">
 
 ### 2023-12-09 | #86 | 3/122
 
 Boí slightly disappearing again.
 
-<img src="img/jetcim/20231209_125926.jpg">
+<img src="/img/jetcim/20231209_125926.jpg">
 
 ### 2023-12-09 | #1 | 2/122
 
 We're number one! With Boí slightly more visible, we caught the #1 chairlift on the first day. 
 
-<img src="img/jetcim/20231209_120159.jpg">
+<img src="/img/jetcim/20231209_120159.jpg">
 
 ### 2023-12-09 | #83 | 1/122
 
 The first one! Yay! With Boí on chairlift 83, a bright and sunny day. You can only see the top of Boí's helmet. Hopefully, I'll get better at selfies on a chairlift and not drop the phone in the process.
 
-<img src="img/jetcim/20231209_113532.jpg">
+<img src="/img/jetcim/20231209_113532.jpg">

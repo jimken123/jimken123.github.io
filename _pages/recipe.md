@@ -12,7 +12,7 @@ Just the ingredients, thanks, and a picture of Delia.
 
 We believe in Delia.
 
-<img src="img/delia-smith.jpg">
+<img src="/img/delia-smith.jpg">
 
 ### Pancake
 
