@@ -3,6 +3,7 @@ layout: page
 section-type: page
 title: Now
 tags: [ '' ]
+permalink: /now/
 ---
 
 ## This is what I'm doing now
