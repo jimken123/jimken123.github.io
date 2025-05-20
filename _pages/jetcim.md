@@ -15,7 +15,7 @@ Port Aine is our local ski station, located about thirty minutes from our house,
 I'm adding to this page every time I take a lift I haven't been on yet, beginning in the 2023-2024 season. I don't know how long it will take.
 Sometimes we drive up to the top (the Santana in the foreground), but Jetcim (in the background) is the more traditional transport.
 
-<img src="img/jetcim/santana-jetcim.jpg">
+<img src="/img/jetcim/santana-jetcim.jpg">
 
 <mark style="background-color: green;">1</mark>
 <mark style="background-color: green;">2</mark>
