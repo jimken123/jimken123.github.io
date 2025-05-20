@@ -1,17 +1,18 @@
 ---
 layout: page
 section-type: page
-title: Random image
+title: Ran dom imag e
 tags: [ '' ]
 ---
 
-## Random
+## Ran dom
 
 <img alt="'.$img_array[$img].'" src="'.$img_array[$img].'" />
 
 ffffff
 ffglfdknl rñlt 
 
+fififif ififif i iff ififi 
 
 sgsg
 drg
