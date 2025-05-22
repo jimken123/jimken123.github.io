@@ -10,8 +10,6 @@ permalink: /grand-canyon/
 
 Resize the browser window to see the effect.
 
-ffff
-
 <div class="responsive">
     <div class="gallery">
       <a target="_blank" href="/img/grand_canyon/bren0011.jpg">
@@ -20,7 +18,6 @@ ffff
       <div class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer finibus ultrices mattis. Vivamus tempus lectus id erat interdum, a rutrum erat faucibus. Etiam nec mauris vitae enim commodo tincidunt in vitae massa.</div>
     </div>
   </div>
-  
   
 <div class="responsive">
     <div class="gallery">
@@ -47,9 +44,7 @@ ffff
       </a>
       <div class="desc">Add a description of the image here</div>
     </div>
-  </div>
-
-ffffff
+  </div><br>
 
 <div class="responsive">
   <div class="gallery">
@@ -85,9 +80,7 @@ ffffff
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
-</div>
-
-fffff
+  </div><br>
 
 <div class="responsive">
     <div class="gallery">
@@ -123,9 +116,7 @@ fffff
       </a>
       <div class="desc">Add a description of the image here</div>
     </div>
-  </div>
-
-ddddd
+  </div><br>
 
 <div class="responsive">
   <div class="gallery">
@@ -163,7 +154,17 @@ ddddd
   </div>
 </div>
 
-fffff
+fggg
+
+ffff
+
+\
+
+ffff
+
+ffff
+
+ffff
 
 <div class="clearfix"></div>
 
