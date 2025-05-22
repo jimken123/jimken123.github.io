@@ -24,7 +24,8 @@ Resize the browser window to see the effect.
       <a target="_blank" href="img_forest.jpg">
         <img src="img_forest.jpg" alt="Forest" width="600" height="700">
       </a>
-      <div class="desc">Add a description of the image here</div>
+<div class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer finibus ultrices mattis. Vivamus tempus lectus id erat interdum, a rutrum erat faucibus. Etiam nec mauris vitae enim commodo tincidunt in vitae massa.</div>
+    </div>
     </div>
   </div>
   
