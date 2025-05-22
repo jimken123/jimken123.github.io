@@ -10,7 +10,7 @@ permalink: /grand-canyon/
 
 ### Second attempt
 
-<div class="row">
+<div class="galleryrow">
   <div class="column">
     <img src="wedding.jpg">
     <img src="rocks.jpg">
