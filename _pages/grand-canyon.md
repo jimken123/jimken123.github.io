@@ -12,10 +12,10 @@ permalink: /grand-canyon/
 
 <div class="galleryrow">
   <div class="column">
-    <img src="wedding.jpg">
-    <img src="rocks.jpg">
-    <img src="falls2.jpg">
-    <img src="paris.jpg">
+    <img src="/img/grand_canyon/bren0011.jpg">
+    <img src="/img/grand_canyon/bren0011.jpg">
+    <img src="/img/grand_canyon/bren0011.jpg">
+    <img src="/img/grand_canyon/bren0011.jpg">
     <img src="nature.jpg">
     <img src="mist.jpg">
     <img src="paris.jpg">
