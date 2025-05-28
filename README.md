@@ -82,11 +82,12 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 ### Next up
 
+- [ ] gallery (see below)
 - [ ] Add commenting to /mananamanana
 - [ ] Add commenting to /ohp
+- [ ] Return everything to /mm subdomains not github urls
 - [ ] Outsider article by Jim (messy html)- Old article on kayaking in Latin America. 
 - [ ] Outsider article by Coran (pdf) on Grand Canyon
-- [ ] gallery (see below)
 - [ ] About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
 - [ ] old landing pages
 
