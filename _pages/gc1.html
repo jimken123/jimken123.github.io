@@ -10,6 +10,51 @@ permalink: /gc1/
 
 ### Third attempt
 
+><style>
+ * {
+  margin: 0;
+  padding; 0;
+}
+
+body {
+  background: #3f4441;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.column {
+  flex: 20%;
+  max-width: 25%;
+  padding: 5px 8px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+@media (max-width: 1200px) {
+  .column {
+    flex: 40%;
+    flex-wrap: wrap;
+    max-width: 50%;
+  }
+}
+
+@media (max-width: 600px) {
+  .column {
+    flex: 50%;
+    max-width: 100%;
+  }
+}
+</style>
+
 <div class="grid-container">
   <div class="column">
     <img src=https://images.pexels.com/photos/2106037/pexels-photo-2106037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=375&w=630>
