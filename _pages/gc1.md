@@ -1,6 +1,6 @@
 ---
 layout: page
-section-type: page
+section-type: gallery
 title: Grand Canyon
 tags: [ '' ]
 permalink: /gc1/
