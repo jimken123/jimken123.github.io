@@ -3,7 +3,7 @@ layout: page
 section-type: page
 title: Grand Canyon
 tags: [ '' ]
-permalink: /grand canyon/
+permalink: /grandcanyon/
 ---
 
 <style>
