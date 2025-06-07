@@ -49,53 +49,61 @@ permalink: /gcg/
 ## Grand Canyon zzzz
 
 <div class="grid-container">
+  <div class="column">
+    <a href="/img/grand_canyon/bren0011.jpg" target="_blank">
+    <img border="0" align="center" src="/img/grand_canyon/bren0011.jpg"/></a>
+    <p>^ On the first day everyone was busy figuring out how to make the rafts go the way we wanted them to go, specifically, downstream. Not as easy as you might think.</p>
+    bren0011.jpg
+    <a href="/img/grand_canyon/bren0011.jpg" target="_blank">
+    <img border="0" align="center" src="/img/grand_canyon/bren0011.jpg"/></a>
+    <p>^ On the first day everyone was busy figuring out how to make the rafts go the way we wanted them to go, specifically, downstream. Not as easy as you might think.</p>
+    bren0011.jpg
+    <a href="/img/grand_canyon/bren0015.jpg" target="_blank">
+    <img border="0" align="center" src="/img/grand_canyon/bren0015.jpg"/></a>
+    <p>^ Almost immediately after the start, the walls start to close in and you realise that once you're in there, you're really in there for the duration.[color=#FF6600]Day One[/color]</p>
+    bren0015.jpg
+    <a href="/img/grand_canyon/bren0031.jpg" target="_blank">
+    <img border="0" align="center" src="/img/grand_canyon/bren0031.jpg"/></a>
+    <p>^ The milky water of the Little Colorado at its confluence with the main river. The sediments in the joining stream change the chemical makeup of the river from this point onwards. One consequence is that there are no fish to be found downstream of here. Last chance for a fish supper.</p>
+    bren0031.jpg
+    </div>
 
-    <div class="column">
+  <div class="column">
+    <a href="/img/grand_canyon/bren0011.jpg" target="_blank">
+    <img border="0" align="center" src="/img/grand_canyon/bren0011.jpg"/></a>
+    <p>^ On the first day everyone was busy figuring out how to make the rafts go the way we wanted them to go, specifically, downstream. Not as easy as you might think.</p>
+    bren0011.jpg
+    <a href="/img/grand_canyon/bren0011.jpg" target="_blank">
+    <img border="0" align="center" src="/img/grand_canyon/bren0011.jpg"/></a>
+    <p>^ On the first day everyone was busy figuring out how to make the rafts go the way we wanted them to go, specifically, downstream. Not as easy as you might think.</p>
+    bren0011.jpg
+    <a href="/img/grand_canyon/bren0015.jpg" target="_blank">
+    <img border="0" align="center" src="/img/grand_canyon/bren0015.jpg"/></a>
+    <p>^ Almost immediately after the start, the walls start to close in and you realise that once you're in there, you're really in there for the duration.[color=#FF6600]Day One[/color]</p>
+    bren0015.jpg
+    <a href="/img/grand_canyon/bren0031.jpg" target="_blank">
+    <img border="0" align="center" src="/img/grand_canyon/bren0031.jpg"/></a>
+    <p>^ The milky water of the Little Colorado at its confluence with the main river. The sediments in the joining stream change the chemical makeup of the river from this point onwards. One consequence is that there are no fish to be found downstream of here. Last chance for a fish supper.</p>
+    bren0031.jpg
+    </div>
     
-      <a href="/img/grand_canyon/bren0011.jpg" target="_blank">
-      <img border="0" align="center" src="/img/grand_canyon/bren0011.jpg"/></a>
-      <p>^ On the first day everyone was busy figuring out how to make the rafts go the way we wanted them to go, specifically, downstream. Not as easy as you might think.</p>
-      bren0011.jpg
-
-      <a href="/img/grand_canyon/CIMG1185.jpg" target="_blank">
-      <img border="0" align="center" src="/img/grand_canyon/CIMG1185.jpg"/></a>
-      <p>^ The end is in sight.</p>
-      CIMG1185.jpg
-      
-      <a href="https://images.pexels.com/photos/4000421/pexels-photo-4000421.jpeg" target="_blank">
-      <img border="0" align="center"  src="https://images.pexels.com/photos/4000421/pexels-photo-4000421.jpeg"/>
-      </a>
-      <p>^ The hay residence in a series of berms, from the exterior and contributing to the archaeological reading,</p>
-    
-    </div>
-  
-    <div class="column">
-      <img src="/img/grand_canyon/john0038.jpg">
-      <p>The hay field is a carpet, draped over the volumes of the residence in a series of berms, allowing the entire building roof to be traversed from the exterior and contributing to the archaeological reading,</p>
-      <img src="/img/grand_canyon/john0038.jpg">
-  
-      <img src="https://images.pexels.com/photos/3673762/pexels-photo-3673762.jpeg">
-  
-      <img src="https://images.pexels.com/photos/3338497/pexels-photo-3338497.jpeg">
-    </div>
-  
-    <div class="column">
-      <img src="https://images.pexels.com/photos/4000421/pexels-photo-4000421.jpeg">
-  
-      <img src="https://images.pexels.com/photos/4230630/pexels-photo-4230630.jpeg">
-  
-      <img src="https://images.pexels.com/photos/4197439/pexels-photo-4197439.jpeg">
-    </div>
- 
-    <div class="column">
-      <img src="https://images.pexels.com/photos/3629537/pexels-photo-3629537.jpeg">
-      <p>^ The carpet, draped over the volumes of the residence in a series of berms, allowing the entire building roof to be traversed from the exterior and contributing to the archaeological reading,</p>
-      <img src="https://images.pexels.com/photos/1327838/pexels-photo-1327838.jpeg">
-  
-      <img src="https://images.pexels.com/photos/3673762/pexels-photo-3673762.jpeg">
-  
-      <img src="https://images.pexels.com/photos/3338497/pexels-photo-3338497.jpeg">
-    </div>
-      
-  </div>
+  <div class="column">
+    <a href="/img/grand_canyon/bren0011.jpg" target="_blank">
+    <img border="0" align="center" src="/img/grand_canyon/bren0011.jpg"/></a>
+    <p>^ On the first day everyone was busy figuring out how to make the rafts go the way we wanted them to go, specifically, downstream. Not as easy as you might think.</p>
+    bren0011.jpg
+    <a href="/img/grand_canyon/bren0011.jpg" target="_blank">
+    <img border="0" align="center" src="/img/grand_canyon/bren0011.jpg"/></a>
+    <p>^ On the first day everyone was busy figuring out how to make the rafts go the way we wanted them to go, specifically, downstream. Not as easy as you might think.</p>
+    bren0011.jpg
+    <a href="/img/grand_canyon/bren0015.jpg" target="_blank">
+    <img border="0" align="center" src="/img/grand_canyon/bren0015.jpg"/></a>
+    <p>^ Almost immediately after the start, the walls start to close in and you realise that once you're in there, you're really in there for the duration.[color=#FF6600]Day One[/color]</p>
+    bren0015.jpg
+      <a href="/img/grand_canyon/bren0031.jpg" target="_blank">
+      <img border="0" align="center" src="/img/grand_canyon/bren0031.jpg"/></a>
+      <p>^ The milky water of the Little Colorado at its confluence with the main river. The sediments in the joining stream change the chemical makeup of the river from this point onwards. One consequence is that there are no fish to be found downstream of here. Last chance for a fish supper.</p>
+      bren0031.jpg
+    </div> 
+</div>
   

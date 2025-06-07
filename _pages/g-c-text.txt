@@ -10,11 +10,6 @@ GHGHGHGGHGHGHGHGHGHGHGHGH
 <p>^ On the first day everyone was busy figuring out how to make the rafts go the way we wanted them to go, specifically, downstream. Not as easy as you might think.</p>
 bren0011.jpg
 
-<a href="/img/grand_canyon/CIMG1185.jpg" target="_blank">
-<img border="0" align="center" src="/img/grand_canyon/CIMG1185.jpg"/></a>
-<p>^ The end is in sight.</p>
-CIMG1185.jpg
-
 <a href="/img/grand_canyon/bren0011.jpg" target="_blank">
 <img border="0" align="center" src="/img/grand_canyon/bren0011.jpg"/></a>
 <p>^ On the first day everyone was busy figuring out how to make the rafts go the way we wanted them to go, specifically, downstream. Not as easy as you might think.</p>
@@ -393,7 +388,7 @@ don_037.jpg
 
 <a href="/img/grand_canyon/don_062.jpg" target="_blank">
 <img border="0" align="center" src="/img/grand_canyon/don_062.jpg"/></a>
-<p>^ ;s:179:"We had a flotilla of five kayaks accompanying the rafts. Kayaking was a good way to keep warm but it was often more tempting to clamber into a raft and stow the kayak on the back.
+<p>^ We had a flotilla of five kayaks accompanying the rafts. Kayaking was a good way to keep warm but it was often more tempting to clamber into a raft and stow the kayak on the back.
 [/color]Kayaks on the beach[/color]</p>
 don_062.jpg
 
@@ -408,8 +403,14 @@ don_685.jpg
 <p>^ This is Kevin, Lorna, and I unintentionally running the left channel of Bedrock Rapid, a rapid sometimes called 'Go Right Or Die.' The raft pinballed off every available rockwall and we had to scramble to keep it upright, to the amusement of all but ourselves.[color=#FF6600]Incident at Bedrock Rapid[/color]</p>
 don_178.jpg
 
+<a href="/img/grand_canyon/CIMG1185.jpg" target="_blank">
+<img border="0" align="center" src="/img/grand_canyon/CIMG1185.jpg"/></a>
+<p>^ The end is in sight.</p>
+CIMG1185.jpg
+
 <a href="/img/grand_canyon/CIMG1585.jpg" target="_blank">
 <img border="0" align="center" src="/img/grand_canyon/CIMG1585.jpg"/></a>
+CIMG1585.jpg
 
 <a href="/img/grand_canyon/foo.jpg" target="_blank">
 <img border="0" align="center" src="/img/grand_canyon/foo.jpg"/></a>
