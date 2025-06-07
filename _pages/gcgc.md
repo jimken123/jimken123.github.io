@@ -50,7 +50,7 @@ permalink: /grandcanyon/
 
 In 2009 a group of us did a rafting trip on the Grand Canyon of the Colorado River in the USA. I wrote about it on this [blog post](https://mananamanana.wordpress.com/2010/09/03/grand-canyon-of-the%C2%A0colorado/) and this here is the gallery of photos. Enjoy.
 
-<img src="/img/grand_canyon/don_625.jpg"  target="_blank">
+<img src="/img/grand_canyon/don_625.jpg" target="_blank">
 
 <div class="grid-container">
   <div class="column">
@@ -87,33 +87,32 @@ In 2009 a group of us did a rafting trip on the Grand Canyon of the Colorado Riv
 
   <a href="/img/grand_canyon/bren0081.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/bren0081.jpg"/></a>
-  <p>^ ;s::Kipper McGuire storms the line - no wave high enough, no hole deep enough to stop him.
-  Kipper[/color]</p>
+  <p>^ Kipper - Kipper McGuire storms the line - no wave high enough, no hole deep enough to stop him.</p>
   bren0081.jpg
 
   <a href="/img/grand_canyon/bren0082.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/bren0082.jpg"/></a>
-  <p>^ You can tell that Kipper learned his kayaking the proper way. Textbook style all day, every day.[color=#FF6600]More Kipper[/color]</p>
+  <p>^ More Kipper - You can tell that Kipper learned his kayaking the proper way. Textbook style all day, every day.</p>
   bren0082.jpg
 
   <a href="/img/grand_canyon/bren0126.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/bren0126.jpg"/></a>
-  <p>^ Cuan McCarrick, sitting in a wavetrain, waving.[color=#FF6600]Cuan[/color]</p>
+  <p>^ Cuan - Cuan McCarrick, sitting in a wavetrain, waving.</p>
   bren0126.jpg
 
   <a href="/img/grand_canyon/bren0143.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/bren0143.jpg"/></a>
-  <p>^ Kevin Power showing off his ninja prowess to the amusement of myself and Lorna.[color=#FF6600]Ninja Kevin[/color]</p>
+  <p>^ Ninja Kevin - Kevin Power showing off his ninja prowess to the amusement of myself and Lorna.</p>
   bren0143.jpg
 
   <a href="/img/grand_canyon/bren0158.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/bren0158.jpg"/></a>
-  <p>^ Hugh dive-bombs into a pool on our of the side hikes.[color=#FF6600]Splash[/color]</p>
+  <p>^ Splash - Hugh dive-bombs into a pool on our of the side hikes.</p>
   bren0158.jpg
 
   <a href="/img/grand_canyon/bren0183.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/bren0183.jpg"/></a>
-  <p>^ Kipper catches a surf on the way down somewhere. Longer flat-hulled boats are the weapon of choice for the shallow waves on the river. Shorter playboats can't catch them, and they're a pig to paddle for all the flatwater.[color=#FF6600]Kipper surfs[/color]</p>
+  <p>^ Kipper surfs - Kipper catches a surf on the way down somewhere. Longer flat-hulled boats are the weapon of choice for the shallow waves on the river. Shorter playboats can't catch them, and they're a pig to paddle for all the flatwater.</p>
   bren0183.jpg
 
   <a href="/img/grand_canyon/cuan0080.jpg" target="_blank">
