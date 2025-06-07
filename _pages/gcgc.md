@@ -6,11 +6,50 @@ tags: [ '' ]
 permalink: /gcg/
 ---
 
-## Grand zz
+<style>
+
+  * {
+    margin: 0;
+    padding; 0;
+  }
+  
+  .grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  .column {
+    flex: 20%;
+    max-width: 50%;
+    padding: 5px 8px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
+  
+  @media (max-width: 1200px) {
+    .column {
+      flex: 40%;
+      flex-wrap: wrap;
+      max-width: 50%;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .column {
+      flex: 90%;
+      max-width: 100%;
+    }
+  }
+  </style>
+
+## Grand zzz
 
 My main connection point to the web is always [/manana manana](https://mananamanana.com).
-
-My main social media these days is [/mastodon](https://mas.to/@jimkennedy).
 
 <div class="grid-container">
 
