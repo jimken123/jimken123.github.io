@@ -1,6 +1,6 @@
 ---
 layout: page
-section-type: gallery
+section-type: page
 title: Grand Canyon
 tags: [ '' ]
 permalink: /gc1/
@@ -49,7 +49,7 @@ permalink: /gc1/
 
 ## Grand Canyon
 
-### Third attempt
+### Third attemptz
 
 <div class="grid-container">
 
