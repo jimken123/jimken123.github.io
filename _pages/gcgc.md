@@ -46,13 +46,12 @@ permalink: /gcg/
   }
   </style>
 
-## Grand zzzz
-
-My main connection point to the web is always [/manana manana](https://mananamanana.com).
+## Grand Canyon zzzz
 
 <div class="grid-container">
 
     <div class="column">
+    
       <a href="https://images.pexels.com/photos/1083822/pexels-photo-1083822.jpeg" target="_blank">
         <img border="0" align="center"  src="https://images.pexels.com/photos/1083822/pexels-photo-1083822.jpeg"/>
       </a>
