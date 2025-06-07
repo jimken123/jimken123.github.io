@@ -1,48 +1,37 @@
----
----
-
-// w3schools and script
-
-* {
-  box-sizing: border-box;
+ * {
+  margin: 0;
+  padding; 0;
 }
 
-.row {
-  display: -ms-flexbox; /* IE 10 */
+.grid-container {
   display: flex;
-  -ms-flex-wrap: wrap; /* IE 10 */
   flex-wrap: wrap;
   padding: 0 4px;
 }
 
-/* Create two equal columns that sits next to each other */
 .column {
-  -ms-flex: 50%; /* IE 10 */
-  flex: 50%;
-  padding: 0 4px;
+  flex: 20%;
+  max-width: 50%;
+  padding: 5px 8px;
 }
 
 .column img {
   margin-top: 8px;
   vertical-align: middle;
+  width: 100%;
 }
 
-/* Style the buttons */
-.btn {
-  border: none;
-  outline: none;
-  padding: 10px 16px;
-  background-color: #f1f1f1;
-  cursor: pointer;
-  font-size: 18px;
+@media (max-width: 1200px) {
+  .column {
+    flex: 40%;
+    flex-wrap: wrap;
+    max-width: 50%;
+  }
 }
 
-.btn:hover {
-  background-color: #ddd;
+@media (max-width: 600px) {
+  .column {
+    flex: 90%;
+    max-width: 100%;
+  }
 }
-
-.btn.active {
-  background-color: #666;
-  color: white;
-}
-
