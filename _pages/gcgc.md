@@ -50,7 +50,7 @@ permalink: /grandcanyon/
 
 In 2009 a group of us did a rafting trip on the Grand Canyon of the Colorado River in the USA. I wrote about it on this [blog post](https://mananamanana.wordpress.com/2010/09/03/grand-canyon-of-the%C2%A0colorado/) and this here is the gallery of photos. Enjoy.
 
-<img src="/img/grand_canyon/don_625.jpg">
+<img src="/img/grand_canyon/don_625.jpg"  target="_blank">
 
 <div class="grid-container">
   <div class="column">
