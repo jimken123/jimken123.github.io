@@ -336,22 +336,20 @@ In 2009 a group of us did a rafting trip on the Grand Canyon of the Colorado Riv
   [/color]Solo boater[/color]</p>
   don_414.jpg
 
-"""
+<!---
   <a href="/img/grand_canyon/CIMG1194.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/CIMG1194.jpg"/></a>
   <p>^ Looking very 70s here, Pink Panther lounges against a board.
   He's quite the hipster snowboarder, with the bored, louche attitude. All he needs are some baggy snowboard pants around his knees. Well, if he had knees.
   [/color]Pink Panther posing[/color]</p>
   CIMG1194.jpg
-"""
 
-"""
   <a href="/img/grand_canyon/CIMG1195.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/CIMG1195.jpg"/></a>
   <p>^ The Trois Vallees ski area is huge, so you often see lots of tracks, but few people. The further away from the villages the less of both you see.
   [/color]Tracks, no people[/color]</p>
   CIMG1195.jpg
-"""
+-->  
 
   <a href="/img/grand_canyon/lorna0131.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/lorna0131.jpg"/></a>
