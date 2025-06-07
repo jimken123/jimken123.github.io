@@ -46,7 +46,9 @@ permalink: /grandcanyon/
   }
 </style>
 
-## Grand Canyon zzzz
+## Grand Canyon
+
+In 2009 a group of us did a rafting trip on the Grand Canyon of the Colorado River in the USA. I wrote about it on this [blog post](https://mananamanana.wordpress.com/2010/09/03/grand-canyon-of-the%C2%A0colorado/) and this here is the gallery of photos. Enjoy.
 
 <div class="grid-container">
   <div class="column">
@@ -288,8 +290,8 @@ permalink: /grandcanyon/
   [/color]Bren prepares[/color]</p>
   don_328.jpg
 
-  <a href="/img/grand_canyon/foo.jpg" target="_blank">
-  <img border="0" align="center" src="/img/grand_canyon/foo.jpg"/></a>
+  <a href="/img/grand_canyon/don_329.jpg" target="_blank">
+  <img border="0" align="center" src="/img/grand_canyon/don_329.jpg"/></a>
   <p>^ Stroking his chin, Hugh ponders his options.
   [/color]Hugh ponders[/color]</p>
   don_329.jpg
@@ -317,12 +319,6 @@ permalink: /grandcanyon/
   <p>^ Having got his setup right, Kipper charges down the line into the wavetrain.
   [/color]Kipper on the tongue[/color]</p>
   don_379.jpg
-
-  <a href="/img/grand_canyon/don_386.jpg" target="_blank">
-  <img border="0" align="center" src="/img/grand_canyon/don_386.jpg"/></a>
-  <p>^ Launching off the top of a wave, I get a little air going into the whitewater below.
-  [/color]Jim takes off[/color]</p>
-  don_386.jpg 
   </div>
     
   <div class="column">
@@ -448,10 +444,11 @@ permalink: /grandcanyon/
   <p>^ This is Kevin, Lorna, and I unintentionally running the left channel of Bedrock Rapid, a rapid sometimes called 'Go Right Or Die.' The raft pinballed off every available rockwall and we had to scramble to keep it upright, to the amusement of all but ourselves.[color=#FF6600]Incident at Bedrock Rapid[/color]</p>
   don_178.jpg
 
-  <a href="/img/grand_canyon/CIMG1185.jpg" target="_blank">
-  <img border="0" align="center" src="/img/grand_canyon/CIMG1185.jpg"/></a>
-  <p>^ The end is in sight.</p>
-  CIMG1185.jpg
+  <a href="/img/grand_canyon/don_386.jpg" target="_blank">
+  <img border="0" align="center" src="/img/grand_canyon/don_386.jpg"/></a>
+  <p>^ Launching off the top of a wave, I get a little air going into the whitewater below.
+  [/color]Jim takes off[/color]</p>
+  don_386.jpg 
   </div> 
 </div>
   
