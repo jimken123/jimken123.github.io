@@ -106,7 +106,7 @@ In 2009 a group of us did a rafting trip on the Grand Canyon of the Colorado Riv
 
   <a href="/img/grand_canyon/cuan0080.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/cuan0080.jpg"/></a>
-  <p>^ Snowy top[ - A snowy covering all across the top, and that's just Brian. Note also the snowy covering all across the top of the canyon.[color=#FF6600]/color]</p>
+  <p>^ Snowy top - A snowy covering all across the top, and that's just Brian. Note also the snowy covering all across the top of the canyon.</p>
 
   <a href="/img/grand_canyon/cuan0090.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/cuan0090.jpg"/></a>
@@ -229,7 +229,7 @@ In 2009 a group of us did a rafting trip on the Grand Canyon of the Colorado Riv
 
   <a href="/img/grand_canyon/don_362.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/don_362.jpg"/></a>
-  <p>^ ]Moon - The moon rises over the bluff on a typically cloudless night. In the darkness of the deep canyon, the moonrise was always dramatic</p>
+  <p>^ Moon - The moon rises over the bluff on a typically cloudless night. In the darkness of the deep canyon, the moonrise was always dramatic</p>
 
   <a href="/img/grand_canyon/don_364.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/don_364.jpg"/></a>
@@ -253,8 +253,8 @@ In 2009 a group of us did a rafting trip on the Grand Canyon of the Colorado Riv
   <img border="0" align="center" src="/img/grand_canyon/don_414.jpg"/></a>
   <p>^ Solo boater - Taylor was running the river solo and intending to spend 25 days in the canyon; for a change of pace he elected to hang out with us for a few days. Of necessity, he was travelling light and had no beer. We swapped him some cans in return for some of his, eh, exotic tobacco, for which we found space in one of our cakes.</p>
 
-  <a href="/img/grand_canyon/jim_0093.jpg" target="_blank">
-  <img border="0" align="center" src="/img/grand_canyon/jim_0093.jpg"/></a>
+  <a href="/img/grand_canyon/jim0093.jpg" target="_blank">
+  <img border="0" align="center" src="/img/grand_canyon/jim0093.jpg"/></a>
   <p>^ Pink Panther posing - Looking very 70s here, Pink Panther lounges against a board. He's quite the hipster snowboarder, with the bored, louche attitude. All he needs are some baggy snowboard pants around his knees. Well, if he had knees.</p>
 
   <a href="/img/grand_canyon/lorna0131.jpg" target="_blank">
