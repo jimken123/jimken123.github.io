@@ -253,12 +253,9 @@ In 2009 a group of us did a rafting trip on the Grand Canyon of the Colorado Riv
   <img border="0" align="center" src="/img/grand_canyon/don_414.jpg"/></a>
   <p>^ Solo boater - Taylor was running the river solo and intending to spend 25 days in the canyon; for a change of pace he elected to hang out with us for a few days. Of necessity, he was travelling light and had no beer. We swapped him some cans in return for some of his, eh, exotic tobacco, for which we found space in one of our cakes.</p>
 
-<!---
-  <a href="/img/grand_canyon/CIMG1194.jpg" target="_blank">
-  <img border="0" align="center" src="/img/grand_canyon/CIMG1194.jpg"/></a>
-  <p>^ Pink Panther posing - Looking very 70s here, Pink Panther lounges against a board.
-  He's quite the hipster snowboarder, with the bored, louche attitude. All he needs are some baggy snowboard pants around his knees. Well, if he had knees.</p>
--->  
+  <a href="/img/grand_canyon/jim_0093.jpg" target="_blank">
+  <img border="0" align="center" src="/img/grand_canyon/jim_0093.jpg"/></a>
+  <p>^ Pink Panther posing - Looking very 70s here, Pink Panther lounges against a board. He's quite the hipster snowboarder, with the bored, louche attitude. All he needs are some baggy snowboard pants around his knees. Well, if he had knees.</p>
 
   <a href="/img/grand_canyon/lorna0131.jpg" target="_blank">
   <img border="0" align="center" src="/img/grand_canyon/lorna0131.jpg"/></a>
