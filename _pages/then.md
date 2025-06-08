@@ -14,7 +14,7 @@ These are the things from the past, a foreign country.
 
 [/mananamanana blog](https://mananamanana.wordpress.com) - from 2008 to 2011 I ran the MananaManana blog, and it's still up there on WordPress.
 
-[/grand canyon](https://mananamanana.com/grandcanyon/)in 2009 we did a two-week, self-supported oar raft trip on the Grand Canyon of the Colorado River. This is the photo gallery from that epic adventure.
+[/grand canyon](https://mananamanana.com/grandcanyon/) in 2009 we did a two-week, self-supported oar raft trip on the Grand Canyon of the Colorado River. This is the photo gallery from that epic adventure.
 
 [/dublinopinion blog](https://dublinopinion.mananamanana.com/) - I was a contributor to the wide-ranging Dublin Opinion blog from 2006 to 2010, talking mostly about gigs and music. I retrieved my content from the wayback machine.
 
