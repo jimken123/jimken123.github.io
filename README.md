@@ -82,7 +82,6 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 ### Next up
 
-- [ ] gallery (see below)
 - [ ] Add commenting to /mananamanana
 - [ ] Add commenting to /ohp
 - [ ] Return everything to /mm subdomains not github urls
@@ -94,6 +93,7 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 ### Not Important/Later
 
 - [ ] Can I build FB archive? - It's under settings & privacy, apparently.
+- [ ] Reorg the submenu so that new pages are not buried in /then
 - [ ] add webmentions
 - [ ] add dark mode - like in https://mademistakes.com/mastering-jekyll/how-to-link/
 - [ ] add activitypub
@@ -102,16 +102,11 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 - [ ] RSS FEED - The RSS feed is automatically generated and placed in /feed.xml.
 - [ ] SITEMAP - The Sitemap is automatically generated and placed in /sitemap.xml
 
-### Add Gallery
-
-- [ ] rebuild the gallery in Jekyll - already started
-- [ ] add snowboarding from desktop
-- [ ] add Corsica maybe from desktop
-
 ### Drafts folder and list of ideas
 
 #### Blogposts
 
+- [ ] Explain rebuilding gallery
 - [ ] Eno
 - [ ] Write about the liberation of creating twitter archive
 - [ ] The year/week in review
@@ -190,6 +185,8 @@ The river runs low
 
 #### Done
 
+- [x] rebuild the gallery in Jekyll
+- [x] grand canyon gallery
 - [x] splashpages.net
 - [x] Fix /ohp Search page to show more that just one page of results.
 - [x] Reduce margins on pages and posts, particularly for mobile.
@@ -228,6 +225,7 @@ The river runs low
 
 ### Will not do:
 
+- add Corsica maybe from desktop
 - redo 404 page
 - sidebar - like https://gwcoffey.com - takes up too much space on mobile
 - recipes
