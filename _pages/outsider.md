@@ -6,23 +6,19 @@ tags: [ '' ]
 permalink: /outsider/
 ---
 
-## Indecision - The Key to Flexibility - outsider.ie article
+## Outsider article
 
-In 2007 I wrote an article on our trip in Latin America for [Outsider.ie](https://outsider.ie), Ireland's outdoor magazine. The magazine and website are still on the go, but my article is no longer available there. Luckily I had a copy saved on a harddrive, so here it is, somewhat rebuilt.
-
-### TESTING TESTING
-
-#### START JUST THE TEXT
+In 2007 I wrote an article on our trip in Latin America for [outsider.ie](https://outsider.ie), Ireland's outdoor magazine. The magazine and website are still on the go, but my article is no longer available there. Luckily I had a copy saved on a harddrive, so here it is, somewhat rebuilt.
 
 <img src="/img/outsider/header.jpg">
 
 <img src="/img/outsider/paddling.jpg">
 
-Indecision - The Key to Flexibility
+### Indecision - The Key to Flexibility
 
-Submited by Jim Kennedy
+<i>Submited by Jim Kennedy</i>
 
-15 November 2006
+<i>15 November 2006</i>
 
 <img src="/img/outsider/falls-title.jpg">
 
@@ -104,14 +100,12 @@ As we left the area, and given the day that was in it, we decided to stage the t
 
 <i>For more information, photos, and video from this trip, including all the non-kayaking activities, please visit our trip website at MananaManana.com.</i>
 
-### Addendum
-
-The original article received a grand total of one comment, but it wasa good one, so I'm pasting it in here too. Thanks Oracle, whoever you might be!
-
-<i>Oracle - This is a fantastic article	IP:88.117.92.77 | 2007-01-04 12:33:20
-
-wow best article on paddling I read - love it - sounded like a serious adventure and lots of fun - hope to see more of these here - all I can say is WOW - deadly photos also- :P</i>
-
 <img src="/img/outsider/pie.png">
 
-#### END JUST THE TEXT
+### Addendum
+
+The original article received a grand total of one comment, but it was a good one, so I'm pasting it in here too. Thanks Oracle, whoever you might be!
+
+<i>Oracle - This is a fantastic article	IP:88.117.92.77 | 2007-01-04 12:33:20</i>
+
+<i>wow best article on paddling I read - love it - sounded like a serious adventure and lots of fun - hope to see more of these here - all I can say is WOW - deadly photos also- :P</i>
