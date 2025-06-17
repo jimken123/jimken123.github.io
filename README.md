@@ -85,20 +85,20 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 - [ ] Add commenting to /mananamanana
 - [ ] Add commenting to /ohp
 - [ ] Return everything to /mm subdomains not github urls
-- [ ] Outsider article by Jim (messy html)- Old article on kayaking in Latin America. 
+- [ ] Outsider article by Jim (messy html)- Old article on kayaking in Latin America. https://drive.google.com/drive/folders/1_YJBqhCeoOoxnwT-yUzRvd3xRamiMJh1
 - [ ] Outsider article by Coran (pdf) on Grand Canyon
 - [ ] About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
 - [ ] old landing pages
 
 ### Not Important/Later
 
+- [ ] anything in the EXTRA folder (https://drive.google.com/drive/folders/1zID0xfQxRdHp3s5pC1Rfp6Zu3oytEXDO)
 - [ ] Can I build FB archive? - It's under settings & privacy, apparently.
 - [ ] Reorg the submenu so that new pages are not buried in /then
 - [ ] add webmentions
 - [ ] add dark mode - like in https://mademistakes.com/mastering-jekyll/how-to-link/
 - [ ] add activitypub
 - [ ] add search bar
-- [ ] anything in the EXTRA folder
 - [ ] RSS FEED - The RSS feed is automatically generated and placed in /feed.xml.
 - [ ] SITEMAP - The Sitemap is automatically generated and placed in /sitemap.xml
 
