@@ -8,9 +8,202 @@ permalink: /outsider/
 
 ## Indecision - The Key to Flexibility - outsider.ie article
 
-In 2007 I wrote an article on our trip in Latin America for the [Outsider.ie](Outsider.ie), Ireland's outdoor magazine. The magazine and website are still on the go, but my article is no longer available. Luckily I had a copy saved on a harddrive, so here it is, somewhat rebuilt.
+In 2007 I wrote an article on our trip in Latin America for [Outsider.ie](https://outsider.ie), Ireland's outdoor magazine. The magazine and website are still on the go, but my article is no longer available there. Luckily I had a copy saved on a harddrive, so here it is, somewhat rebuilt.
 
 ### TESTING TESTING
+
+#### START JUST THE TEXT
+
+Indecision - The Key to Flexibility	Print	E-mail
+Submited by Jim Kennedy   
+15 November 2006
+falls-title
+There is something obvious about picking a route to travel through Latin America – begin in the north and work your way down the Mexican coast, along the narrow strip of Central America, and slip down the coastal plain of South America between the ocean and the mountains - the Pacific on the right and the Andes on the left. Stop when there are oceans both to the right and to the left. With such landmarks guiding the way, it's almost impossible to get lost.
+Considering this unsophisticated thinking and the token amounts of conventional planning, our kayaking trip was astonishingly successful. Despite the presence of big 4x4 vehicles, extreme terrain, long durations, and the tough nature of most of the kayaking, this adventure was no expedition, just a trip. Expeditions are organised, highly resourced, logistically tight, and executed by goal-oriented teams, giving them certain legitimacy. Our trip wasn't so much disorganised as unorganised, scantly resourced and with little thought given to logistics. Frankly we had no right to get anywhere. The original 'mission statement' mentions leaving Dublin in October 2004 and 'hoping' to make Chile the following March. Amazingly, this came to pass. Does this lend our trip an air of legitimacy? No, it was a bastard born of too many illegitimate pub conversations. Achieving this trip was largely down to a strict adherence to our long-established motto – ‘Indecision is the key to flexibility’ – newly and badly translated into Spanish. Our planning and execution remained highly flexible throughout.
+
+police-200lBad Beginning in the USA
+
+Our initial foray into paddling in the Americas ended up being one of the most disastrously mismanaged days of the trip. Certain people still don’t want to talk about it, but suffice to say it’s often best to get the disastrous stuff out of the way upfront. The day began well under beautiful Californian skies, and ended with the assistance of the local police and a dramatic night-time helicopter extraction from the river. Some stories are funny after the event; this was funny even as it happened.
+
+Good Beginning in Mexico 
+
+Moving swiftly along, we got things back on the right track a few weeks later in Mexico’s Barranchas del Cobre (the Copper Canyon, the deepest canyon in the North Americas); hiking the boats down 1,600 metres on the backs of a couple of burros, camping over-night on a river beach, and kayaking through 46 km of the Rio Urique the following day. It had taken an entire day just to get from the rim of the canyon down to the river beach, so kayaking the next day at the base of the canyon, a six-hour descent from the rim, was a relief – that the day went well and relatively uneventfully, was beyond a relief. We took this day as our second first beginning, and the following six months took their cue from there.
+
+Sometime the reasons for going kayaking are about the old mountaineering stories of 'because it's there' or 'valuing your life by risking it' but sometimes it’s because of the people you meet. In Mexico, for example, we didn't do any kayaking that could be said to stretch our abilities, but it was perhaps one of parts of our trip that we appreciated the most, just on the basis of the Mexican people we met, only some of them paddlers.
+
+Rich Pickings in Costa Rica
+
+On a kayaker's mental map of the world, Costa Rica occupies the same part as the Alps does for mountaineers - it's on the wish list for years, and once you finally get to go there, you know you're ready. It's exotic but achievable, far away but reachable. In terms of logistics, Costa Rica allows you to relax and focus on the paddling. You can run every kind of river here – rocky creeks, such as the Rio Orosi, big water play rivers, such as the world-renowned Rio Reventazon, read-and-run waterfalls, such as Poza Azul, and everything you could possibly want from one river in the Rio Pacuare. For us the highlight was the Rio Toro.
+
+small-drop
+
+In Costa Rica, where so many rivers are rightly labeled ‘classics’ one of the most memorable of our month there remains the Rio Toro. Beginning at the head of a valley that looks like something from ‘The Lost World,’ the put-in is overlooked by vertiginous cliffs, a 200-metre waterfall, and a small power station somehow managing not to look incongruous. As the almost constant rain dumps water into the constricted valley, the vegetation takes on a vividly green and lush appearance and the rounded boulders have a slick rusty-red colouring. The Toro is a rock-strewn mountain river with a consistent gradient, where it seems as if it will never let up, continuously dropping away in front of the nose of your boat. Twisting ledges around corners, constant apprehension as you race into the next bend, all the time conscious of descending further and further away from the road. On the first boating day in Costa Rica on this river, we had cracked a hole in one boat while still within sight of the start, forcing us to signal frantically to our shuttle driver not to leave. On our last boating day in Costa Rica, faced with a choice of going back to attempt the Toro again or run La Paz waterfall, we felt that this classic had it all, so back we went. At the get-out there is a thermal springs where we sat awaiting our shuttle back to town relaxing in the warm water, as the rain continued to pelt down.
+
+Days later it all began again, with the team flying to Ecuador, equaling in a few hours of flight the distance driven by car in the previous number of months.
+
+Ecuador
+
+In keeping with the friendly nature of international kayaking, we combined forces with a crew of Scottish boaters for a number of weeks. Ecuador was the most consistent section of our trip in terms of the style of boating - the river characteristics were consistent across the various centres out of which we based ourselves and many of the rivers seem to blur together in the recollection - all rocky, low water, technical and tight, hard on gear. In that sense, it was a lot like Ireland, but warmer. It was more exposed too, with the sense that if things were to go wrong, some of the routes to walk out of the jungle would take a number of days, not hours.
+
+above-paddler
+Patagonia
+We had said goodbye to our 4x4 in Costa Rica, striking quite a decent deal for ourselves in the process (selling it for a few hundred dollars less than we paid for it and then bumming a lift to the airport from the new owner). Since then we had traveled the intervening distance from Ecuador to Chile on the public buses, just like the regular members of the public, and felt the need to take our enterprise into the private domain once more. Subsequently, the newly acquired little yellow school van carried us across the Andes from Chile to Argentina and back again several times, all in search of Patagonian kayaking. The kayaking here, albeit difficult to access in the remote regions of the southern Andes, is some of the finest in the world and certainly the hardest and most committing days of our trip were spend in this most beautiful parts of the Americas.
+
+Camping by the banks of these hard, punishing rivers waiting for the day to begin, gives you plenty of time to take it all in. Sometimes you travel a long way to spend a short time on the water, and for a kayaker the time on the water is ultimately all that matters. Patagonia is different. The journey itself, and simply being there, in the valleys, can be enough.
+
+falls-400pRio Manso
+
+The sport of kayaking is a many-faceted thing; not all of them available in one place, so Latin America presented endless new experiences to us. In our trip we paddled steep creeks, big volume monsters, and remote canyons, but running huge waterfalls was entirely new. Several of the classic rivers of the Chilean and Argentinean Patagonia are punctuated with vertical walls of frothing water, of a kind that none of us had ever encountered before. The immediate and most obvious result of this was to return us to our beginnings as kayakers – the combination of terror and inexperience that leads to serious questioning about your ability to boat is something familiar to every novice kayaker.
+
+So it was for us again, sitting in eddies mere metres from the lip of appalling messes of vertical water. In the old days, kayakers measured their readiness to run scary rivers using the ‘expectoration test’ – if you can’t summon up enough spittle to spit, then perhaps you’re not ready yet. La Cascada de Los Alerces on the Rio Manso came close to failing us on the ‘dry-mouth’ test. This wasn't the biggest drop of the trip, but easily the longest time any of us have inspected a drop and still run it. With the experience of walking way from La Paz waterfall in Costa Rica still fresh in mind, there was a kind of grim determination to get to grips with this one.
+
+Rarely run, this waterfall requires a technically precise entry move – running down the left-hand side of the river to avoid the turbulent trough of whitewater in the center, before ramping hard off the lip to throw the boat out beyond the crease, with the aim of reuniting with the falling curtain, all the while trying to torque around to face downstream for the plunge into the base of the drop. We had been running bigger and bigger waterfalls in the preceding months, but this was something new. In the end, as every beginner eventually learns, kayaking is all about the willingness to leave the safety of the eddy behind. It's fairly lonely in the eddy above this drop. Nice, quiet, and you don't really want to ferry out of there; as always the hardest paddle stroke is the one that puts you beyond the point of no return. 
+
+Rio Futaleufu
+
+Like a canvas tent, the rain clouds seem to drape themselves across the ridgepole of the mountain range, insulating and muffling all the sound. It seems immensely still in places like the valley of the Rio Futaleufu, deceptively so when you are floating down into the first rapid of that enormous river. For our trip, the Rio Futaleufu was by far the biggest volume of water we had edged out into - think of the volume of the Shannon River constrained into the Glen of the Downs. As the course available to the water narrows, the river goes from being a quiet sweep of smooth water into a gauntlet of foam-topped waves and stoppers crashing above the kayak, and the noise rises with it.
+
+For whitewater kayakers, the valley of the mighty Rio Futaleufu is one of the fabled destinations. This huge swathe of river drains enormous volumes of turquoise water from the Patagonian highlands and, at the same time, draws boaters from much further afield. And now it was our turn - a long-imagined arrival that, of course, was nothing like the expectation. 
+
+Below the Chilean town of Futaleufu, we put ourselves and our road-weary kayaks onto the waters of the calm eddy above La Entrada rapid. The water had travelled quietly in its channel from Argentina; us more noisily overland from sunny California. Below this eddy, the roles are reversed - the waters roar into the canyons and we are suitably silent.
+
+Our first day there was also the single biggest water day of the entire year, with only us on the river, everyone else opting not to paddle this day, choosing to wait instead until the level dropped. All of this was news to us until we got off the river, eyes out on stalks, having escaped unscathed from huge crashing waves, big raft-eating holes, and a scary pour-over rapid known simply as 'Pillow.'
+
+For us, the Rio Futaleufu was the big turning point of our trip - this is as far south as we would paddle and after here we were to hang up our paddles and become backpackers for a while.
+
+Before here, we had misplaced people in rain-swollen torrents in Costa Rica, been confined by the giant walls of Mexican canyons, abseiled around terminal river holes in the Ecuadorian jungle, and thrown ourselves off steep waterfalls in Argentina.
+
+Off the river, we had travelled by foot, chicken bus, luxury bus, 4x4, plane, donkey, train, motorcycle rickshaw, assorted decrepit taxis, yellow school bus, metro, motorboat; been frozen in the mountains, burned in the desert, lost in the cities, lost in the countryside, and taken refuge from the heat and hustle in cool and calm churches.
+
+Despite all the misadventures and five months of warm-up leading to this point, nothing had prepared us for, or even warned us about, floating out into smooth seam of the river. The rapids of La Entrada, Pillow, Mundaka, Tiburon, Más o Menos, and Casa de Piedras laid on a Saint Patrick's week special. With no one else around, and the commercial rafters getting off the river early, we had it all to ourselves, and a lonely place the middle of the flow can be at times like those.
+
+bay--town
+This part of the river is known as 'Corazon de Futaleufu' - the heart of the Futaleufu - and it's at the core of an immensely quiet and majestic valley, with, in all directions, cascades of water falling off the cliff tops, old-growth forests on vertiginous slopes, an intense blue glacier topping a mountain peak further off, threatening rain clouds rolling west from deeper inside Chile and out to the Pacific, sunshine in the cloud gaps from east towards the plains of Argentina.
+The mighty Rio Futaleufu is as fine a place as any of us have had the privilege to paddle. More than any other church or cathedral we had seen on the way from Baja Mexico to there, it was a balm for a boater's soul. All of us will be back. 
+
+At the end of it all we had owned and disposed of two vehicles and several boats, not to mention broken paddles, thrashed tents and a veritable mountain of assorted camping and hiking gear. We had occasion to visit a number of hospitals, but that's all part of the fun of international kayaking.
+
+As we left the area, and given the day that was in it, we decided to stage the town’s first ever St. Patrick’s Day Parade. As our little yellow school van cruised the Plaza Bernardo O’Higgins in the tiny village of Futaleufu to celebrate our national day, we were unaware that this was our final kayaking day of the trip. Although we continued travelling for several months after this point, there were to be no more rivers for us – minor paragliding accidents, mechanical trouble, and dwindling numbers of personnel saw to that. In hindsight, we couldn’t have picked a higher note on which to hang up the paddles.
+
+
+
+
+
+For more information, photos, and video from this trip, including all the non-kayaking activities, please visit our trip website at MananaManana.com.
+
+
+
+COMMENTS	
+Add New	Search	RSS
+Oracle - This is a fantastic article	IP:88.117.92.77 | 2007-01-04 12:33:20
+wow best article on paddling I read - love it - sounded like a serious adventure and lots of fun - hope to see more of these here - all I can say is WOW - deadly photos also- :P
+Write comment
+Name:
+
+Title:
+
+
+	
+	Security Image
+Last Updated ( 12 February 2007 )
+ 
+< Prev	 	Next >
+[ Back ]
+Full banner para el pie.
+crc aug
+Get the Outsider Newsletter
+ 
+CB Login
+
+
+ Remember me
+
+Forgot Password?
+Register
+EVENTS CALENDER
+	August 2008	September 2008
+Su	Mo	Tu	We	Th	Fr	Sa
+Week 31						1	2
+Week 32	3	4	5	6	7	8	9
+Week 33	10	11	12	13	14	15	16
+Week 34	17	18	19	20	21	22	23
+Week 35	24	25	26	27	28	29	30
+Week 36	31						
+Main Menu
+Home
+Gallery
+Members Blogs
+Summit Log
+Newsflash Pro
+World Champion ultra runner comes to 53° North   Gold medalist in the 100km Wold Championships, Lizzy Hawker, is due in town to ...  Details...
+
+Chinese summit puts Irish Everest plans back on track   Two hundred and eighty-five climbers at Everest base camp, including the two Irishmen, ...  Details...
+
+Banff Film Festival coming to Ireland We just came across an awe-inspiring trailer advertising the 5 point Film Festival ...  Details...
+
+Mammoth waves surfed off Donegal coast (Photographs courtesy of www.mickeysmith.co.uk) An international crew of surfers and ...  Details...
+
+TGR Ski & Snowboard - The North Face and Outsider presents ... Outsider & The North Face would like to invite you to the launch of the TGR Ski and Snowboard ...  Details...
+
+Irish Wavesailing Championships Injured but not out, 18 times National Champion Oisin van Gelderen (Dublin) has to settle ...  Details...
+
+FreeStyle Test Night ChainReaction and Technine are hosting a snowboard freestyle test night October 24th. The session ...  Details...
+
+--= NFSP =--
+
+Beyond Endurance “Explorers wanted: ordinary men and women wanted for an ...  Details...
+
+mod_zoom_pics
+
+Irish Adventure Challenge 2007
+
+Irish Adventure Challenge 2007
+We have 3 guests online
+
+Burton Snowboard Binding
+Helly Hansen JPN Ikaros Ski Jacket
+Forum Craft 152 Snowboard
+Burton Ion Snowboard Boot
+Forum Arena Binding
+Salomon Women's Charm 7 Ski Boot
+Ireland Weather
+Dublin, Ireland
+
+Temp:	17°C
+Wind Chill:	17°C
+Humidity:	77%
+Speed:	24 km/h
+Direct.:	310°
+Barom.:	1005.1 mb
+
+NW
+Show more details
+Provided by:  
+Gear Review
+Trail Running, Trail running Kit and the Runner's High
+Known to Outsiders for years as far superior to its more urbane cousin, road running, this no-frills activity is making huge leaps and bounds in popularity in the last few years. (no pun intended). For us, its a no-brainer, throw on a pair of trail runners, a long sleeve top and a pair of leggings and head off to the mountains or the beach. Conceptually miles away from the monotony of slapping along on the tarmac, trail runners have to jump over logs, balance on rocks and splash through streams, which gives their bodies a much better all over workout and seems to especially target the core stability muscles. Not to mention the running up hills aspect. Its all fantastic fun.
+
+Did we mention the runners high? Originally thought to be caused by endorphins, this theory was debunked recently when scientists found out the endorphins were too bulky to pass through the brain membrane. So the runners high was pronounced to be a myth...until Anandamide was discovered. Anandamide, (named after the Sanskrit word for “bliss”) is a neurotransmitter produced in our brain that activates the CB(1) receptor. This is the same chemical receptor that is triggered by tetrahydrocannabinol (THC), the active ingredient in marijuana.
+
+According to Arne Dietrich, Ph.D , the pioneer of this research, you're more likely to experience runner's high when you run just a little slower than your 10-K race pace, also called tempo pace. Slow down more than that, and you don't produce enough stress. Run faster, and you get overwhelmed by the effort. A similar interpretation explains why runners get higher than bicyclists, swimmers, and those who simply stroll around the block. Bicyclists and swimmers don't support their own body weight while exercising; walking isn't very intense. In other words, these activities don't produce as much stress as running.
+
+Anandamide does more than just get you high. It also dilates your blood vessels and the bronchial tubes in your lungs. Both of these physical adaptations should help you run better and longer.. "The whole system makes sense from an evolutionary perspective," notes Dietrich.
+
+So what a great excuse to get some running gear and get out; blissed out happiness, abs like steel and clean sweet air.
+
+We are reviewing 5 different types of Trail shoes, as well as some of our favourite technical tops and tights. Trail shoes are different from ordinary runners in that they are built more sturdily, have more support around the ankles and most importantly have better grip.
+
+Read more...
+ 
+
+© 2006 Outsider.com
+Site by CMKC Group Design
+
+ 
+
+Warning: fopen(/home/outsider07/domains/outsider.ie/public_html/components/com_sef/cache/shCacheContent.php) [function.fopen]: failed to open stream: Permission denied in /home/outsider07/domains/outsider.ie/public_html/components/com_sef/shCache.php on line 112
+
+#### END JUST THE TEXT
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
 <!-- saved from url=(0070)http://outsider.ie/index.php/Indecision-is-the-Key-to-Flexibility.html -->
@@ -84,42 +277,7 @@ onload="MM_preloadImages('img/btn_hill_dwn.gif','img/btn_rock_dwn.gif','img/btn_
       border=0>
         <TBODY>
         <TR>
-          <TD>
-            <TABLE class=moduletable-none cellSpacing=0 cellPadding=0>
-              <TBODY>
-              <TR>
-                <TD>
-                  <UL id=mainlevel-nav>
-                    <LI><A class=mainlevel-nav 
-                    href="http://outsider.ie/index.php/Home.html">Home</A>
-                    <LI><A class=mainlevel-nav 
-                    href="http://outsider.ie/index.php/weblinks/">Outsider 
-                    Recommends</A>
-                    <LI><A class=mainlevel-nav 
-                    href="http://outsider.ie/index.php/Videos/">Videos</A>
-                    <LI><A class=mainlevel-nav 
-                    href="http://outsider.ie/index.php/Forums.html">Forums</A>
-                    <LI><A class=mainlevel-nav 
-                    href="http://outsider.ie/index.php/Where-to-Buy.html">Where 
-                    to Buy</A>
-                    <LI><A class=mainlevel-nav 
-                    href="http://outsider.ie/index.php/Contact-Us/">Contact 
-                    Us</A>
-                    <LI><A class=mainlevel-nav 
-                    href="http://outsider.ie/index.php/Subscribe.html">Subscribe</A>
-                    <LI><A class=mainlevel-nav 
-                    href="http://outsider.ie/index.php/advertise.html">advertise</A>
-                    <LI><A class=mainlevel-nav 
-                    href="http://outsider.ie/index.php/Competitions/">Competitions</A></LI></UL></TD></TR></TBODY></TABLE></TD>
-          <TD class=search vAlign=top align=left>
-            <FORM action=index.php method=post>
-            <DIV align=center><INPUT class=inputbox 
-            onblur="if(this.value=='') this.value='search...';" 
-            onfocus="if(this.value=='search...') this.value='';" size=15 
-            value=search... name=searchword> <INPUT type=hidden value=search 
-            name=option> </DIV></FORM></TD>
-          <TD class=free>&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
-  <TR>
+          <TR>
     <TD>
       <TABLE height="100%" cellSpacing=0 cellPadding=0 width=953 align=center 
       border=0>
@@ -234,7 +392,10 @@ onload="MM_preloadImages('img/btn_hill_dwn.gif','img/btn_rock_dwn.gif','img/btn_
                             <TD vAlign=top colSpan=2><IMG title=falls-title 
                               height=170 alt=falls-title 
                               src="Outsider Magazine Online_files/falls-title.jpg" 
-                              width=227 border=0><BR>There is something obvious 
+                              width=227 border=0><BR>
+                              
+                              
+                              There is something obvious 
                               about picking a route to travel through Latin 
                               America – begin in the north and work your way 
                               down the Mexican coast, along the narrow strip of 
@@ -244,9 +405,9 @@ onload="MM_preloadImages('img/btn_hill_dwn.gif','img/btn_rock_dwn.gif','img/btn_
                               on the left. Stop when there are oceans both to 
                               the right and to the left. With such landmarks 
                               guiding the way, it's almost impossible to get 
-                              lost. 
-                              <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><SPAN>Considering 
+                              lost.
+
+                              Considering 
                               this unsophisticated thinking and the token 
                               amounts of conventional planning, our kayaking 
                               trip was astonishingly successful. Despite the 
@@ -270,18 +431,19 @@ onload="MM_preloadImages('img/btn_hill_dwn.gif','img/btn_rock_dwn.gif','img/btn_
                               ‘Indecision is the key to flexibility’ – newly and 
                               badly translated into Spanish. Our planning and 
                               execution remained highly flexible 
-                              throughout.</SPAN> </P>
-                              <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><IMG 
-                              title=police-200l height=150 alt=police-200l 
-                              hspace=5 
-                              src="Outsider Magazine Online_files/police-200l.jpg" 
+                              throughout.
+                              
+                              /police-200l.jpg
+
+
                               width=200 align=left vspace=5 border=0><SPAN><SPAN 
                               class=Apple-style-span 
-                              style="FONT-WEIGHT: bold">Bad Beginning in the 
-                              USA</SPAN></SPAN> </P>
-                              <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><SPAN>Our 
+                              style="FONT-WEIGHT: bold">
+                              
+                              Bad Beginning in the 
+                              USA
+                              
+                              Our 
                               initial foray into paddling in the Americas ended 
                               up being one of the most disastrously mismanaged 
                               days of the trip. Certain people still don’t want 
@@ -292,16 +454,12 @@ onload="MM_preloadImages('img/btn_hill_dwn.gif','img/btn_rock_dwn.gif','img/btn_
                               of the local police and a dramatic night-time 
                               helicopter extraction from the river. Some stories 
                               are funny after the event; this was funny even as 
-                              it happened.</SPAN> </P>
-                              <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><SPAN><SPAN 
-                              class=Apple-style-span 
-                              style="FONT-WEIGHT: bold">Good Beginning in 
-                              Mexico</SPAN><SPAN class=Apple-style-span 
-                              style="FONT-WEIGHT: bold">&nbsp;</SPAN></SPAN> 
-</P>
-                              <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><SPAN>Moving 
+                              it happened.
+                              
+                              Good Beginning in 
+                              Mexico
+                              
+                              Moving 
                               swiftly along, we got things back on the right 
                               track a few weeks later in Mexico’s Barranchas del 
                               Cobre (the Copper Canyon, the deepest canyon in 
@@ -316,9 +474,10 @@ onload="MM_preloadImages('img/btn_hill_dwn.gif','img/btn_rock_dwn.gif','img/btn_
                               went well and relatively uneventfully, was beyond 
                               a relief. We took this day as our second first 
                               beginning, and the following six months took their 
-                              cue from there.</SPAN> </P>
-                              <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><SPAN>Sometime 
+                              cue from there.
+                              
+                              
+                              Sometime 
                               the reasons for going kayaking are about the old 
                               mountaineering stories of 'because it's there' or 
                               'valuing your life by risking it' but sometimes 
@@ -328,14 +487,12 @@ onload="MM_preloadImages('img/btn_hill_dwn.gif','img/btn_rock_dwn.gif','img/btn_
                               perhaps one of parts of our trip that we 
                               appreciated the most, just on the basis of the 
                               Mexican people we met, only some of them 
-                              paddlers.</SPAN> </P>
-                              <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><SPAN><SPAN 
-                              class=Apple-style-span 
-                              style="FONT-WEIGHT: bold">Rich Pickings in Costa 
-                              Rica</SPAN></SPAN> </P>
-                              <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><SPAN>On 
+                              paddlers.
+                              
+                             Rich Pickings in Costa 
+                              Rica
+                              
+                              On 
                               a kayaker's mental map of the world, Costa Rica 
                               occupies the same part as the Alps does for 
                               mountaineers - it's on the wish list for years, 
@@ -349,18 +506,17 @@ onload="MM_preloadImages('img/btn_hill_dwn.gif','img/btn_rock_dwn.gif','img/btn_
                               waterfalls, such as Poza Azul, and everything you 
                               could possibly want from one river in the Rio 
                               Pacuare. For us the highlight was the Rio 
-                              Toro.</SPAN> </P>
-                              <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"> 
-                              </P>
-                              <DIV style="TEXT-ALIGN: center"><IMG 
+                              Toro.
+                              
+                              
+                              IMG 
                               title=small-drop height=338 alt=small-drop 
                               hspace=5 
                               src="Outsider Magazine Online_files/small-drop.jpg" 
                               width=450 vspace=5 border=0> </DIV><BR>
-                              <P> </P>
-                              <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><SPAN>In 
+                              
+                              
+                              In 
                               Costa Rica, where so many rivers are rightly 
                               labeled ‘classics’ one of the most memorable of 
                               our month there remains the Rio Toro. Beginning at 
@@ -390,20 +546,22 @@ onload="MM_preloadImages('img/btn_hill_dwn.gif','img/btn_rock_dwn.gif','img/btn_
                               went. At the get-out there is a thermal springs 
                               where we sat awaiting our shuttle back to town 
                               relaxing in the warm water, as the rain continued 
-                              to pelt down.</SPAN> </P>
-                              <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><SPAN>Days 
+                              to pelt down.
+                              
+                              Days 
                               later it all began again, with the team flying to 
                               Ecuador, equaling in a few hours of flight the 
                               distance driven by car in the previous number of 
-                              months.</SPAN> </P>
-                              <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><SPAN><SPAN 
-                              class=Apple-style-span 
-                              style="FONT-WEIGHT: bold">Ecuador</SPAN></SPAN> 
+                              months.
+                              
+                              Ecuador
+                              
+                              </SPAN></SPAN> 
                               </P>
                               <P 
-                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><SPAN>In 
+                              style="MARGIN: 0px 0px 6px; FONT: 10px Arial; font-size-adjust: none"><SPAN>
+                              
+                              In 
                               keeping with the friendly nature of international 
                               kayaking, we combined forces with a crew of 
                               Scottish boaters for a number of weeks. Ecuador 
