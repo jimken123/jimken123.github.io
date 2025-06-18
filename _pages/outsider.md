@@ -88,8 +88,6 @@ Off the river, we had travelled by foot, chicken bus, luxury bus, 4x4, plane, do
 
 Despite all the misadventures and five months of warm-up leading to this point, nothing had prepared us for, or even warned us about, floating out into smooth seam of the river. The rapids of La Entrada, Pillow, Mundaka, Tiburon, Más o Menos, and Casa de Piedras laid on a Saint Patrick's week special. With no one else around, and the commercial rafters getting off the river early, we had it all to ourselves, and a lonely place the middle of the flow can be at times like those.
 
-<img src="/img/outsider/bay--town.jpg">
-
 This part of the river is known as 'Corazon de Futaleufu' - the heart of the Futaleufu - and it's at the core of an immensely quiet and majestic valley, with, in all directions, cascades of water falling off the cliff tops, old-growth forests on vertiginous slopes, an intense blue glacier topping a mountain peak further off, threatening rain clouds rolling west from deeper inside Chile and out to the Pacific, sunshine in the cloud gaps from east towards the plains of Argentina.
 
 The mighty Rio Futaleufu is as fine a place as any of us have had the privilege to paddle. More than any other church or cathedral we had seen on the way from Baja Mexico to there, it was a balm for a boater's soul. All of us will be back. 
@@ -97,6 +95,8 @@ The mighty Rio Futaleufu is as fine a place as any of us have had the privilege 
 At the end of it all we had owned and disposed of two vehicles and several boats, not to mention broken paddles, thrashed tents and a veritable mountain of assorted camping and hiking gear. We had occasion to visit a number of hospitals, but that's all part of the fun of international kayaking.
 
 As we left the area, and given the day that was in it, we decided to stage the town’s first ever St. Patrick’s Day Parade. As our little yellow school van cruised the Plaza Bernardo O’Higgins in the tiny village of Futaleufu to celebrate our national day, we were unaware that this was our final kayaking day of the trip. Although we continued travelling for several months after this point, there were to be no more rivers for us – minor paragliding accidents, mechanical trouble, and dwindling numbers of personnel saw to that. In hindsight, we couldn’t have picked a higher note on which to hang up the paddles.
+
+<img src="/img/outsider/bay--town.jpg">
 
 <i>For more information, photos, and video from this trip, including all the non-kayaking activities, please visit our trip website at MananaManana.com.</i>
 

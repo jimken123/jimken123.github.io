@@ -18,6 +18,6 @@ These are the things from the past, a foreign country.
 
 [/dublinopinion blog](https://dublinopinion.mananamanana.com/) - I was a contributor to the wide-ranging Dublin Opinion blog from 2006 to 2010, talking mostly about gigs and music. I retrieved my content from the wayback machine.
 
-[/scotland trip reports](https://mananamanana.com/scotland) - the bigger kayaking trips we went on from 2004 to 2007 are documented in these trip reports. All foreign kayaking trips are to Scotland, or some variant of that sceptered land.
+[/scotland trip reports](https://mananamanana.com/scotland) - the bigger kayaking trips we went on from 2004 to 2007 are documented in these trip reports. All foreign kayaking trips are to Scotland, or some variant of that sceptered land. In 2006 I wrote an article on the Scotland '04 trip to Latin America for Outsider magazine. It's entitled [/Indecision - The Key to Flexibility](/outsider).
 
 [/herbert park rangers fc](https://hprfc.mananamanana.com/) - I commentated on Herbert Park Rangers FC, our hours-long football games in Dublin's lovely Herbert Park. This was my first website, on Geocities, now retrieved from the wayback machine.
