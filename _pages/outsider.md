@@ -8,7 +8,7 @@ permalink: /outsider/
 
 ## Outsider article
 
-In 2007 I wrote an article on our trip in Latin America for [outsider.ie](https://outsider.ie), Ireland's outdoor magazine. The magazine and website are still on the go, but my article is no longer available there. Luckily I had a copy saved on a harddrive, so here it is, somewhat rebuilt.
+In 2006 I wrote an article on our trip in Latin America for [outsider.ie](https://outsider.ie), Ireland's outdoor magazine. The magazine and website are still on the go, but my article is no longer available there. Luckily I had a copy saved on a harddrive, so here it is, somewhat rebuilt.
 
 <img src="/img/outsider/header.jpg">
 
