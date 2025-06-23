@@ -92,7 +92,6 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 ### Not Important/Later
 
-- [ ] anything in the EXTRA folder (https://drive.google.com/drive/folders/1zID0xfQxRdHp3s5pC1Rfp6Zu3oytEXDO)
 - [ ] Can I build FB archive? - It's under settings & privacy, apparently.
 - [ ] Reorg the submenu so that new pages are not buried in /then
 - [ ] add webmentions
