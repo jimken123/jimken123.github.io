@@ -82,7 +82,6 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 ### Next up
 
-- [ ] Add commenting to /mananamanana
 - [ ] Add commenting to /ohp
 - [ ] Return everything to /mm subdomains not github urls
 - [ ] Outsider article by Jim (messy html)- Old article on kayaking in Latin America. https://drive.google.com/drive/folders/1_YJBqhCeoOoxnwT-yUzRvd3xRamiMJh1
@@ -184,6 +183,7 @@ The river runs low
 
 #### Done
 
+- [x] Add commenting to /mananamanana
 - [x] rebuild the gallery in Jekyll
 - [x] grand canyon gallery
 - [x] splashpages.net
