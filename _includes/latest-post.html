@@ -12,19 +12,34 @@
 
           <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
           <p>
-
-          <small><strong>{{ post.date | date_to_string }}</strong></small>
-          
-          <small><strong> | </strong></small>
-
-          <small><strong><a href="{{site.baseurl}}{{post.url}}#disqus_thread" style="color: #777">Comments</a></strong></small>
-          
+          <small><strong>{{ post.date | date_to_string }}</strong></small>          
           <p>
 
         </h4>
 
         <section class="text-left">
           {{ post.content | markdownify | truncatewords: site.post-preview-words }}
+        </section>
+
+        <section id="post" class="container content-section text-center">
+          <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+        
+              <h4><strong style="color:#FF6900"> Comments </strong></h4>
+              
+              <div id="zoomment"
+                  data-theme="black"
+                  data-language="en"
+                  data-gravatar="monsterid">
+              </div>
+              <script src="https://cdn.zoomment.com/zoomment.min.js"></script>
+        
+              <hr>
+        
+            </div>
+        
+          </div>
+        
         </section>
 
         <h4><a href="{{site.baseurl}}/blog/">Older Posts</a></h4>
