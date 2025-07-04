@@ -84,7 +84,6 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 - [ ] Try https://tinylytics.app/
 - [ ] Return everything to /mm subdomains not github urls
-- [ ] Outsider article by Jim (messy html)- Old article on kayaking in Latin America. https://drive.google.com/drive/folders/1_YJBqhCeoOoxnwT-yUzRvd3xRamiMJh1
 - [ ] Outsider article by Coran (pdf) on Grand Canyon
 - [ ] About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
 - [ ] old landing pages
@@ -183,6 +182,7 @@ The river runs low
 
 #### Done
 
+- [x] Outsider article by Jim (messy html)- Old article on kayaking in Latin America. https://drive.google.com/drive/folders/1_YJBqhCeoOoxnwT-yUzRvd3xRamiMJh1
 - [x] Add commenting to /ohp
 - [x] Add commenting to /mananamanana
 - [x] rebuild the gallery in Jekyll
