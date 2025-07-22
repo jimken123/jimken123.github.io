@@ -182,7 +182,6 @@ The river runs low
 
 #### Done
 
-<<<<<<< HEAD
 - [x] Outsider article by Jim (messy html)- Old article on kayaking in Latin America
 - [x] Add commenting to /ohp
 - [x] Add commenting to /mananamanana
