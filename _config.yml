@@ -106,7 +106,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-post-preview-words: 20
+post-preview-words: 96
 
 paginate: 99
 
