@@ -82,6 +82,8 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 ### Next up
 
+- [ ] Regenerate sitemap; make it regenerate automatically
+- [ ] Built /all.html and populate it with all pages as css buttons; include as a section in /index
 - [ ] Try https://tinylytics.app/
 - [ ] Return everything to /mm subdomains not github urls
 - [ ] Outsider article by Coran (pdf) on Grand Canyon
