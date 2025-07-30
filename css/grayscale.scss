@@ -36,7 +36,7 @@ h6 {
     letter-spacing: 1px;
 }
 
-/* Added by Jim */
+/* Search added by Jim */
 
 .search {
     width: 100%;
@@ -44,6 +44,34 @@ h6 {
     font-family: "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: $secondary-color;
     background-color: $primary-color;
+}
+
+/* Buttons */
+
+.button {
+  background-color: #FF6900;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.button1 {
+  background-color: #ff6900; 
+  color: black; 
+  border: 2px white;
+}
+
+.button1:hover {
+  background-color: grey;
+  color: black;
 }
 
 /* Added in { Personal } */
