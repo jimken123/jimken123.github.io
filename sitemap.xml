@@ -23,7 +23,7 @@ layout: null
   {% endfor %}
   {% for post in site.posts %}
     <url>
-      <loc>{{ site.url }}{{ site.baseurl }}{{ post.url }}</loc>
+      <loc>{{ site.url }}{{ site.repository_name }}{{ post.url }}</loc>
       {% if post.lastmod == null %}
         <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
       {% else %}
@@ -31,6 +31,13 @@ layout: null
       {% endif %}
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
+    </url>
+  {% endfor %}
+  {% for tag in site.tags %}
+    <url>
+      <loc>{{ site.url }}{{ site.baseurl }}/tags/{{ tag[0] }}.html</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   {% endfor %}
 </urlset>

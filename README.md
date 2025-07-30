@@ -82,6 +82,8 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 ### Next up
 
+- [ ] Regenerate sitemap; make it regenerate automatically
+- [ ] Built /all.html and populate it with all pages as css buttons; include as a section in /index
 - [ ] Try https://tinylytics.app/
 - [ ] Return everything to /mm subdomains not github urls
 - [ ] Outsider article by Coran (pdf) on Grand Canyon
@@ -93,7 +95,6 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 - [ ] Can I build FB archive? - It's under settings & privacy, apparently.
 - [ ] Reorg the submenu so that new pages are not buried in /then
 - [ ] add webmentions
-- [ ] add dark mode - like in https://mademistakes.com/mastering-jekyll/how-to-link/
 - [ ] add activitypub
 - [ ] add search bar
 - [ ] RSS FEED - The RSS feed is automatically generated and placed in /feed.xml.
@@ -182,6 +183,7 @@ The river runs low
 
 #### Done
 
+- [x] Add dark mode - like in https://mademistakes.com/mastering-jekyll/how-to-link/
 - [x] Outsider article by Jim (messy html)- Old article on kayaking in Latin America
 - [x] Add commenting to /ohp
 - [x] Add commenting to /mananamanana
