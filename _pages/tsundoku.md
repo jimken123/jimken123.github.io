@@ -32,6 +32,12 @@ Finally plugging the gap, both in my women writers' list and in the science fict
 
 <img src="/img/tsundoku/lefthand.png">
 
+#### Listen to the Land Speak - Manchán Magan
+
+A wandering philosophy wrapped around the old Irish mythology and ancient places.
+
+<img src="/img/tsundoku/ListentotheLandSpeak.jpg">
+
 #### Dones més enllà de les armes - Various authors
 
 This is a transcript collection of verbal accounts given by various women who have been involved in armed struggles around the world. I picked it up at the library in Sort, having joined the library just to do that. I haven't joined the library since I was quite small! The book was part of a display on for March 8, International Womens' Day. The photograhic accompaniment in the libary featured two women from the Irish republican movement in Belfast. 
