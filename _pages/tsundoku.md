@@ -42,7 +42,7 @@ A wandering philosophy wrapped around the old Irish mythology and ancient places
 
 This is a transcript collection of verbal accounts given by various women who have been involved in armed struggles around the world. I picked it up at the library in Sort, having joined the library just to do that. I haven't joined the library since I was quite small! The book was part of a display on for March 8, International Womens' Day. The photograhic accompaniment in the libary featured two women from the Irish republican movement in Belfast. 
 
-<img src="/img/tsundoku/donesarmes.jpg">
+<img src="/img/tsundoku/donesmes.png" width="300">
 
 #### A Year with Swollen Appendices - Brian Eno.
 
