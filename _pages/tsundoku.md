@@ -24,7 +24,7 @@ This is what I'm reading at the moment, have piled up to read in the future, or 
 
 The summer of feminist reading continues.
 
-<img src="/img/tsundoku/mrsdalloway.png">
+<img src="/img/tsundoku/mrsdalloway.png" width="300">
 
 #### Left Hand of Darkness - Ursula Le Guin
 
