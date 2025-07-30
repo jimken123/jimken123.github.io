@@ -20,7 +20,7 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime. 
 
-#### Mrs. Dalloway - Virginia Woolf
+#### Mrs. Dalloway - Virginia Woolf
 
 The summer of feminist reading continues.
 
