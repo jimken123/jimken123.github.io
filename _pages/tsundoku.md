@@ -20,6 +20,18 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime. 
 
+#### Mrs. Dalloway - Virginia Woolf
+
+The summer of feminist reading continues.
+
+<img src="/img/tsundoku/mrsdalloway.png">
+
+#### Left Hand of Darkness - Ursula Le Guin
+
+Finally plugging the gap, both in my women writers' list and in the science fiction genre.
+
+<img src="/img/tsundoku/lefthand.png">
+
 #### Dones més enllà de les armes - Various authors
 
 This is a transcript collection of verbal accounts given by various women who have been involved in armed struggles around the world. I picked it up at the library in Sort, having joined the library just to do that. I haven't joined the library since I was quite small! The book was part of a display on for March 8, International Womens' Day. The photograhic accompaniment in the libary featured two women from the Irish republican movement in Belfast. 
