@@ -30,13 +30,13 @@ The summer of feminist reading continues.
 
 Finally plugging the gap, both in my women writers' list and in the science fiction genre.
 
-<img src="/img/tsundoku/lefthand.png">
+<img src="/img/tsundoku/lefthand.png" width="300">
 
 #### Listen to the Land Speak - Manchán Magan
 
 A wandering philosophy wrapped around the old Irish mythology and ancient places.
 
-<img src="/img/tsundoku/ListentotheLandSpeak.jpg">
+<img src="/img/tsundoku/ListentotheLandSpeak.jpg" width="300">
 
 #### Dones més enllà de les armes - Various authors
 
