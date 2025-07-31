@@ -82,7 +82,7 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 ### Next up
 
-- [ ] Regenerate sitemap; make it regenerate automatically
+- [ ] Regenerate sitemap; make it regenerate automatically.
 - [ ] Try https://tinylytics.app/
 - [ ] Return everything to /mm subdomains not github urls
 - [ ] Outsider article by Coran (pdf) on Grand Canyon
