@@ -124,7 +124,7 @@ Another one I read because it kept coming up on those lists of Important Books. 
 
 It's been about 35 years since I read this and then lost myself for years in the fiction of Lev Nikolayevich - time for a reread.
 
-<img src="/img/tsundoku/Lev-Tolstoy--Ana-Karenina--9217-0-0-950x950.png" width="300">
+<img src="/img/tsundoku/9781853262715.jpg" width="300">
 
 #### Invisible Wonen - Caroline Criado Pérez
 
