@@ -82,7 +82,6 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 ### Next up
 
-- [ ] Regenerate sitemap; make it regenerate automatically.
 - [ ] Try https://tinylytics.app/
 - [ ] Return everything to /mm subdomains not github urls
 - [ ] Outsider article by Coran (pdf) on Grand Canyon
@@ -182,6 +181,7 @@ The river runs low
 
 #### Done
 
+- [x] Regenerate sitemap; make it regenerate automatically
 - [x] Built /all.html and populate it with all pages as css buttons; include as a section in /index
 - [x] Add dark mode - like in https://mademistakes.com/mastering-jekyll/how-to-link/
 - [x] Outsider article by Jim (messy html)- Old article on kayaking in Latin America

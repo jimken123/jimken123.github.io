@@ -5,7 +5,7 @@ serve-production
   - Builds and serves your website in 127.0.0.1:4000
 
 serve
-  - Builds and serves your website without generating the Disqus comments and the Google Analytics code
+  - Builds and serves your website
 
 new-post <title>
   - Creates a new post under \_posts
