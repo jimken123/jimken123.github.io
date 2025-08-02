@@ -88,7 +88,7 @@ Most of what I'm reading in Catalan these days is from our local global Irish wr
 
 #### Girl in a Band - Kim Gordon
 
-If she's not the coolest female bass player called 'Kim' of all time, then she's in the top two. One of the best music books i've read.
+If she's not the coolest female bass player called 'Kim' of all time, then she's in the top two. One of the best music books I've read.
 
 <img src="/img/tsundoku/kimgordon.jpg" width="300">
 
