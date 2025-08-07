@@ -20,7 +20,7 @@ This is what I'm reading at the moment, have piled up to read in the future, or 
 
 #### Mrs. Dalloway - Virginia Woolf
 
-The summer of feminist reading continues.
+The summer of feminist reading continues. What a revelation this book is! How am I only now reading Woolf? A book to savour and read around, and to read again.
 
 <img src="/img/tsundoku/mrsdalloway.png" width="300">
 
