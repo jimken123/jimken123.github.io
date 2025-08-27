@@ -8,7 +8,7 @@ permalink: /hello/
 
 ## Hello
 
-I've never quite sure what's the distinction between a [/hello](https://mananamanana.com/hello) page and an [/about](https://mananamanana.com/about) one, but between the two you can probably get a handle on me and my webiste.
+I've never quite sure what's the distinction between a [/hello](https://mananamanana.com/hello) page and an [/about](https://mananamanana.com/about) one, but between the two you can probably get a handle on me and my website.
 
 My main connection point to the web is always [/manana manana](https://mananamanana.com).
 
