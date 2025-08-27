@@ -35,7 +35,7 @@ Even on the inappropriate cows' milk they were both stronger after just one day.
 
 <img src="/img/2025/goats04.jpg" alt="">
 
-In summary, at this point, it is fair to say that the goats are doing well. Here's our own shepherdess, Saoirse, looking after them in the garden. The little one is the female and she's was given the name Tabby. Finding a name for the bigger-but-weaker male took a while but the children finally settled on Mystery. Other suggested names for him were Midnight and Agamemnon.
+In summary, at this point, it is fair to say that the goats are doing well. Here's our own shepherdess, Saoirse, looking after them in the garden. The little one is the female and she's was given the name Taffy. Finding a name for the bigger-but-weaker male took a while but the children finally settled on Mystery. Other suggested names for him were Midnight and Agamemnon.
 
 <img src="/img/2025/goats05.jpg" alt="">
 
