@@ -18,6 +18,12 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime. 
 
+#### Memòria distant - Colm Tóibín
+
+The ever-prolific Senyor Tóibín returns with a collection of essays, on the idea of 'distant memories' - or maybe unreliable memories. He gave a well-attended talk on this in the village of Farrera, just up the road.
+
+<img src="/img/tsundoku/memoriadistant.png" width="300">
+
 #### The Pearl - John Steinbeck
 
 Rereading this classic after so many decades that I couldn't even remember the plot. My favourite Steinbeck remains Travels with Charley, but I must also reread The Grapes of Wrath.
