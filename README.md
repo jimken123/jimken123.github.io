@@ -82,7 +82,6 @@ A rolling to do list, with a satisfying 'Done' section at the bottom.
 
 ### Next up
 
-- [ ] Try https://tinylytics.app/
 - [ ] Return everything to /mm subdomains not github urls
 - [ ] Outsider article by Coran (pdf) on Grand Canyon
 - [ ] About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
@@ -181,6 +180,7 @@ The river runs low
 
 #### Done
 
+- [x] Try https://tinylytics.app/
 - [x] Regenerate sitemap; make it regenerate automatically
 - [x] Built /all.html and populate it with all pages as css buttons; include as a section in /index
 - [x] Add dark mode - like in https://mademistakes.com/mastering-jekyll/how-to-link/

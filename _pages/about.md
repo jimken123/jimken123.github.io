@@ -8,7 +8,7 @@ permalink: /about/
 
 ## About
 
-<p><a href="#jim-kennedy">Jim Kennedy</a> | <a href="#mananamanana">mananamanana</a></p>
+<p><a href="#jim-kennedy">about me</a> | <a href="#mananamanana">about mananamanana</a></p>
 
 ### Jim Kennedy
 
@@ -35,6 +35,8 @@ It has been on the go since March 2005, waaaay back in the day. It was preceded 
 This new look is a long overdue revamp, inspired by the ideas of the small web, the movement to claim back our corners of the internet. This overhaul, the first major one in twenty years, is, naturally, a work in progress. I'm trying to find and retrieve all my stuff, as much of it that still exists somewhere. To wit, I've been elbow-deep in archive.org, rooting around in dusty folders on desktops, and unzipping ancient zip files.
 
 The blog now added to this pile is an attempt to get back to the roots of the old web - a personal record of whatever the fuck I feel like discussing. 
+
+mananamanana.com is build with the [jekyll](https://jekyllcodex.org) static site generator using a heavily modified version of the [{ Personal }](https://github.com/le4ker/personal-jekyll-theme) jekyll theme. It's all stored on [github](https://github.com/jimken123/jimken123.github.io) and automagicked with Cloudflare and Github Actions.
 
 Separately I maintain the ohpiglet blog related to my three monkeys and my woodland creature of the forest floor. That more proper blog is all about my children. 
 
