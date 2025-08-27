@@ -44,7 +44,11 @@ A wandering philosophy wrapped around the old Irish mythology and ancient places
 
 #### Dones més enllà de les armes - Various authors
 
-This is a transcript collection of verbal accounts given by various women who have been involved in armed struggles around the world. I picked it up at the library in Sort, having joined the library just to do that. I haven't joined the library since I was quite small! The book was part of a display on for March 8, International Womens' Day. The photograhic accompaniment in the libary featured two women from the ear with Swollen Appendices - Brian Eno.
+This is a transcript collection of verbal accounts given by various women who have been involved in armed struggles around the world. I picked it up at the library in Sort, having joined the library just to do that. I haven't joined the library since I was quite small! The book was part of a display on for March 8, International Womens' Day. The photograhic accompaniment in the libary featured two women from the republican movement in the north.
+
+<img src="/img/tsundoku/doneslesarmes.png" width="300">
+
+#### A Year with Swollen Appendices - Brian Eno
 
 When this first came out, 25 years ago, I didn't 'get' Eno and was quite argumentatively dismissive. I wasn't even young and stupid then, just stupid. In the last ten years or so I have been a little obsessed with Eno's work, so it's time to revisit this.
 
