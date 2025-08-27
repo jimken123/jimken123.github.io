@@ -20,7 +20,7 @@ This is what I'm reading at the moment, have piled up to read in the future, or 
 
 #### Memòria distant - Colm Tóibín
 
-The ever-prolific Senyor Tóibín returns with a collection of essays, on the idea of 'distant memories' - or maybe unreliable memories. He gave a well-attended talk on this in the village of Farrera, just up the road.
+The ever-prolific Senyor Tóibín returns with a collection of essays, on the idea of 'distant memories' focussed around his early life in Wexford. He gave a well-attended talk on this in the village of Farrera, just up the road.
 
 <img src="/img/tsundoku/memoriadistant.png" width="300">
 
