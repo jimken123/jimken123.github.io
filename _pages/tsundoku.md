@@ -18,6 +18,12 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime. 
 
+#### The Pearl - John Steinbeck
+
+Rereading this classic after so many decades that I couldn't even remember the plot. My favourite Steinbeck remains Travels with Charley, but I must also reread The Grapes of Wrath.
+
+<img src="/img/tsundoku/thepearl.png" width="300">
+
 #### Mrs. Dalloway - Virginia Woolf
 
 The summer of feminist reading continues. What a revelation this book is! How am I only now reading Woolf? A book to savour and read around, and to read again.
