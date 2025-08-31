@@ -16,7 +16,13 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 ### Books, books, books
 
-This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime. 
+This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime.
+
+#### Waiting for Godot - Samuel  Beckett
+
+I've probably seen this play more than any other, but time to reread the text.
+
+<img src="/img/tsundoku/32249589279.jpg" width="300">
 
 #### Memòria distant - Colm Tóibín
 
@@ -89,12 +95,6 @@ Took me a few years to find this, after endlessly seeing on those lists of 'Impo
 An annual reread, always a joy over Christmas, always something new. The master.
 
 <img src="/img/tsundoku/9780141182452.jpg" width="300">
-
-#### Waiting for Godot - Samuel  Beckett
-
-I've probably seen this play more than any other, but time to reread the text.
-
-<img src="/img/tsundoku/32249589279.jpg" width="300">
 
 #### Un Llarg Hivern - Colm Tóibín
 
