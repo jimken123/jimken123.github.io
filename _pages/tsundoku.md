@@ -86,7 +86,7 @@ Another big collection of short stories that I'm dipping into and out of for abo
 
 #### A Manual for Cleaning Women - Lucia Berlin
 
-Took me a few years to find this, after endlessly seeing on those lists of 'Important Writers.' A wide ride of interlinked stories, recurring characters, and a notion that it's not really fiction.
+Took me a few years to find this, after endlessly seeing on those lists of 'Important Writers.' A wild ride of interlinked stories, recurring characters, and a notion that it's not really fiction.
 
 <img src="/img/tsundoku/9781529077223.jpg" width="300">
 
