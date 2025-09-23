@@ -16,12 +16,12 @@ We believe in Delia.
 
 ### Pancake
 
-- Plain flour, sifted - 220 g
-- Salt, pinch - 2
-- Butter - 100 g
-- Eggs - 4
-- Milk - 400 ml
-- Water - 150 ml
+- Plain flour, sifted - 440 g
+- Salt, pinch - 4
+- Butter - 200 g
+- Eggs - 8
+- Milk - 800 ml
+- Water - 300 ml
 
 ### Crumble
 

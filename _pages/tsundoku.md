@@ -16,7 +16,13 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 ### Books, books, books
 
-This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime. 
+This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime.
+
+#### Waiting for Godot - Samuel  Beckett
+
+I've probably seen this play more than any other, but time to reread the text.
+
+<img src="/img/tsundoku/32249589279.jpg" width="300">
 
 #### What Art Does - an unfinished theory - Brian Eno and Bette E.
 
@@ -86,7 +92,7 @@ Another big collection of short stories that I'm dipping into and out of for abo
 
 #### A Manual for Cleaning Women - Lucia Berlin
 
-Took me a few years to find this, after endlessly seeing on those lists of 'Important Writers.' A wide ride of interlinked stories, recurring characters, and a notion that it's not really fiction.
+Took me a few years to find this, after endlessly seeing on those lists of 'Important Writers.' A wild ride of interlinked stories, recurring characters, and a notion that it's not really fiction.
 
 <img src="/img/tsundoku/9781529077223.jpg" width="300">
 
@@ -95,12 +101,6 @@ Took me a few years to find this, after endlessly seeing on those lists of 'Impo
 An annual reread, always a joy over Christmas, always something new. The master.
 
 <img src="/img/tsundoku/9780141182452.jpg" width="300">
-
-#### Waiting for Godot - Samuel  Beckett
-
-I've probably seen this play more than any other, but time to reread the text.
-
-<img src="/img/tsundoku/32249589279.jpg" width="300">
 
 #### Un Llarg Hivern - Colm Tóibín
 
