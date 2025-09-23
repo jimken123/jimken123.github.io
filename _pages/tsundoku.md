@@ -18,6 +18,12 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime.
 
+#### Orbital - Samantha Harvey
+
+A gentle and quite beautiful imagining of the thoughts and reflections of a crew on the International Space Station over the course of 16 orbits of the earth.
+
+<img src="/img/tsundoku/orbital-harvey.jpg" width="300">
+
 #### Bedsit Disco Queen - Tracey Thorn
 
 Frank and amusing memoir from the singer of Everything But the Girl, detailing her life on the fringes of pop stardom over the years.
