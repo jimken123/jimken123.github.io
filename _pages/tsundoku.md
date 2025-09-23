@@ -18,17 +18,17 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime.
 
+#### What Art Does - an unfinished theory - Brian Eno and Bette E.
+
+The word 'unfinished' is carrying a lot of weight here in this very slight little book. Musings by the always interesting Eno, but perhaps this project needed more rounding out before hitting the shelves.
+
+<img src="/img/tsundoku/whatartdoes.jpg" width="300">
+
 #### Waiting for Godot - Samuel  Beckett
 
 I've probably seen this play more than any other, but time to reread the text.
 
 <img src="/img/tsundoku/32249589279.jpg" width="300">
-
-#### What Art Does - an unfinished theory - Brian Eno and Bette E.
-
-The word 'unfinished' is carrying a lot of weight here in this very slight little book. Musings by the always interesting Eno, but perhaps this project needed more rounding out before hitting the shelves.
-
-<img src="/img/tsundoku/whatartdoes.png" width="300">
 
 #### Memòria distant - Colm Tóibín
 
