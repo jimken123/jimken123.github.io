@@ -18,6 +18,12 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime.
 
+#### Bedsit Disco Queen - Tracey Thorn
+
+Frank and amusing memoir from the singer of Everything But the Girl, detailing her life on the fringes of pop stardom over the years.
+
+<img src="/img/tsundoku/tracey-bedsit.jpg" width="300">
+
 #### What Art Does - an unfinished theory - Brian Eno and Bette E.
 
 The word 'unfinished' is carrying a lot of weight here in this very slight little book. Musings by the always interesting Eno, but perhaps this project needed more rounding out before hitting the shelves.
