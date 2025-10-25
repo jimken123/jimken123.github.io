@@ -24,7 +24,7 @@ An architecture book for kids by the Japanese architect famous for his emergency
 
 <img src="/img/tsundoku/shirgeru-ban.jpg" width="300">
 
-#### The Old Mand and The Sea - Ernest Hemingway
+#### The Old Man and The Sea - Ernest Hemingway
 
 Another one that I've read again after decades. Another writer about whom I may have to revise my belligerent youthful opinions.
 
