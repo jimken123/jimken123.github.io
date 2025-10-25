@@ -18,6 +18,12 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime.
 
+#### The Old Mand and The Sea - Ernest Hemingway
+
+Another one that I've read again after decades. Another writer about whom I may have to revise my belligerent youthful opinions.
+
+<img src="/img/tsundoku/old-man-hemingway.jpg" width="300">
+
 #### Orbital - Samantha Harvey
 
 A gentle and quite beautiful imagining of the thoughts and reflections of a crew on the International Space Station over the course of 16 orbits of the earth.
