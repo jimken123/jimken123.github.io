@@ -12,7 +12,7 @@ permalink: /about/
 
 ### Jim Kennedy
 
-Irish climate refugee living in a wood-and-stone house in a tiny village in a steep-sided valley halfway up the Pyrenees in the least-populous county in all Catalonia.
+Irish climate refugee living in a wood-and-stone house in a tiny village in a steep-sided valley halfway up the Pyrenees in the third-least-populated county in all Catalonia.
 
 I am a whitewater kayaker by desire but a documentation specialist by trade. The first part is made possible by choosing to live within earshot of the classic kayaking section of the Noguera Pallaresa river. The second is facilitated by a combination of remote working and a good fibre-optic wifi connection.
 
