@@ -36,7 +36,7 @@ This new look is a long overdue revamp, inspired by the ideas of the small web, 
 
 The blog now added to this pile is an attempt to get back to the roots of the old web - a personal record of whatever the fuck I feel like discussing. 
 
-mananamanana.com is build with the [jekyll](https://jekyllcodex.org) static site generator using a heavily modified version of the [{ Personal }](https://github.com/le4ker/personal-jekyll-theme) jekyll theme. It uses Cooper Black font for headings and Fraunces font for everything else. It's all stored on [github](https://github.com/jimken123/jimken123.github.io) and automagicked with Cloudflare and Github Actions.
+mananamanana.com is build with the [jekyll](https://jekyllcodex.org) static site generator using a heavily modified version of the [{ Personal }](https://github.com/le4ker/personal-jekyll-theme) jekyll theme. It uses [Cooper Black](https://en.wikipedia.org/wiki/Cooper_Black) font for headings and [Fraunces](https://fraunces.undercase.xyz) for everything else. It's all stored on [github](https://github.com/jimken123/jimken123.github.io) and automagicked with Cloudflare and Github Actions.
 
 Separately I maintain the ohpiglet blog related to my three monkeys and my woodland creature of the forest floor. That more proper blog is all about my children. 
 
