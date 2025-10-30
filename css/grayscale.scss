@@ -34,7 +34,9 @@
 body {
     width: 100%;
     height: 100%;
-    font-family: "Gelica",Arial,sans-serif;
+    font-family: gelica, sans-serif;
+    font-style: normal;
+    font-weight: 200;
     color: $font-color;
     background-color: $primary-color;
 }
