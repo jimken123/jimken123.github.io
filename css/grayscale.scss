@@ -45,8 +45,10 @@ h5,
 h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: "Cooper Std Black",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-family: 'Cooper Std Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Cooper Std Black'), url('fonts/CooperBlack-Std.woff') format('woff');
     letter-spacing: 1px;
 }
 
