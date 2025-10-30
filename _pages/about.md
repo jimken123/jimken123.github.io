@@ -28,7 +28,7 @@ mananamanana.com is an accumulation of all my flotsam and jetsam from over the t
 
 <img src="/img/mm1.png">
 
-It has been on the go since March 2005, waaaay back in the day. It was preceded by my first foray into the world of web building on geocities, where I 'blogged' our rolling, endless games of football in Herbert Park in Dublin. 
+It has been on the go since March 2005, waaaay back in the day. It's only a couple of years ago that I finally updated  the logo (the stylised orange text 'balloon' just above) to include the Spanish tilde, following some ridiculing by my children. Prior to 2005 my first foray into the world of web building was on geocities, where I 'blogged' our rolling, endless games of football in Herbert Park in Dublin. 
 
 <img src="/img/HPRFC_logo.gif">
 
@@ -36,7 +36,7 @@ This new look is a long overdue revamp, inspired by the ideas of the small web, 
 
 The blog now added to this pile is an attempt to get back to the roots of the old web - a personal record of whatever the fuck I feel like discussing. 
 
-mananamanana.com is build with the [jekyll](https://jekyllcodex.org) static site generator using a heavily modified version of the [{ Personal }](https://github.com/le4ker/personal-jekyll-theme) jekyll theme. It's all stored on [github](https://github.com/jimken123/jimken123.github.io) and automagicked with Cloudflare and Github Actions.
+mananamanana.com is build with the [jekyll](https://jekyllcodex.org) static site generator using a heavily modified version of the [{ Personal }](https://github.com/le4ker/personal-jekyll-theme) jekyll theme. It uses Cooper Black font for headings and Fraunces font for everything else. It's all stored on [github](https://github.com/jimken123/jimken123.github.io) and automagicked with Cloudflare and Github Actions.
 
 Separately I maintain the ohpiglet blog related to my three monkeys and my woodland creature of the forest floor. That more proper blog is all about my children. 
 
