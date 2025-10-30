@@ -18,12 +18,12 @@
     src: local('Cooper Std Black Italic'), url('/fonts/CooperBlack-StdItal.woff') format('woff');
     }
 
-    @font-face {
-        font-family: 'Gelica Regular';
-        font-style: normal;
-        font-weight: normal;
-        src: local('Gelica Regular'), url('/fonts/Gelica-Regular.otf') format('otf');
-        }
+@font-face {
+    font-family: 'Gelica';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gelica'), url('/fonts/Gelica-Regular.otf') format('otf');
+    }
 
 /*!
  * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
@@ -34,7 +34,7 @@
 body {
     width: 100%;
     height: 100%;
-    font-family: "Gelica Regular",Arial,sans-serif;
+    font-family: "Gelica",Arial,sans-serif;
     color: $font-color;
     background-color: $primary-color;
 }
@@ -52,7 +52,7 @@ h5,
 h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: 'Cooper Std Black Italic';
+    font-family: 'Cooper Std Black';
     font-style: normal;
     font-weight: normal;
     letter-spacing: 1px;
