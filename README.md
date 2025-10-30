@@ -180,6 +180,7 @@ The river runs low
 
 #### Done
 
+- [x] Changed fonts to Cooper Black (headings) and Fraunces (everything else)
 - [x] Try https://tinylytics.app/
 - [x] Regenerate sitemap; make it regenerate automatically
 - [x] Built /all.html and populate it with all pages as css buttons; include as a section in /index
