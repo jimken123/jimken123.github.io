@@ -14,6 +14,8 @@ permalink: /about/
 
 Irish climate refugee living in a wood-and-stone house in a tiny village in a steep-sided valley halfway up the Pyrenees in the third-least-populated county in all Catalonia.
 
+<img src="/img/jimkennedy.jpg">
+
 I am a whitewater kayaker by desire but a documentation specialist by trade. The first part is made possible by choosing to live within earshot of the classic kayaking section of the Noguera Pallaresa river. The second is facilitated by a combination of remote working and a good fibre-optic wifi connection.
 
 My guiding motto for many decades now has been <i>“Indecision is the key to flexibility”</i> and I also try to live by the Tolstoyan precept <i>Walk in the light, while there is light.</i> 
