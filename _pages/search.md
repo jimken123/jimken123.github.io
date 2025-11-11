@@ -5,6 +5,8 @@ title: Search Results
 permalink: /search/
 ---
 
+Some text here.
+
 <!-- List where search results will be rendered -->
 <ul id="search-results"></ul>
 
@@ -27,4 +29,4 @@ permalink: /search/
 <!-- Import lunr.js from unpkg.com -->
 <script src="https://unpkg.com/lunr/lunr.js"></script>
 <!-- Custom search script which we will create below -->
-<script src="/js/search.js"></script>
+<script src="js/search.js"></script>
