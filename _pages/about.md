@@ -6,8 +6,6 @@ featured_image: img/authorimage.jpg
 permalink: /about/
 ---
 
-{%- include search.html -%}
-
 ## About
 
 <p><a href="#jim-kennedy">about me</a> | <a href="#mananamanana">about mananamanana</a></p>
