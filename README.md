@@ -38,6 +38,14 @@ Upload any images to the **/img/YYYY** folder.
 
 GitHub doesn't accept uploading of video so I use Vimeo or YouTube. The default embed codes from those hosts, however, doesn't play nice on mobile. To generate responsive embed code that does play nice on desktop and mobile go to [http://embedresponsively.com](http://embedresponsively.com).
 
+## How to preview Markdown pages
+
+In Visual Studio Code, use the Markdown Preview Enhanced extension:
+
+```shell
+cmd-shift-v
+```
+
 ## How to run locally
 
 Install jekyll and dependencies:

@@ -327,4 +327,3 @@ In 2009 a group of us did a rafting trip on the Grand Canyon of the Colorado Riv
   <p>^ Jim takes off - Launching off the top of a wave, I get a little air going into the whitewater below.</p>
   </div> 
 </div>
-  

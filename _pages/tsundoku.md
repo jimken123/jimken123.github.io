@@ -180,7 +180,7 @@ It's been about 35 years since I read this and then lost myself for years in the
 
 <img src="/img/tsundoku/9781853262715.jpg" width="300">
 
-#### Invisible Wonen - Caroline Criado Pérez
+#### Invisible Women - Caroline Criado Pérez
 
 Data-heavy excoriation of how women are made systematically invisible in the world, where maleness is the default.
 
