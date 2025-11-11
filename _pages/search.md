@@ -31,8 +31,8 @@ Some text here.
 <!-- Custom search script which we will create below -->
 <script src="js/search.js"></script>
 
-search box goes here:
+search-box goes here:
 
 {% include search-box.html %}
 
-end of search box here.
+end of search-box here.
