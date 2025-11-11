@@ -18,12 +18,14 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime.
 
-// #### Inventing the Renaissance - Ada Palmer
+<!---
+#### Inventing the Renaissance - Ada Palmer
 
 // fsdhgjkdshgljkdf
 
 // <img src="/img/tsundoku/inventing-the-renaissance.jpg" width="300">
-
+-->
+ 
 #### Drystone A Life Rebuilt - Kristie De Garis
 
 A memoir of a Scottish woman surviving family, racism, and misogyny in its various guises, to find a peace through building and restoring drystone walls. Very powerful, and not easy to read.  
