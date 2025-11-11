@@ -30,3 +30,9 @@ Some text here.
 <script src="https://unpkg.com/lunr/lunr.js"></script>
 <!-- Custom search script which we will create below -->
 <script src="js/search.js"></script>
+
+search box goes here:
+
+{% include search-box.html %}
+
+end of search box here.
