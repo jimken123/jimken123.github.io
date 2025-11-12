@@ -52,6 +52,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
+  - text: "All your base are belong to us"
   - text: "Indecision is the key to flexibility"
   - text: "Walk in the light, while there is light"
   - text: "...shine out in the wild kindness"
