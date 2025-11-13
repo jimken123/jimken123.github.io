@@ -40,6 +40,6 @@ The blog now added to this pile is an attempt to get back to the roots of the ol
 
 mananamanana.com is build with the [jekyll](https://jekyllcodex.org) static site generator using a heavily modified version of the [{ Personal }](https://github.com/le4ker/personal-jekyll-theme) jekyll theme. It uses [Cooper Black](https://en.wikipedia.org/wiki/Cooper_Black) font for headings and [Fraunces](https://fraunces.undercase.xyz) for everything else. It's all stored on [github](https://github.com/jimken123/jimken123.github.io) and automagicked with Cloudflare and Github Actions.
 
-Separately I maintain the ohpiglet blog related to my three monkeys and my woodland creature of the forest floor. That more proper blog is all about my children. 
+Separately I maintain the [ohpiglet blog](https://ohpiglet.github.io/ohpiglet/) related to my three monkeys and my woodland creature of the forest floor. Or, as other people call them, my children.
 
 <img src="/img/ohpiglet-crop.png">
