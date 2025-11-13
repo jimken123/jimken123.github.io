@@ -9,7 +9,7 @@ body {
     width: 100%;
     height: 100%;
     font-family: "Fraunces";
-    color: #ffffff;
+    color: #ed0808;
     background-color: $primary-color;
 }
 
@@ -19,7 +19,7 @@ p {
     margin: 0 0 25px;
     font-size: 18px;
     line-height: 1.5;
-    color: #ff88;
+    color: rgba(248, 248, 51, 0.533);
     @media(min-width:768px) {
         margin: 0 0 35px;
         font-size: 20px;
