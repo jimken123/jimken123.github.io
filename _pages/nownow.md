@@ -14,8 +14,6 @@ These are the things I'm working on, or updating as I go.
 
 [/jetcim](/jetcim) - one by one I'm sitting on all the chairlifts.
 
-Form 1
-
 <!-- DDG search widget,@author Juri Wornowitski,@version 3.0,@link https://www.plainlight.com/ddg -->
 <div id="widget" 
         style="width:50%;
@@ -47,7 +45,7 @@ Form 1
     } 
     #widget button:active 
     {
-        background-image:linear-gradient(#842300,#572300);
+        background-image:linear-gradient(#000000,#ff6900);
     } 
     #widget button:focus 
     {
@@ -67,7 +65,7 @@ Form 1
         ">
         <button type="submit">Search</button>
         </div>
-        <input type="text" name="q" placeholder="Seaddddrch..." />
+        <input type="text" name="q" placeholder="Search..." />
         <input type="hidden" name="sites" value="mananamanana.com" />
     </form>
 </div>
