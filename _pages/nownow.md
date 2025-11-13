@@ -1,18 +1,16 @@
 ---
 layout: page
 section-type: page
-title: Now now
+title: Search
 tags: [ '' ]
-permalink: /nownow/
+permalink: /search/
 ---
 
-## Now now
+## Search
 
-These are the things I'm working on, or updating as I go.
+Sometimes it's hard to find things, even with your glasses on.
 
-[/hello](/hello) - how to get in touch, or just where to find my stuff.
-
-[/jetcim](/jetcim) - one by one I'm sitting on all the chairlifts.
+Try this search box.
 
 <!-- DDG search widget,@author Juri Wornowitski,@version 3.0,@link https://www.plainlight.com/ddg -->
 <div id="widget" 
