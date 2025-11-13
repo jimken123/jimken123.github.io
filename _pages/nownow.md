@@ -16,32 +16,21 @@ These are the things I'm working on, or updating as I go.
 
 Form 1
 
-<form method="get" id="ddgSearch" action="https://duckduckgo.com/">
-    <input type="hidden" name="sites" value="mananamanana.com"/>
-    <input type="hidden" name="k7" value="#ffffff"/>
-    <input type="hidden" name="k8" value="#000000"/>
-    <input type="hidden" name="k9" value="#ff6900"/>
-    <input type="hidden" name="kx" value="#ff6900"/>
-    <input type="hidden" name="kj" value="#000000"/>
-    <input type="hidden" name="kt" value="h"/>
-    <input type="text" name="q" placeholder="Type here…" aria-label="Search mananamanana.com on DuckDuckGo"/>
-    <button type="submit">Search</button>
-</form>
-
-Form 2
-
-
 <!-- DDG search widget,@author Juri Wornowitski,@version 3.0,@link https://www.plainlight.com/ddg -->
 <div id="widdget" style="width:40%;margin:10px 0;">
     <style type="text/css">
     #widdget input 
     {
-        display:block;height:30px;padding:4px;outline:none;
+        display:block;
+        height:30px;
+        padding:4px;
+        outline:none;
         border:1px solid #8d8d8d;border-right:0;
         box-sizing:border-box;
         border-radius:3px 0 0 3px;
         width:calc(100% - 41px);
         font-size:15px;
+        color:#ff6900;
     } 
     #widdget button 
     {
@@ -49,8 +38,7 @@ Form 2
         cursor:pointer;
         width:43px;
         height:30px;
-        color:#fff;
-        background-image:linear-gradient(#ca727f,#924455);
+        color:#ff6900;
         border:0;
         border-radius:0 3px 3px 0;
         padding:0;
@@ -77,7 +65,7 @@ Form 2
         ">
         <button type="submit">&#128269;</button>
         </div>
-        <input type="text" name="q" placeholder="Search..." />
+        <input type="text" name="q" placeholder="Seaddddrch..." />
         <input type="hidden" name="sites" value="mananamanana.com" />
     </form>
 </div>
