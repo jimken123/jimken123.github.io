@@ -23,5 +23,5 @@ These are the things I'm working on, or updating as I go.
     <input type="hidden" name="kj" value="#000000"/>
     <input type="hidden" name="kt" value="h"/>
     <input type="text" name="q" placeholder="Type here…" aria-label="Search mananamanana.com on DuckDuckGo"/>
-    <button type="button">Search</button>
+    <button type="submit">Search</button>
 </form>
