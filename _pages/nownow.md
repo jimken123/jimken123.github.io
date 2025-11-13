@@ -17,37 +17,39 @@ These are the things I'm working on, or updating as I go.
 Form 1
 
 <!-- DDG search widget,@author Juri Wornowitski,@version 3.0,@link https://www.plainlight.com/ddg -->
-<div id="widdget" style="width:40%;margin:10px 0;">
-    <style type="text/css">
-    #widdget input 
+<div id="widget" 
+        style="width:50%;
+        margin:10px 0;">
+<style type="text/css">
+        #widget input 
     {
         display:block;
-        height:30px;
+        height:40px;
         padding:4px;
         outline:none;
-        border:1px solid #8d8d8d;border-right:0;
+        border:1px solid #000000;border-right:0;
         box-sizing:border-box;
         border-radius:3px 0 0 3px;
         width:calc(100% - 41px);
-        font-size:15px;
+        font-size:18px;
         color:#ff6900;
     } 
-    #widdget button 
+    #widget button 
     {
         float:left;
         cursor:pointer;
-        width:43px;
-        height:30px;
+        width:103px;
+        height:40px;
         color:#ff6900;
         border:0;
         border-radius:0 3px 3px 0;
         padding:0;
     } 
-    #widdget button:active 
+    #widget button:active 
     {
         background-image:linear-gradient(#842300,#572300);
     } 
-    #widdget button:focus 
+    #widget button:focus 
     {
         outline:none;
     }
@@ -63,7 +65,7 @@ Form 1
                     right:-2px;
                     z-index:3
         ">
-        <button type="submit">&#128269;</button>
+        <button type="submit">Search</button>
         </div>
         <input type="text" name="q" placeholder="Seaddddrch..." />
         <input type="hidden" name="sites" value="mananamanana.com" />
