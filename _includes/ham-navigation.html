@@ -1,0 +1,63 @@
+
+<!-- Navigation Start -->
+
+<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+        <i class="fa fa-bars"></i>
+      </button>
+        <a class="navbar-brand" href="{{site.baseurl}}/">
+          <div>
+            {% if site.black-favicon %}
+              <img src="{{site.baseurl}}{{ site.black-favicon }}" alt="">
+            {% endif %}
+	    {% if site.logo %}
+	      <img id="logo_nav" src="{{site.baseurl}}/{{site.logo}}" alt="{{ site.title }}" />
+	    {% endif %}
+              {{ site.title }}
+          </div> 
+        </a>
+    </div>
+    <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+      <nav>
+        <a class="site-title" href="">Site Title</a>
+        <input type="checkbox" id="main-nav" class="main-nav">
+        <label for="main-nav" id="toggle-menu">
+          <div class="hamburger">
+            <span class="bar bar1"></span>
+            <span class="bar bar2"></span>
+            <span class="bar bar3"></span>
+            <span class="bar bar4"></span>
+          </div>
+        </label>
+        <ul class="first-level-nav">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Cakes & Bakes</a></li>
+          <li><a href="#">Food & Drink</a></li>
+          <li><a href="#">Our Menu</a></li>
+          <li>
+            <a href="#">Cookery Classes</a>
+            <input type="checkbox" id="sub-nav-1" class="sub-nav-1">
+            <label for="sub-nav-1" id="toggle-menu">
+              <div class="hamburger">
+                <span class="bar bar1"></span>
+                <span class="bar bar2"></span>
+                <span class="bar bar3"></span>
+                <span class="bar bar4"></span>
+              </div>
+            </label>
+            <ul class="second-level-nav">
+              <li><a href="#">Introduction to real bread baking</a></li>
+              <li><a href="#">Pasta Fresca - The joy of handmade pasta</a></li>
+            </ul>
+          </li>
+          <li><a href="#">Store & Post Office</a></li>
+          <li><a href="#">News</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</nav>
+
+<!-- Navigation End -->
