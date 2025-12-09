@@ -10,12 +10,14 @@ permalink: /jetcim/
 
 A photo for every chair on the Jetcim skilift.
 
-Port Aine is our local ski station, located about thirty minutes from our house, so we go up there most weekends in the season. The main chairlift, called Jetcim, takes you from the hotel at the bottom (at 2,000 metres altitude) up to Pic de l'Orri (the tippy top) which is at 2,440 metres. Jetcim has 122 chairlift seats, each seating six people.
+Port Ainé is our local ski station, located about thirty minutes from our house, so we go up there most weekends in the season. The main chairlift, called Jetcim, takes you from the hotel at the bottom (at 2,000 metres altitude) up to Pic de l'Orri (the tippy top) which is at 2,440 metres. Jetcim has 122 chairlift seats, each seating six people.
 
 I'm adding to this page every time I take a lift I haven't been on yet, beginning in the 2023-2024 season. I don't know how long it will take.
 Sometimes we drive up to the top (the Santana in the foreground), but Jetcim (in the background) is the more traditional transport.
 
 <img src="/img/jetcim/santana-jetcim.jpg">
+
+Here's a diagrammatical representation of how's it's going, I've been on the ones in green, still waiting for the ones in red.
 
 <mark style="background-color: green;">1</mark>
 <mark style="background-color: green;">2</mark>
