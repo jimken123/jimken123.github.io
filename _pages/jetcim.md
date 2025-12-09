@@ -140,6 +140,14 @@ Sometimes we drive up to the top (the Santana in the foreground), but Jetcim (in
 <mark style="background-color: green;">121</mark>
 <mark style="background-color: green;">122</mark>
 
+## Jetcim 2025-2026 Season
+
+### 2025-12-08 | #70 | -/122
+
+The season begins again! On the first day we had Papa, Saoirse, Boí, Rayane, and Pau. Mama was resting and Riu was in Baqueira. #79 is a repeat from an overcast morning with Riu back in March. Since it's a repeat, we have to wait a little bit longer to hit the Jetcim project halfway point.
+
+<img src="/img/jetcim/IMG_20251207_120329.jpg">
+
 ## Jetcim 2024-2025 Season
 
 ### 2025-04-06 | #94 | 60/122
