@@ -145,7 +145,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 ## Jetcim 2025-2026 Season
 
 
-<?FOO
+<!--- FOO
 
 ### 2025-12-07 | #79 | -/122
 
@@ -369,7 +369,7 @@ GGG
 
 <img src="/img/jetcim/IMG_20251227_110639.jpg) 
 
-FOO?>
+FOO-->
 
 ### 2025-12-20 | #104 | -/122
 
