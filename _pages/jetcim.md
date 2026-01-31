@@ -147,227 +147,222 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 
 <!--- FOO
 
-### 2025-12-07 | #79 | -/122
-
-GGG
-
-<img src="/img/jetcim/IMG_GGGGGGG.jpg">
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260131_132325.jpg) 
+<img src="/img/jetcim/IMG_20260131_132325.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260131_124937.jpg) 
+<img src="/img/jetcim/IMG_20260131_124937.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260131_120721.jpg) 
+<img src="/img/jetcim/IMG_20260131_120721.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260130_192231.jpg) 
+<img src="/img/jetcim/IMG_20260130_192231.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260130_130318.jpg) 
+<img src="/img/jetcim/IMG_20260130_130318.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260130_124258.jpg) 
+<img src="/img/jetcim/IMG_20260130_124258.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260130_122117.jpg) 
+<img src="/img/jetcim/IMG_20260130_122117.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260130_120143.jpg) 
+<img src="/img/jetcim/IMG_20260130_120143.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260130_112041.jpg) 
+<img src="/img/jetcim/IMG_20260130_112041.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260129_131128.jpg) 
+<img src="/img/jetcim/IMG_20260129_131128.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260129_125601.jpg) 
+<img src="/img/jetcim/IMG_20260129_125601.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260129_123323.jpg) 
+<img src="/img/jetcim/IMG_20260129_123323.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260129_113810.jpg) 
+<img src="/img/jetcim/IMG_20260129_113810.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260129_111529.jpg) 
+<img src="/img/jetcim/IMG_20260129_111529.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260129_105401.jpg) 
+<img src="/img/jetcim/IMG_20260129_105401.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260125_112059.jpg) 
+<img src="/img/jetcim/IMG_20260125_112059.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260125_101212.jpg) 
+<img src="/img/jetcim/IMG_20260125_101212.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260117_141719.jpg) 
+<img src="/img/jetcim/IMG_20260117_141719.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260117_120147.jpg) 
+<img src="/img/jetcim/IMG_20260117_120147.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260117_113224.jpg) 
+<img src="/img/jetcim/IMG_20260117_113224.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260117_102719.jpg) 
+<img src="/img/jetcim/IMG_20260117_102719.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260113_141656.jpg) 
+<img src="/img/jetcim/IMG_20260113_141656.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260113_140042.jpg) 
+<img src="/img/jetcim/IMG_20260113_140042.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260113_123342.jpg) 
+<img src="/img/jetcim/IMG_20260113_123342.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260113_120527.jpg) 
+<img src="/img/jetcim/IMG_20260113_120527.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260113_114153.jpg) 
+<img src="/img/jetcim/IMG_20260113_114153.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260111_123452.jpg) 
+<img src="/img/jetcim/IMG_20260111_123452.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260111_121738.jpg) 
+<img src="/img/jetcim/IMG_20260111_121738.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260111_110058.jpg) 
+<img src="/img/jetcim/IMG_20260111_110058.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260111_103644.jpg) 
+<img src="/img/jetcim/IMG_20260111_103644.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260111_100903.jpg) 
+<img src="/img/jetcim/IMG_20260111_100903.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260102_104652.jpg) 
+<img src="/img/jetcim/IMG_20260102_104652.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260101_130900.jpg) 
+<img src="/img/jetcim/IMG_20260101_130900.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20260101_123308.jpg) 
+<img src="/img/jetcim/IMG_20260101_123308.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20251228_143742.jpg) 
+<img src="/img/jetcim/IMG_20251228_143742.jpg"> 
 
 ### 2025-12-07 | #79 | -/122
 
 GGG
 
-<img src="/img/jetcim/IMG_20251227_110639.jpg) 
+<img src="/img/jetcim/IMG_20251227_110639.jpg"> 
 
 FOO-->
 
@@ -375,19 +370,19 @@ FOO-->
 
 Papa ad Pau did a bunch of lifts today!
 
-<img src="/img/jetcim/IMG_20251220_103519.jpg) 
+<img src="/img/jetcim/IMG_20251220_103519.jpg">
 
 ### 2025-12-20 | #111 | 61/122
 
 Yay! Papa and Pau on the halfway chair. This is the 61st of the 122.
 
-<img src="/img/jetcim/IMG_20251220_101616.jpg) 
+<img src="/img/jetcim/IMG_20251220_101616.jpg">
 
 ### 2025-12-20 | #101 | -/122
 
 Papa and Pau on the second chairlift of the season. In 2024 this was the first chairlift of the season. Still waiting for the halfway point of the project.
 
-<img src="/img/jetcim/IMG_20251220_095556.jpg)
+<img src="/img/jetcim/IMG_20251220_095556.jpg">
 
 ### 2025-12-07 | #79 | -/122
 
