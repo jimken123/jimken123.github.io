@@ -406,7 +406,7 @@ Papa, Boí, Saoirse, and Riu on another sunny lap. Riu is in charge of photograp
 
 ### 2025-04-06 | #40 | -/122
 
-Final day of the season for us! Papa, Boí, Saoirse, and Riu, a lovely sunny day. All we were missing was Mama and Pua who were in the Alps on their own mission. We were on this one before with Rossa.
+Final day of the season for us! Papa, Boí, Saoirse, and Riu, a lovely sunny day. All we were missing was Mama and Pau who were in the Alps on their own mission. We were on this one before with Rossa.
 
 <img src="/img/jetcim/IMG_20250406_114737.jpg">
 
