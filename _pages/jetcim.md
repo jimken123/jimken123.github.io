@@ -307,7 +307,7 @@ The boys are back in town! Advance party of the Cork boys is here, this time fea
 
 ### 2025-01-11 | #4 | -/122
 
-Final, solo lap of a busy day. And the seconbd time on #4 in a single day.
+Final, solo lap of a busy day. And the second time on #4 in a single day.
 
 <img src="/img/jetcim/IMG_20260111_123452.jpg">
 
