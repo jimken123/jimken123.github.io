@@ -291,31 +291,31 @@ GGG
 GGG
 
 <img src="/img/jetcim/IMG_20260113_123342.jpg"> 
-
-### 2025-12-07 | #79 | -/122
-
-GGG
-
-<img src="/img/jetcim/IMG_20260113_120527.jpg"> 
-
-### 2025-12-07 | #79 | -/122
-
-GGG
-
-<img src="/img/jetcim/IMG_20260113_114153.jpg"> 
-
-### 2025-12-07 | #79 | -/122
-
-GGG
-
-<img src="/img/jetcim/IMG_20260111_123452.jpg"> 
-
-### 2025-12-07 | #79 | -/122
-
-GGG
-
-<img src="/img/jetcim/IMG_20260111_121738.jpg"> 
 FOO-->
+
+### 2025-01-13 | #122 | -/122
+
+Daithi and Ian are both here. Let the festivities begin.
+
+<img src="/img/jetcim/IMG_20260113_120527.jpg">
+
+### 2025-01-13 | #76 | -/122
+
+The boys are back in town! Advance party of the Cork boys is here, this time featuring the one-armed man himself, Ian Roche.
+
+<img src="/img/jetcim/IMG_20260113_114153.jpg">
+
+### 2025-01-11 | #4 | -/122
+
+Final, solo lap of a busy day. And the seconbd time on #4 in a single day.
+
+<img src="/img/jetcim/IMG_20260111_123452.jpg">
+
+### 2025-01-11 | #14 | 65/122
+
+Big wave from Francesc as we head out for another lesson!
+
+<img src="/img/jetcim/IMG_20260111_121738.jpg">
 
 ### 2025-01-11 | #65 | -/122
 
