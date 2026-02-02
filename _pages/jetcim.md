@@ -22,7 +22,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">1</mark>
 <mark style="background-color: green;">2</mark>
 <mark style="background-color: red;">3</mark>
-<mark style="background-color: red;">4</mark>
+<mark style="background-color: green;">4</mark>
 <mark style="background-color: red;">5</mark>
 <mark style="background-color: red;">6</mark>
 <mark style="background-color: green;">7</mark>
@@ -136,9 +136,9 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">115</mark>
 <mark style="background-color: red;">116</mark>
 <mark style="background-color: red;">117</mark>
-<mark style="background-color: red;">118</mark>
+<mark style="background-color: green;">118</mark>
 <mark style="background-color: red;">119</mark>
-<mark style="background-color: red;">120</mark>
+<mark style="background-color: green;">120</mark>
 <mark style="background-color: green;">121</mark>
 <mark style="background-color: green;">122</mark>
 
@@ -321,50 +321,50 @@ GGG
 GGG
 
 <img src="/img/jetcim/IMG_20260111_110058.jpg"> 
+FOO-->
 
-### 2025-12-07 | #79 | -/122
+### 2025-01-11 | #4 | 64/122
 
-GGG
+Second lap with Francesc, learning one new thing each lap.
 
-<img src="/img/jetcim/IMG_20260111_103644.jpg"> 
+<img src="/img/jetcim/IMG_20260111_103644.jpg">
 
-### 2025-12-07 | #79 | -/122
+### 2025-01-11 | #120 | 63/122
 
-GGG
+We did a lot of lifts this day. Introducing Francesc, new to Llavorsí, who gave me lots of useful tips on how to ski properly. There's Rebecca also.
 
 <img src="/img/jetcim/IMG_20260111_100903.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2025-01-02 | #104 | -/122
 
-GGG
+Pau over there in the corner, and Saoirse also. A nice day on the slopes.
 
 <img src="/img/jetcim/IMG_20260102_104652.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2025-01-01 | #41 | -/122
 
-GGG
+Saoirse's gloves again! Previously, Boí ate a sandwich on this one.
 
 <img src="/img/jetcim/IMG_20260101_130900.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2025-01-01 | #86 | -/122
 
-GGG
+Happy New Year's Day everyone, from Riu, Saoirse, and Papa!
 
 <img src="/img/jetcim/IMG_20260101_123308.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2025-12-28 | #118 | 62/122
 
-GGG
+A beautiful, sunny day with Boí, just before his birthday.
 
 <img src="/img/jetcim/IMG_20251228_143742.jpg"> 
 
-### 2025-12-07 | #79 | -/122
 
-GGG
+### 2025-12-27 | #36 | -/122
 
-<img src="/img/jetcim/IMG_20251227_110639.jpg"> 
+Papa, Saoirse and her rabbit gloves, Rebecca, and Pau on a very cold, post-Christmas day. Third time on #36.
 
-FOO-->
+<img src="/img/jetcim/IMG_20251227_110639.jpg">
 
 ### 2025-12-20 | #104 | -/122
 
