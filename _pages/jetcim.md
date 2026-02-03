@@ -267,31 +267,31 @@ GGG
 GGG
 
 <img src="/img/jetcim/IMG_20260117_113224.jpg"> 
+FOO-->
+### 2025-01-17 | #94 | -/122
 
-### 2025-12-07 | #79 | -/122
-
-GGG
+Boí and Papa on a frosty day. #94 is a repeat of the very last chairlift of last season. At this point with over half the chair accounted for, we have a 50/50 chance of a repeat.
 
 <img src="/img/jetcim/IMG_20260117_102719.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2025-01-13 | #101 | -/122
 
-GGG
+#101, another repeat, with Daithi and the one-armed man.
 
 <img src="/img/jetcim/IMG_20260113_141656.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2025-01-13 | #93 | 66/122
 
-GGG
+Another lap with Ian and Daithi.
 
 <img src="/img/jetcim/IMG_20260113_140042.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2025-01-13 | #24 | -/122
 
-GGG
+With Francesc and Jaume, cruising around the mountain.
 
 <img src="/img/jetcim/IMG_20260113_123342.jpg"> 
-FOO-->
+
 
 ### 2025-01-13 | #122 | -/122
 
