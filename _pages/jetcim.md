@@ -27,12 +27,12 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: red;">6</mark>
 <mark style="background-color: green;">7</mark>
 <mark style="background-color: green;">8</mark>
-<mark style="background-color: red;">9</mark>
+<mark style="background-color: green;">9</mark>
 <mark style="background-color: green;">10</mark>
 <mark style="background-color: green;">11</mark>
 <mark style="background-color: red;">12</mark>
 <mark style="background-color: red;">13</mark>
-<mark style="background-color: red;">14</mark>
+<mark style="background-color: green;">14</mark>
 <mark style="background-color: red;">15</mark>
 <mark style="background-color: green;">16</mark>
 <mark style="background-color: green;">17</mark>
@@ -100,7 +100,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">79</mark>
 <mark style="background-color: green;">80</mark>
 <mark style="background-color: green;">81</mark>
-<mark style="background-color: red;">82</mark>
+<mark style="background-color: green;">82</mark>
 <mark style="background-color: green;">83</mark>
 <mark style="background-color: green;">84</mark>
 <mark style="background-color: red;">85</mark>
@@ -148,206 +148,207 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <!--- FOO
 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260131_132325.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260131_124937.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260131_120721.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260130_192231.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260130_130318.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260130_124258.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260130_122117.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260130_120143.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260130_112041.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260129_131128.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260129_125601.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260129_123323.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260129_113810.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260129_111529.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260129_105401.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260125_112059.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260125_101212.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-12-07 | #79 | -/122
 
 GGG
 
 <img src="/img/jetcim/IMG_20260117_141719.jpg"> 
+FOO-->
 
-### 2025-12-07 | #79 | -/122
+### 2026-01-17 | #82 | 67/122
 
-GGG
+Six Seven with Boí!
 
 <img src="/img/jetcim/IMG_20260117_120147.jpg"> 
 
-### 2025-12-07 | #79 | -/122
+### 2026-01-17 | #9 | 66/122
 
-GGG
+Did you notice that Boí has a new helmet?
 
 <img src="/img/jetcim/IMG_20260117_113224.jpg"> 
-FOO-->
-### 2025-01-17 | #94 | -/122
 
-Boí and Papa on a frosty day. #94 is a repeat of the very last chairlift of last season. At this point with over half the chair accounted for, we have a 50/50 chance of a repeat.
+### 2026-01-17 | #94 | -/122
+
+Boí and Papa on a frosty day. #94 is a repeat of the very last chairlift of last season. At this point with over half the chairs accounted for, we have a 50/50 chance of a repeat.
 
 <img src="/img/jetcim/IMG_20260117_102719.jpg"> 
 
-### 2025-01-13 | #101 | -/122
+### 2026-01-13 | #101 | -/122
 
 #101, another repeat, with Daithi and the one-armed man.
 
 <img src="/img/jetcim/IMG_20260113_141656.jpg"> 
 
-### 2025-01-13 | #93 | 66/122
+### 2026-01-13 | #93 | 65/122
 
 Another lap with Ian and Daithi.
 
 <img src="/img/jetcim/IMG_20260113_140042.jpg"> 
 
-### 2025-01-13 | #24 | -/122
+### 2026-01-13 | #24 | -/122
 
 With Francesc and Jaume, cruising around the mountain.
 
 <img src="/img/jetcim/IMG_20260113_123342.jpg"> 
 
 
-### 2025-01-13 | #122 | -/122
+### 2026-01-13 | #122 | -/122
 
 Daithi and Ian are both here. Let the festivities begin.
 
 <img src="/img/jetcim/IMG_20260113_120527.jpg">
 
-### 2025-01-13 | #76 | -/122
+### 2026-01-13 | #76 | -/122
 
 The boys are back in town! Advance party of the Cork boys is here, this time featuring the one-armed man himself, Ian Roche.
 
 <img src="/img/jetcim/IMG_20260113_114153.jpg">
 
-### 2025-01-11 | #4 | -/122
+### 2026-01-11 | #4 | -/122
 
 Final, solo lap of a busy day. And the second time on #4 in a single day.
 
 <img src="/img/jetcim/IMG_20260111_123452.jpg">
 
-### 2025-01-11 | #14 | 65/122
+### 2026-01-11 | #14 | -/122
 
 Big wave from Francesc as we head out for another lesson!
 
 <img src="/img/jetcim/IMG_20260111_121738.jpg">
 
-### 2025-01-11 | #65 | -/122
+### 2026-01-11 | #65 | -/122
 
 Happy lap with Rebecca. I was on this one a year before with Auntie Anne.
 
 <img src="/img/jetcim/IMG_20260111_110058.jpg"> 
 
-### 2025-01-11 | #4 | 64/122
+### 2026-01-11 | #4 | 64/122
 
 Second lap with Francesc, learning one new thing each lap.
 
 <img src="/img/jetcim/IMG_20260111_103644.jpg">
 
-### 2025-01-11 | #120 | 63/122
+### 2026-01-11 | #120 | 63/122
 
 We did a lot of lifts this day. Introducing Francesc, new to Llavorsí, who gave me lots of useful tips on how to ski properly. There's Rebecca also.
 
 <img src="/img/jetcim/IMG_20260111_100903.jpg"> 
 
-### 2025-01-02 | #104 | -/122
+### 2026-01-02 | #104 | -/122
 
 Pau over there in the corner, and Saoirse also. A nice day on the slopes.
 
 <img src="/img/jetcim/IMG_20260102_104652.jpg"> 
 
-### 2025-01-01 | #41 | -/122
+### 2026-01-01 | #41 | -/122
 
 Saoirse's gloves again! Previously, Boí ate a sandwich on this one.
 
 <img src="/img/jetcim/IMG_20260101_130900.jpg"> 
 
-### 2025-01-01 | #86 | -/122
+### 2026-01-01 | #86 | -/122
 
 Happy New Year's Day everyone, from Riu, Saoirse, and Papa!
 
