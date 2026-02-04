@@ -69,7 +69,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: red;">48</mark>
 <mark style="background-color: red;">49</mark>
 <mark style="background-color: green;">50</mark>
-<mark style="background-color: red;">51</mark>
+<mark style="background-color: green;">51</mark>
 <mark style="background-color: green;">52</mark>
 <mark style="background-color: red;">53</mark>
 <mark style="background-color: green;">54</mark>
@@ -105,7 +105,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">84</mark>
 <mark style="background-color: red;">85</mark>
 <mark style="background-color: green;">86</mark>
-<mark style="background-color: red;">87</mark>
+<mark style="background-color: green;">87</mark>
 <mark style="background-color: red;">88</mark>
 <mark style="background-color: red;">89</mark>
 <mark style="background-color: green;">90</mark>
@@ -225,49 +225,43 @@ GGG
 GGG
 
 <img src="/img/jetcim/IMG_20260129_113810.jpg"> 
+FOO-->
 
-### 2026-12-07 | #79 | -/122
+### 2026-01-29 | #87 | 69/122
 
-GGG
+One more with my lovely lady.
 
 <img src="/img/jetcim/IMG_20260129_111529.jpg"> 
 
-### 2026-12-07 | #79 | -/122
+### 2026-01-29 | #77 | -/122
 
-GGG
+A sunny Thursday run with Rebecca.
 
 <img src="/img/jetcim/IMG_20260129_105401.jpg"> 
 
-### 2026-12-07 | #79 | -/122
+### 2026-01-25 | #51 | 68/122
 
-GGG
+Area #51 with Rebecca.
 
 <img src="/img/jetcim/IMG_20260125_112059.jpg"> 
 
-### 2026-12-07 | #79 | -/122
+### 2026-01-25 | #93 | -/122
 
-GGG
+Another Sunday run with Rebecca when the kids are at their classes. A repeat from Ian and Daithi.
 
 <img src="/img/jetcim/IMG_20260125_101212.jpg"> 
-
-### 2026-12-07 | #79 | -/122
-
-GGG
-
-<img src="/img/jetcim/IMG_20260117_141719.jpg"> 
-FOO-->
 
 ### 2026-01-17 | #82 | 67/122
 
 Six Seven with Boí!
 
-<img src="/img/jetcim/IMG_20260117_120147.jpg"> 
+<img src="/img/jetcim/IMG_20260117_120147.jpg">
 
 ### 2026-01-17 | #9 | 66/122
 
 Did you notice that Boí has a new helmet?
 
-<img src="/img/jetcim/IMG_20260117_113224.jpg"> 
+<img src="/img/jetcim/IMG_20260117_113224.jpg">
 
 ### 2026-01-17 | #94 | -/122
 
