@@ -71,7 +71,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">50</mark>
 <mark style="background-color: green;">51</mark>
 <mark style="background-color: green;">52</mark>
-<mark style="background-color: red;">53</mark>
+<mark style="background-color: green;">53</mark>
 <mark style="background-color: green;">54</mark>
 <mark style="background-color: green;">55</mark>
 <mark style="background-color: green;">56</mark>
@@ -82,7 +82,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">61</mark>
 <mark style="background-color: red;">62</mark>
 <mark style="background-color: green;">63</mark>
-<mark style="background-color: red;">64</mark>
+<mark style="background-color: green;">64</mark>
 <mark style="background-color: green;">65</mark>
 <mark style="background-color: green;">66</mark>
 <mark style="background-color: green;">67</mark>
@@ -195,19 +195,20 @@ GGG
 GGG
 
 <img src="/img/jetcim/IMG_20260130_120143.jpg"> 
+FOO-->
 
-### 2026-12-07 | #79 | -/122
+### 2026-01-30 | #53 | 72/122
 
-GGG
+A lovely, sunny Friday with Rebecca.
 
 <img src="/img/jetcim/IMG_20260130_112041.jpg"> 
 
-### 2026-12-07 | #79 | -/122
+### 2026-01-29 | #64 | 71/122
 
-GGG
+A final lap for today with Jordi and Rebecca, 
 
 <img src="/img/jetcim/IMG_20260129_131128.jpg"> 
-FOO-->
+
 ### 2026-01-29 | #78 | 70/122
 
 A third run of the day with Jordi and Rebecca, and finally a new chairlift. 
