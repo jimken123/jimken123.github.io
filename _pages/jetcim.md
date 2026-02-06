@@ -96,7 +96,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: red;">75</mark>
 <mark style="background-color: green;">76</mark>
 <mark style="background-color: green;">77</mark>
-<mark style="background-color: red;">78</mark>
+<mark style="background-color: green;">78</mark>
 <mark style="background-color: green;">79</mark>
 <mark style="background-color: green;">80</mark>
 <mark style="background-color: green;">81</mark>
@@ -207,25 +207,24 @@ GGG
 GGG
 
 <img src="/img/jetcim/IMG_20260129_131128.jpg"> 
+FOO-->
+### 2026-01-29 | #78 | 70/122
 
-### 2026-12-07 | #79 | -/122
-
-GGG
+A third run of the day with Jordi and Rebecca, and finally a new chairlift. 
 
 <img src="/img/jetcim/IMG_20260129_125601.jpg"> 
 
-### 2026-12-07 | #79 | -/122
+### 2026-01-29 | #81 | -/122
 
-GGG
+We did a number of runs today with Jordi. Previously, we were on #81 on the final run of the 2023-2024 season.
 
 <img src="/img/jetcim/IMG_20260129_123323.jpg"> 
 
-### 2026-12-07 | #79 | -/122
+### 2026-01-29 | #86 | -/122
 
-GGG
+Skiing today with Jordi and Rebecca. First time skiing with Jordi, but the third time on the #86 chairlift.
 
 <img src="/img/jetcim/IMG_20260129_113810.jpg"> 
-FOO-->
 
 ### 2026-01-29 | #87 | 69/122
 
