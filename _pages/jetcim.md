@@ -80,7 +80,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: red;">59</mark>
 <mark style="background-color: red;">60</mark>
 <mark style="background-color: green;">61</mark>
-<mark style="background-color: red;">62</mark>
+<mark style="background-color: green;">62</mark>
 <mark style="background-color: green;">63</mark>
 <mark style="background-color: green;">64</mark>
 <mark style="background-color: green;">65</mark>
@@ -189,13 +189,14 @@ GGG
 GGG
 
 <img src="/img/jetcim/IMG_20260130_122117.jpg"> 
+FOO-->
 
-### 2026-12-07 | #79 | -/122
+### 2026-01-30 | #60 | 73/122
 
-GGG
+The sign on the #60 has taken a bashing. Here we are, myself and Rebecca.
 
 <img src="/img/jetcim/IMG_20260130_120143.jpg"> 
-FOO-->
+
 
 ### 2026-01-30 | #53 | 72/122
 
