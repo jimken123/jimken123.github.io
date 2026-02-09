@@ -144,19 +144,19 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 
 ## Jetcim 2025-2026 Season
 
-### 2026-12-07 | #116 | 77/122
+### 2026-02-07 | #116 | 77/122
 
 The same crew as the last two, but sitting in a different order.
 
 <img src="/img/jetcim/IMG_20260131_132325.jpg"> 
 
-### 2026-12-07 | #21 | -/122
+### 2026-02-07 | #21 | -/122
 
 Jim, Boí, Saoirse, and Rebecca (hiding back there somewhere).
 
 <img src="/img/jetcim/IMG_20260131_124937.jpg"> 
 
-### 2026-12-07 | #39 | 76/122
+### 2026-02-07 | #39 | 76/122
 
 A Saturday with Jim, Boí, Saoirse, and Rebecca. A new day, a new chairlift.
 
