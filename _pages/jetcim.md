@@ -67,7 +67,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: red;">46</mark>
 <mark style="background-color: red;">47</mark>
 <mark style="background-color: red;">48</mark>
-<mark style="background-color: red;">49</mark>
+<mark style="background-color: green;">49</mark>
 <mark style="background-color: green;">50</mark>
 <mark style="background-color: green;">51</mark>
 <mark style="background-color: green;">52</mark>
@@ -78,7 +78,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">57</mark>
 <mark style="background-color: red;">58</mark>
 <mark style="background-color: red;">59</mark>
-<mark style="background-color: red;">60</mark>
+<mark style="background-color: green;">60</mark>
 <mark style="background-color: green;">61</mark>
 <mark style="background-color: green;">62</mark>
 <mark style="background-color: green;">63</mark>
@@ -177,19 +177,19 @@ GGG
 GGG
 
 <img src="/img/jetcim/IMG_20260130_130318.jpg"> 
+FOO-->
 
-### 2026-12-07 | #79 | -/122
+### 2026-01-30 | #50 | -/122
 
-GGG
+A really busy day, lots of chairs, including this new one.
 
-<img src="/img/jetcim/IMG_20260130_124258.jpg"> 
+<img src="/img/jetcim/IMG_20260130_124258.jpg">
 
-### 2026-12-07 | #79 | -/122
+### 2026-01-30 | #49 | 74/122
 
-GGG
+Jim and Rebecca, average age. Another first chairlift.
 
 <img src="/img/jetcim/IMG_20260130_122117.jpg"> 
-FOO-->
 
 ### 2026-01-30 | #60 | 73/122
 
