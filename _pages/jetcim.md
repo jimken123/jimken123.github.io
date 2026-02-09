@@ -144,6 +144,30 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 
 ## Jetcim 2025-2026 Season
 
+### 2026-02-03 | #56 | -/122
+
+Coming up to the big #56. Old man and Rebecca. I was on this one before with Rayane and Roz.
+
+<img src="/img/jetcim/IMG_20260203_134431.jpg">
+
+### 2026-02-03 | #111 | -/122
+
+Rebecccca. All the 1s, 1, 1, 1. This was the halfway chair back in December.
+
+<img src="/img/jetcim/IMG_20260203_131519.jpg">
+
+### 2026-02-03 | #1 | -/122
+
+With Rebecca, once again we are #1!
+
+<img src="/img/jetcim/IMG_20260203_125631.jpg">
+
+### 2026-02-01 | #112 | -/122
+
+A single lap with Rebecca on a cold Sunday morning with all the kids at their classes.
+
+<img src="/img/jetcim/IMG_20260201_100630.jpg">
+
 ### 2026-01-31 | #116 | 77/122
 
 The same crew as the last two, but sitting in a different order.
