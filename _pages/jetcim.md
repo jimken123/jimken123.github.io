@@ -57,7 +57,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">36</mark>
 <mark style="background-color: red;">37</mark>
 <mark style="background-color: red;">38</mark>
-<mark style="background-color: red;">39</mark>
+<mark style="background-color: green;">39</mark>
 <mark style="background-color: green;">40</mark>
 <mark style="background-color: green;">41</mark>
 <mark style="background-color: red;">42</mark>
@@ -134,7 +134,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">113</mark>
 <mark style="background-color: green;">114</mark>
 <mark style="background-color: green;">115</mark>
-<mark style="background-color: red;">116</mark>
+<mark style="background-color: green;">116</mark>
 <mark style="background-color: red;">117</mark>
 <mark style="background-color: green;">118</mark>
 <mark style="background-color: red;">119</mark>
@@ -144,42 +144,31 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 
 ## Jetcim 2025-2026 Season
 
+### 2026-12-07 | #116 | 77/122
 
-<!--- FOO
-
-
-### 2026-12-07 | #79 | -/122
-
-GGG
+The same crew as the last two, but sitting in a different order.
 
 <img src="/img/jetcim/IMG_20260131_132325.jpg"> 
 
-### 2026-12-07 | #79 | -/122
+### 2026-12-07 | #21 | -/122
 
-GGG
+Jim, Boí, Saoirse, and Rebecca (hiding back there somewhere).
 
 <img src="/img/jetcim/IMG_20260131_124937.jpg"> 
 
-### 2026-12-07 | #79 | -/122
+### 2026-12-07 | #39 | 76/122
 
-GGG
+A Saturday with Jim, Boí, Saoirse, and Rebecca. A new day, a new chairlift.
 
 <img src="/img/jetcim/IMG_20260131_120721.jpg"> 
 
-### 2026-12-07 | #79 | -/122
+### 2026-01-30 | #71 | -/122
 
-GGG
-
-<img src="/img/jetcim/IMG_20260130_192231.jpg"> 
-
-### 2026-12-07 | #79 | -/122
-
-GGG
+The final chairlift of a very busy day - six chairlifts in total. You get a lot of skiing done when the kids are in school. This is the fourth time of #71.
 
 <img src="/img/jetcim/IMG_20260130_130318.jpg"> 
-FOO-->
 
-### 2026-01-30 | #50 | -/122
+### 2026-01-30 | #50 | 75/122
 
 A really busy day, lots of chairs, including this new one.
 
