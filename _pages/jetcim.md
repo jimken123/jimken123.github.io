@@ -33,7 +33,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: red;">12</mark>
 <mark style="background-color: red;">13</mark>
 <mark style="background-color: green;">14</mark>
-<mark style="background-color: red;">15</mark>
+<mark style="background-color: green;">15</mark>
 <mark style="background-color: green;">16</mark>
 <mark style="background-color: green;">17</mark>
 <mark style="background-color: red;">18</mark>
@@ -64,7 +64,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: red;">43</mark>
 <mark style="background-color: red;">44</mark>
 <mark style="background-color: red;">45</mark>
-<mark style="background-color: red;">46</mark>
+<mark style="background-color: green;">46</mark>
 <mark style="background-color: red;">47</mark>
 <mark style="background-color: red;">48</mark>
 <mark style="background-color: green;">49</mark>
@@ -118,7 +118,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: red;">97</mark>
 <mark style="background-color: red;">98</mark>
 <mark style="background-color: red;">99</mark>
-<mark style="background-color: red;">100</mark>
+<mark style="background-color: green;">100</mark>
 <mark style="background-color: green;">101</mark>
 <mark style="background-color: green;">102</mark>
 <mark style="background-color: green;">103</mark>
@@ -166,44 +166,36 @@ foo
 
 <img src="/img/jetcim/IMG_20260322_113515.jpg">
 
+-->
+### 2026-02-22 | #46 | 84/122
 
-### 2026-02-ff | #ff | -/122
-
-foo
+Sunny Sunday continues for Boí and Papa, still finding new chairlifts.
 
 <img src="/img/jetcim/IMG_20260322_101439.jpg">
 
+### 2026-02-22 | #15 | 83/122
 
-### 2026-02-ff | #ff | -/122
-
-foo
+The Sunday of the Betula competition, Papa and Boí cruising around the mountain, racking up another new chairlift.
 
 <img src="/img/jetcim/IMG_20260322_095206.jpg">
 
+### 2026-02-17 | #81 | -/122
 
-### 2026-02-ff | #ff | -/122
-
-foo
+Saoirse monkey, this time on #81 not sticking her tongue out.
 
 <img src="/img/jetcim/IMG_20260217_150136.jpg">
 
+### 2026-02-17 | #76 | -/122
 
-### 2026-02-ff | #ff | -/122
-
-foo
+A lot of laps this day, all together, except Riu and Rebecca. I've been on this one before separately with Rochey and Ash. 
 
 <img src="/img/jetcim/IMG_20260217_142115.jpg">
 
+### 2026-02-17 | #100 | 82/122
 
-### 2026-02-ff | #ff | -/122
-
-foo
+Saoirse, Boí, and Pau with Papa, clocking up another new chairlift. This is the two-thirds point of the Jetcim project.
 
 <img src="/img/jetcim/IMG_20260217_124735.jpg">
-
-foobar
-
--->
 
 ### 2026-02-17 | #73 | 81/122
 
