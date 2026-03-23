@@ -219,7 +219,7 @@ Donnacha is back in town for a week, but we only did one day of skiing. #68 for 
 
 ### 2026-02-10 | #69 | 78/122
 
-Another new one. Yay!
+Another new one. Yay! This is the last chairlift with Rebecca until next season, after her collar bone injury. Sadface.
 
 <img src="/img/jetcim/IMG_20260210_123720.jpg">
 
@@ -231,7 +231,7 @@ One of those random no-school days with the boys. I've been on this one twice be
 
 ### 2026-02-03 | #56 | -/122
 
-Coming up to the big #56. Old man and Rebecca. I was on this one before with Rayane and Roz. This is the last chairlift with Rebecca until next season, after her collar bone injury. Sadface.
+Coming up to the big #56. Old man and Rebecca. I was on this one before with Rayane and Roz.
 
 <img src="/img/jetcim/IMG_20260203_134431.jpg">
 
