@@ -76,7 +76,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">55</mark>
 <mark style="background-color: green;">56</mark>
 <mark style="background-color: green;">57</mark>
-<mark style="background-color: red;">58</mark>
+<mark style="background-color: green;">58</mark>
 <mark style="background-color: red;">59</mark>
 <mark style="background-color: green;">60</mark>
 <mark style="background-color: green;">61</mark>
