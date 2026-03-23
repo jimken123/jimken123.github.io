@@ -240,7 +240,7 @@ Another new one. Yay!
 
 One of those random no-school days with the boys. I've been on this one twice before, once with an icy beard and once wearing Rebecca's helmet.
 
-<img src="/img/jetcim/IMG_20260210_114850.jpg)">
+<img src="/img/jetcim/IMG_20260210_114850.jpg">
 
 ### 2026-02-03 | #56 | -/122
 
