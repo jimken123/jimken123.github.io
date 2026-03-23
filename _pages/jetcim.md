@@ -24,7 +24,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: red;">3</mark>
 <mark style="background-color: green;">4</mark>
 <mark style="background-color: red;">5</mark>
-<mark style="background-color: red;">6</mark>
+<mark style="background-color: green;">6</mark>
 <mark style="background-color: green;">7</mark>
 <mark style="background-color: green;">8</mark>
 <mark style="background-color: green;">9</mark>
@@ -86,12 +86,12 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">65</mark>
 <mark style="background-color: green;">66</mark>
 <mark style="background-color: green;">67</mark>
-<mark style="background-color: red;">68</mark>
-<mark style="background-color: red;">69</mark>
+<mark style="background-color: green;">68</mark>
+<mark style="background-color: green;">69</mark>
 <mark style="background-color: red;">70</mark>
 <mark style="background-color: green;">71</mark>
 <mark style="background-color: green;">72</mark>
-<mark style="background-color: red;">73</mark>
+<mark style="background-color: green;">73</mark>
 <mark style="background-color: green;">74</mark>
 <mark style="background-color: red;">75</mark>
 <mark style="background-color: green;">76</mark>
@@ -143,6 +143,104 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">122</mark>
 
 ## Jetcim 2025-2026 Season
+<!--
+foobar
+
+### 2026-02-ff | #ff | -/122
+
+foo
+
+<img src="/img/jetcim/IMG_20260322_123352.jpg">
+
+
+### 2026-02-ff | #ff | -/122
+
+foo
+
+<img src="/img/jetcim/IMG_20260322_115552.jpg">
+
+
+### 2026-02-ff | #ff | -/122
+
+foo
+
+<img src="/img/jetcim/IMG_20260322_113515.jpg">
+
+
+### 2026-02-ff | #ff | -/122
+
+foo
+
+<img src="/img/jetcim/IMG_20260322_101439.jpg">
+
+
+### 2026-02-ff | #ff | -/122
+
+foo
+
+<img src="/img/jetcim/IMG_20260322_095206.jpg">
+
+
+### 2026-02-ff | #ff | -/122
+
+foo
+
+<img src="/img/jetcim/IMG_20260217_150136.jpg">
+
+
+### 2026-02-ff | #ff | -/122
+
+foo
+
+<img src="/img/jetcim/IMG_20260217_142115.jpg">
+
+
+### 2026-02-ff | #ff | -/122
+
+foo
+
+<img src="/img/jetcim/IMG_20260217_124735.jpg">
+
+foobar
+
+-->
+
+### 2026-02-17 | #73 | 81/122
+
+Another day off school for Saoirse and Boí, another new chairlift.
+
+<img src="/img/jetcim/IMG_20260217_113841.jpg">
+
+
+### 2026-02-15 | #50 | -/122
+
+A post-ski-class lap with Boí of a Sunday in February.
+
+<img src="/img/jetcim/IMG_20260215_133720.jpg">
+
+### 2026-02-15 | #6 | 80/122
+
+Another Donnacha lap, another new chairlift.
+
+<img src="/img/jetcim/IMG_20260215_121959.jpg">
+
+### 2026-02-15 | #68 | 79/122
+
+Donnacha is back in town for a week, but we only did one day of skiing. #68 for the first time.
+
+<img src="/img/jetcim/IMG_20260215_114655.jpg">
+
+### 2026-02-10 | #69 | 78/122
+
+Another new one. Yay!
+
+<img src="/img/jetcim/IMG_20260210_123720.jpg">
+
+### 2026-02-10 | #110 | -/122
+
+One of those random no-school days with the boys. I've been on this one twice before, once with an icy beard and once wearing Rebecca's helmet.
+
+<img src="/img/jetcim/IMG_20260210_114850.jpg)">
 
 ### 2026-02-03 | #56 | -/122
 
