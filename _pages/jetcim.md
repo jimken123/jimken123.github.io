@@ -143,39 +143,34 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">122</mark>
 
 ## Jetcim 2025-2026 Season
-<!--
-foobar
 
-### 2026-02-ff | #ff | -/122
+### 2026-03-22 | #68 | -/122
 
-foo
+Boí and Papa, after we picked up Rayane after his class, did one more lap.
 
 <img src="/img/jetcim/IMG_20260322_123352.jpg">
 
+### 2026-03-22 | #58 | 85/122
 
-### 2026-02-ff | #ff | -/122
-
-foo
+Boí and Papa were doing laps of the boardercross and the snow park all day.
 
 <img src="/img/jetcim/IMG_20260322_115552.jpg">
 
+### 2026-03-22 | #55 | -/122
 
-### 2026-02-ff | #ff | -/122
-
-foo
+Boí and Papa's estupendously sunny Sunday continues. Boí was skiing without a jacket.
 
 <img src="/img/jetcim/IMG_20260322_113515.jpg">
 
--->
-### 2026-02-22 | #46 | 84/122
+### 2026-03-22 | #46 | 84/122
 
 Sunny Sunday continues for Boí and Papa, still finding new chairlifts.
 
 <img src="/img/jetcim/IMG_20260322_101439.jpg">
 
-### 2026-02-22 | #15 | 83/122
+### 2026-03-22 | #15 | 83/122
 
-The Sunday of the Betula competition, Papa and Boí cruising around the mountain, racking up another new chairlift.
+Sunny Sunday sees Papa and Boí cruising around the mountain, racking up another new chairlift.
 
 <img src="/img/jetcim/IMG_20260322_095206.jpg">
 
@@ -236,7 +231,7 @@ One of those random no-school days with the boys. I've been on this one twice be
 
 ### 2026-02-03 | #56 | -/122
 
-Coming up to the big #56. Old man and Rebecca. I was on this one before with Rayane and Roz.
+Coming up to the big #56. Old man and Rebecca. I was on this one before with Rayane and Roz. This is the last chairlift with Rebecca until next season, after her collar bone injury. Sadface.
 
 <img src="/img/jetcim/IMG_20260203_134431.jpg">
 
