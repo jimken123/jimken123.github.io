@@ -42,7 +42,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">21</mark>
 <mark style="background-color: green;">22</mark>
 <mark style="background-color: green;">23</mark>
-<mark style="background-color: red;">24</mark>
+<mark style="background-color: green;">24</mark>
 <mark style="background-color: red;">25</mark>
 <mark style="background-color: green;">26</mark>
 <mark style="background-color: green;">27</mark>
