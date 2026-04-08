@@ -146,7 +146,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 
 ### 2026-04-04 | #26 | -/122
 
-Two years ago I was on this one for Saint Patrick's Day with Finchi and family. Today it's the last chairlift of the 2025-2026 season, with Boí, Sairse, Papa, and Pau. See you all next season, when we have 35 new chairlift to find!
+Two years ago I was on this one for Saint Patrick's Day with Finchi and family. Today it's the last chairlift of the 2025-2026 season, with Boí, Saoirse, Papa, and Pau. See you all next season, when we have 35 new chairlifts to find!
 
 <img src="/img/jetcim/IMG_20260404_114357.jpg">
 
