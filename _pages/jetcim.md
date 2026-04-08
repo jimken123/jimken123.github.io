@@ -23,7 +23,7 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 <mark style="background-color: green;">2</mark>
 <mark style="background-color: red;">3</mark>
 <mark style="background-color: green;">4</mark>
-<mark style="background-color: red;">5</mark>
+<mark style="background-color: green;">5</mark>
 <mark style="background-color: green;">6</mark>
 <mark style="background-color: green;">7</mark>
 <mark style="background-color: green;">8</mark>
@@ -144,6 +144,24 @@ Here's a diagrammatical representation of how's it's going, I've been on the one
 
 ## Jetcim 2025-2026 Season
 
+### 2026-04-04 | #26 | -/122
+
+Two years ago I was on this one for Saint Patrick's Day with Finchi and family. Today it's the last chairlift of the 2025-2026 season, with Boí, Sairse, Papa, and Pau. See you all next season, when we have 35 new chairlift to find!
+
+<img src="/img/jetcim/IMG_20260404_114357.jpg">
+
+### 2026-03-28 | #110 | -/122
+
+The fourth time on this chairlift.
+
+<img src="/img/jetcim/IMG_20260328_112703.jpg">
+
+### 2026-03-28 | #5 | 86/122
+
+A cold solo lap for Papa, as the season comes to an end. First time on #5 chairlift, and it's to be the last new chairlift of the 2025-2026 season.
+
+<img src="/img/jetcim/IMG_20260328_111121.jpg">
+
 ### 2026-03-22 | #68 | -/122
 
 Boí and Papa, after we picked up Rayane after his class, did one more lap.
@@ -182,7 +200,7 @@ Saoirse monkey, this time on #81 not sticking her tongue out.
 
 ### 2026-02-17 | #76 | -/122
 
-A lot of laps this day, all together, except Riu and Rebecca. I've been on this one before separately with Rochey and Ash. 
+A lot of laps this day, all together, except Riu and Rebecca. I've been on this one before separately with Rochey and Ash.
 
 <img src="/img/jetcim/IMG_20260217_142115.jpg">
 
