@@ -18,6 +18,12 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime.
 
+#### A Long Petal of the Sea - Isabel Allende
+
+This book came to me in a very old-school way - in the post, with a handwritten letter! A friend had visited us in the mountains and I had given my little talks about the area, which tend a lot towards the stories I know of the Spanish civil war and the republicans who fled into exile up our valley and across the peaks to France in early 1939. Allende's book is all about lives lived in exile in France, Chile, and Venezuela, and it begins with a Catalan family in the evacuation from Barcelona.
+
+<img src="/img/tsundoku/allende-petal.jpg" width="300">
+
 #### Inventing the Renaissance - Ada Palmer
 
 I read this in fits and starts, not because it's difficult or anything, but that it's very chunky. 
