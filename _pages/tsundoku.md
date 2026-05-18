@@ -18,14 +18,14 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime.
 
-<!---
 #### Inventing the Renaissance - Ada Palmer
 
-// I read this in fits and starts, not because it's difficult or anything g, but that it's very chunky. <mastodon screengrab> It's quite the wild ride, plati g with the idea of the Renaissance itself, that the 'period of history known a s the Renaissance is so baggy sny easily redefined, thet you can write and read into it whatever shade if history you want. it's told in an informal way?, with, for example, major character sharing g a name habi g jocular nicknames to distinguish them one from the other. The author is also on mastodon where she is h9gely entertaining g?, with random little threads on various aspects of all that era of history.  check out her thread on the construction and politics of tbe vasari corridor slicing through the skyliwn of medieval Florence.
+I read this in fits and starts, not because it's difficult or anything, but that it's very chunky. 
 
-// <img src="/img/tsundoku/inventing-the-renaissance.jpg" width="300">
--->
- 
+It's quite the wild ride, playing with the idea of the Renaissance itself, that the 'period of history known as the Renaissance' is so baggy and easily redefined, that you can write and read into it whatever shade of history you want. It's told in an informal way, with, for example, major characterS who share a common name being given jocular nicknames to distinguish them one from the other (The Battle Pope, and so on). The author is also on mastodon where she is hugely entertaining, with random little threads on various aspects of all that era of history. Check out her thread on the [construction and politics of tbe Vasari corridor](https://wandering.shop/@adapalmer/113862590047862952) slicing through the skyline of medieval Florence.
+
+<img src="/img/tsundoku/inventing-the-renaissance.jpg" width="300">
+
 #### Drystone A Life Rebuilt - Kristie De Garis
 
 A memoir of a Scottish woman surviving family, racism, and misogyny in its various guises, to find a peace through building and restoring drystone walls. Very powerful, and not easy to read.  
