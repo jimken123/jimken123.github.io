@@ -14,7 +14,7 @@ These are the things I'm working on, or updating as I go.
 
 [/jetcim](/jetcim) - one by one I'm sitting on all the chairlifts.
 
-[/ohpiglet](https://ohpiglet.github.io/ohpiglet/) - fourteen years and counting of blogging about the children.
+[/ohpiglet](https://ohpiglet.mananamanana.com/) - fourteen years and counting of blogging about the children.
 
 [/tsundoku](/tsundoku) - what I'm reading and my ever-growing pile of unread books.
 
