@@ -18,6 +18,65 @@ I'm choosing to use the more optimistic interpretation of "books are good, there
 
 This is what I'm reading at the moment, have piled up to read in the future, or have read in the recent past. I started tracking my books in 2024 sometime.
 
+#### Disgrace - J.M. Coetzee
+
+It's been a while since I raced through a book in two days, but this is a gripping read. J.M. Coetzee's Disgrace, the Booker Prize winner from 1999, has been knocking around my house for several years now. I don't know why I was afraid to pick it up. I like that the edition I have is the classic one with the skinny dog photo on the cover.
+
+<img src="/img/tsundoku/disgracebalcony.jpg" width="300">
+
+<!-- 
+
+#### Plaça Diamant - Merce Rodoreda
+
+![alt text](diamond-square.jpg) 
+
+<img src="/img/tsundoku/allende-petal.jpg" width="300">
+
+ -->
+#### Bitter Lemons of Cyprus - Lawrence Durrell
+
+I got back from holidays in Cyprus early this morning and just now finished reading Bitter Lemons of Cyprus, which outlines the author's years there in the 1950s. Published in 1957, it gives a lot of background to the complicated political landscape of Cyprus, particularly in regard to the war there in 1974 and the continuing partition. 
+
+Has anyone read it? Any recommendations on anything else on the topic? Brb, jumping down a wiki rabbit hole.
+
+<img src="/img/tsundoku/bitterlemonsbalcony.jpg" width="300">
+
+<!-- 
+
+#### Antartica - Claire Keegan
+![alt text](antarctica.jpg)
+
+<img src="/img/tsundoku/allende-petal.jpg" width="300">
+
+#### So Late in the Day - Claire Keegan
+![alt text](solateintheday.jpg) 
+
+<img src="/img/tsundoku/allende-petal.jpg" width="300">
+
+#### Foster - Claire Keegan
+![alt text](keeganfoster.jpg)
+
+<img src="/img/tsundoku/allende-petal.jpg" width="300">
+
+#### The Forester's Daughter - Claire Keegan   
+![alt text](forester.jpg) 
+
+<img src="/img/tsundoku/allende-petal.jpg" width="300">
+
+#### One Day, Everyone Will Have Always Been Against This - Omar El Akkad
+
+![alt text](oneday.jpg)
+
+<img src="/img/tsundoku/allende-petal.jpg" width="300">
+
+#### Invisible Cities - Italo Calvino
+
+Pen pictures of fantastical cities, as imagined by Marco Polo and told to the emperor. All of them based on Calvino's native Venice.  
+
+<img src="/img/tsundoku/InvisibleCities.jpg" width="300">
+
+ -->
+
 #### A Long Petal of the Sea - Isabel Allende
 
 This book came to me in a very old-school way - in the post, with a handwritten letter! A friend had visited us in the mountains and I had given my little talks about the area, which tend a lot towards the stories I know of the Spanish civil war and the republicans who fled into exile up our valley and across the peaks to France in early 1939. Allende's book is all about lives lived in exile in France, Chile, and Venezuela, and it begins with a Catalan family in the evacuation from Barcelona.
