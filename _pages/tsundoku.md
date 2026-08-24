@@ -68,14 +68,12 @@ Has anyone read it? Any recommendations on anything else on the topic? Brb, jump
 ![alt text](oneday.jpg)
 
 <img src="/img/tsundoku/allende-petal.jpg" width="300">
-
+ -->
 #### Invisible Cities - Italo Calvino
 
 Pen pictures of fantastical cities, as imagined by Marco Polo and told to the emperor. All of them based on Calvino's native Venice.  
 
 <img src="/img/tsundoku/InvisibleCities.jpg" width="300">
-
- -->
 
 #### A Long Petal of the Sea - Isabel Allende
 
