@@ -25,14 +25,13 @@ It's been a while since I raced through a book in two days, but this is a grippi
 <img src="/img/tsundoku/disgracebalcony.jpg" width="300">
 
 <!-- 
-
+ -->
 #### Plaça Diamant - Merce Rodoreda
 
-![alt text](diamond-square.jpg) 
+The classic novel of Catalan literature, named for a square in the Villa de Gràcia neighbourhood where we used to live in Barcelona. This was the first book I tried to read in the original Catalan a long time ago and my level of the language wasn't up to it. It seems it still isn't - I had to read it in English in the end. Too much was being lost in glossing over the nuances.
 
-<img src="/img/tsundoku/allende-petal.jpg" width="300">
+<img src="/img/tsundoku/diamond-square.jpg" width="300">
 
- -->
 #### Bitter Lemons of Cyprus - Lawrence Durrell
 
 I got back from holidays in Cyprus early this morning and just now finished reading Bitter Lemons of Cyprus, which outlines the author's years there in the 1950s. Published in 1957, it gives a lot of background to the complicated political landscape of Cyprus, particularly in regard to the war there in 1974 and the continuing partition. 
