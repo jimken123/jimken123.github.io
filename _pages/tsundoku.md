@@ -61,13 +61,18 @@ Has anyone read it? Any recommendations on anything else on the topic? Brb, jump
 ![alt text](forester.jpg) 
 
 <img src="/img/tsundoku/allende-petal.jpg" width="300">
+ -->
 
 #### One Day, Everyone Will Have Always Been Against This - Omar El Akkad
 
-![alt text](oneday.jpg)
+An excoriation of the western world and the hypocritical distance between what it says about freedom and values and what it does - the imperialism and the excusing of genocide. 
 
-<img src="/img/tsundoku/allende-petal.jpg" width="300">
- -->
+THe expanded title, from a tweet, reads:
+
+"One day, when it's safe, when there's no personal downside to calling a thing what it is, when it's too late to hold anyone accountable, everyone will have always been against this."
+
+<img src="/img/tsundoku/oneday.jpg" width="300">
+
 #### Invisible Cities - Italo Calvino
 
 Pen pictures of fantastical cities, as imagined by Marco Polo and told to the emperor. All of them based on Calvino's native Venice.  
