@@ -56,7 +56,7 @@ Antarctica, So Late in the Day, Foster, The Forester's Daughter.
 
 An excoriation of the western world and the hypocritical distance between what it says about freedom and values and what it does - the imperialism and the excusing of genocide. 
 
-THe expanded title, from a tweet, reads:
+The expanded title, from a tweet, reads:
 
 "One day, when it's safe, when there's no personal downside to calling a thing what it is, when it's too late to hold anyone accountable, everyone will have always been against this."
 
