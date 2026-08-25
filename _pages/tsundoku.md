@@ -24,8 +24,6 @@ It's been a while since I raced through a book in two days, but this is a grippi
 
 <img src="/img/tsundoku/disgracebalcony.jpg" width="300">
 
-<!-- 
- -->
 #### Plaça Diamant - Merce Rodoreda
 
 The classic novel of Catalan literature, named for a square in the Villa de Gràcia neighbourhood where we used to live in Barcelona. This was the first book I tried to read in the original Catalan a long time ago and my level of the language wasn't up to it. It seems it still isn't - I had to read it in English in the end. Too much was being lost in glossing over the nuances.
@@ -40,28 +38,19 @@ Has anyone read it? Any recommendations on anything else on the topic? Brb, jump
 
 <img src="/img/tsundoku/bitterlemonsbalcony.jpg" width="300">
 
-<!-- 
+#### A lot of Claire Keegan
 
-#### Antartica - Claire Keegan
-![alt text](antarctica.jpg)
+This summer I went through a stack of Claire Keegan books.
 
-<img src="/img/tsundoku/allende-petal.jpg" width="300">
+Antarctica, So Late in the Day, Foster, The Forester's Daughter.
 
-#### So Late in the Day - Claire Keegan
-![alt text](solateintheday.jpg) 
+<img src="/img/tsundoku/antarctica.jpg " width="300">
 
-<img src="/img/tsundoku/allende-petal.jpg" width="300">
+<img src="/img/tsundoku/solateintheday.jpg" width="300">
 
-#### Foster - Claire Keegan
-![alt text](keeganfoster.jpg)
+<img src="/img/tsundoku/keeganfoster.jpg" width="300">
 
-<img src="/img/tsundoku/allende-petal.jpg" width="300">
-
-#### The Forester's Daughter - Claire Keegan   
-![alt text](forester.jpg) 
-
-<img src="/img/tsundoku/allende-petal.jpg" width="300">
- -->
+<img src="/img/tsundoku/forester.jpg" width="300">
 
 #### One Day, Everyone Will Have Always Been Against This - Omar El Akkad
 
